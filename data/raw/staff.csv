@@ -1,0 +1,2001 @@
+staff_id,department,role,shifts_assigned,shifts_worked,staff_efficiency
+S00001,Cardiology,Technician,19,18,94.74
+S00002,Orthopedics,Nurse,29,21,72.41
+S00003,Neurology,Support Staff,26,18,69.23
+S00004,Pediatrics,Administrator,21,18,85.71
+S00005,Oncology,Doctor,20,15,75.0
+S00006,Emergency,Administrator,23,19,82.61
+S00007,Emergency,Administrator,21,16,76.19
+S00008,Emergency,Support Staff,17,16,94.12
+S00009,Pediatrics,Administrator,25,18,72.0
+S00010,Pediatrics,Administrator,25,25,100.0
+S00011,Oncology,Support Staff,26,19,73.08
+S00012,Dermatology,Support Staff,19,17,89.47
+S00013,Dermatology,Technician,23,22,95.65
+S00014,Dermatology,Administrator,25,17,68.0
+S00015,Orthopedics,Nurse,27,18,66.67
+S00016,Emergency,Doctor,29,21,72.41
+S00017,Cardiology,Doctor,24,19,79.17
+S00018,Orthopedics,Support Staff,28,22,78.57
+S00019,Emergency,Support Staff,16,15,93.75
+S00020,Pediatrics,Technician,15,14,93.33
+S00021,Pediatrics,Administrator,25,17,68.0
+S00022,Pediatrics,Support Staff,22,18,81.82
+S00023,Emergency,Support Staff,22,21,95.45
+S00024,Dermatology,Doctor,16,12,75.0
+S00025,Pediatrics,Administrator,28,26,92.86
+S00026,Neurology,Technician,27,27,100.0
+S00027,Pediatrics,Support Staff,22,19,86.36
+S00028,Oncology,Support Staff,19,19,100.0
+S00029,Oncology,Support Staff,16,11,68.75
+S00030,Emergency,Doctor,21,16,76.19
+S00031,Dermatology,Support Staff,21,20,95.24
+S00032,Orthopedics,Support Staff,17,13,76.47
+S00033,Pediatrics,Doctor,28,23,82.14
+S00034,Dermatology,Support Staff,15,11,73.33
+S00035,Dermatology,Administrator,25,20,80.0
+S00036,General Medicine,Administrator,18,18,100.0
+S00037,Neurology,Doctor,16,13,81.25
+S00038,Oncology,Administrator,18,12,66.67
+S00039,Emergency,Technician,22,16,72.73
+S00040,Pediatrics,Support Staff,16,14,87.5
+S00041,General Medicine,Technician,15,10,66.67
+S00042,Emergency,Administrator,25,22,88.0
+S00043,Orthopedics,Doctor,28,24,85.71
+S00044,Neurology,Doctor,29,29,100.0
+S00045,Dermatology,Technician,29,24,82.76
+S00046,Pediatrics,Administrator,17,17,100.0
+S00047,Orthopedics,Support Staff,24,16,66.67
+S00048,Emergency,Administrator,21,21,100.0
+S00049,General Medicine,Administrator,27,26,96.3
+S00050,Emergency,Doctor,26,19,73.08
+S00051,Oncology,Nurse,20,17,85.0
+S00052,Emergency,Support Staff,20,14,70.0
+S00053,Neurology,Support Staff,21,18,85.71
+S00054,Pediatrics,Doctor,22,20,90.91
+S00055,Orthopedics,Administrator,17,15,88.24
+S00056,Neurology,Doctor,17,12,70.59
+S00057,General Medicine,Administrator,24,17,70.83
+S00058,Dermatology,Nurse,27,18,66.67
+S00059,Pediatrics,Nurse,22,18,81.82
+S00060,Dermatology,Technician,26,22,84.62
+S00061,Neurology,Administrator,27,19,70.37
+S00062,General Medicine,Doctor,28,22,78.57
+S00063,General Medicine,Doctor,27,19,70.37
+S00064,Orthopedics,Doctor,21,20,95.24
+S00065,Oncology,Technician,24,20,83.33
+S00066,Emergency,Support Staff,19,16,84.21
+S00067,General Medicine,Doctor,18,17,94.44
+S00068,Oncology,Nurse,20,20,100.0
+S00069,General Medicine,Doctor,23,21,91.3
+S00070,Emergency,Doctor,20,15,75.0
+S00071,Cardiology,Doctor,22,20,90.91
+S00072,General Medicine,Support Staff,15,12,80.0
+S00073,Pediatrics,Doctor,26,21,80.77
+S00074,Dermatology,Support Staff,28,23,82.14
+S00075,Dermatology,Support Staff,20,19,95.0
+S00076,Neurology,Technician,28,20,71.43
+S00077,Emergency,Nurse,28,28,100.0
+S00078,Emergency,Doctor,16,16,100.0
+S00079,Emergency,Doctor,17,12,70.59
+S00080,Pediatrics,Doctor,20,18,90.0
+S00081,Emergency,Support Staff,16,16,100.0
+S00082,Pediatrics,Administrator,18,13,72.22
+S00083,Oncology,Nurse,20,15,75.0
+S00084,Oncology,Doctor,19,16,84.21
+S00085,Dermatology,Administrator,20,17,85.0
+S00086,Orthopedics,Administrator,29,24,82.76
+S00087,Cardiology,Administrator,20,19,95.0
+S00088,Emergency,Nurse,22,18,81.82
+S00089,Dermatology,Administrator,23,21,91.3
+S00090,Cardiology,Doctor,19,19,100.0
+S00091,Dermatology,Doctor,20,20,100.0
+S00092,Emergency,Technician,20,20,100.0
+S00093,Pediatrics,Support Staff,20,14,70.0
+S00094,Dermatology,Administrator,16,12,75.0
+S00095,Neurology,Support Staff,18,18,100.0
+S00096,Cardiology,Support Staff,15,10,66.67
+S00097,Cardiology,Support Staff,28,24,85.71
+S00098,Pediatrics,Support Staff,26,24,92.31
+S00099,Oncology,Support Staff,15,12,80.0
+S00100,Cardiology,Doctor,15,10,66.67
+S00101,Orthopedics,Nurse,21,17,80.95
+S00102,Pediatrics,Administrator,15,14,93.33
+S00103,Cardiology,Administrator,20,19,95.0
+S00104,Cardiology,Doctor,16,13,81.25
+S00105,Cardiology,Doctor,20,15,75.0
+S00106,Pediatrics,Support Staff,20,19,95.0
+S00107,Oncology,Nurse,26,25,96.15
+S00108,Neurology,Administrator,25,23,92.0
+S00109,General Medicine,Technician,17,16,94.12
+S00110,Dermatology,Doctor,29,27,93.1
+S00111,Emergency,Technician,22,17,77.27
+S00112,Dermatology,Administrator,25,21,84.0
+S00113,Cardiology,Doctor,18,13,72.22
+S00114,Dermatology,Administrator,27,21,77.78
+S00115,General Medicine,Doctor,21,18,85.71
+S00116,General Medicine,Administrator,18,17,94.44
+S00117,Cardiology,Technician,15,14,93.33
+S00118,Cardiology,Nurse,20,17,85.0
+S00119,Emergency,Doctor,19,17,89.47
+S00120,Oncology,Technician,23,22,95.65
+S00121,General Medicine,Administrator,29,25,86.21
+S00122,Neurology,Technician,28,22,78.57
+S00123,General Medicine,Doctor,28,21,75.0
+S00124,Neurology,Technician,29,28,96.55
+S00125,Oncology,Administrator,23,23,100.0
+S00126,Dermatology,Support Staff,26,19,73.08
+S00127,Orthopedics,Nurse,25,17,68.0
+S00128,Neurology,Nurse,27,19,70.37
+S00129,Emergency,Support Staff,22,17,77.27
+S00130,Pediatrics,Doctor,29,22,75.86
+S00131,Oncology,Technician,21,20,95.24
+S00132,Dermatology,Technician,28,28,100.0
+S00133,Cardiology,Support Staff,16,11,68.75
+S00134,Oncology,Support Staff,28,25,89.29
+S00135,Orthopedics,Administrator,22,21,95.45
+S00136,General Medicine,Administrator,17,15,88.24
+S00137,Neurology,Nurse,20,17,85.0
+S00138,Orthopedics,Doctor,24,24,100.0
+S00139,Dermatology,Doctor,21,18,85.71
+S00140,Pediatrics,Support Staff,26,26,100.0
+S00141,Oncology,Nurse,20,20,100.0
+S00142,Neurology,Nurse,19,13,68.42
+S00143,Emergency,Administrator,18,17,94.44
+S00144,General Medicine,Technician,16,16,100.0
+S00145,General Medicine,Doctor,23,17,73.91
+S00146,Neurology,Nurse,28,27,96.43
+S00147,Oncology,Administrator,21,18,85.71
+S00148,Pediatrics,Administrator,21,19,90.48
+S00149,Oncology,Administrator,18,12,66.67
+S00150,Cardiology,Technician,28,23,82.14
+S00151,Cardiology,Nurse,19,16,84.21
+S00152,General Medicine,Support Staff,20,15,75.0
+S00153,Dermatology,Support Staff,26,25,96.15
+S00154,Dermatology,Administrator,25,17,68.0
+S00155,Pediatrics,Administrator,26,22,84.62
+S00156,General Medicine,Technician,16,15,93.75
+S00157,Cardiology,Administrator,18,18,100.0
+S00158,General Medicine,Nurse,29,22,75.86
+S00159,Oncology,Administrator,27,26,96.3
+S00160,Neurology,Administrator,18,12,66.67
+S00161,Dermatology,Nurse,26,22,84.62
+S00162,Dermatology,Doctor,27,26,96.3
+S00163,Emergency,Support Staff,18,16,88.89
+S00164,Neurology,Administrator,21,17,80.95
+S00165,Emergency,Nurse,27,20,74.07
+S00166,Pediatrics,Support Staff,21,19,90.48
+S00167,Cardiology,Technician,21,16,76.19
+S00168,Pediatrics,Doctor,21,14,66.67
+S00169,Pediatrics,Administrator,16,15,93.75
+S00170,Cardiology,Doctor,19,15,78.95
+S00171,Orthopedics,Administrator,24,23,95.83
+S00172,Orthopedics,Administrator,16,11,68.75
+S00173,General Medicine,Administrator,19,13,68.42
+S00174,Orthopedics,Doctor,26,23,88.46
+S00175,Neurology,Technician,20,20,100.0
+S00176,Dermatology,Nurse,17,17,100.0
+S00177,Emergency,Nurse,20,16,80.0
+S00178,Dermatology,Technician,29,23,79.31
+S00179,Pediatrics,Technician,19,13,68.42
+S00180,Dermatology,Administrator,18,13,72.22
+S00181,General Medicine,Administrator,24,17,70.83
+S00182,Pediatrics,Nurse,23,17,73.91
+S00183,Cardiology,Administrator,25,24,96.0
+S00184,Oncology,Administrator,28,20,71.43
+S00185,Dermatology,Technician,22,17,77.27
+S00186,Orthopedics,Doctor,26,20,76.92
+S00187,Oncology,Support Staff,21,21,100.0
+S00188,Cardiology,Support Staff,25,25,100.0
+S00189,General Medicine,Administrator,29,22,75.86
+S00190,Emergency,Administrator,15,12,80.0
+S00191,Neurology,Support Staff,23,22,95.65
+S00192,Orthopedics,Technician,23,19,82.61
+S00193,Cardiology,Support Staff,20,18,90.0
+S00194,Emergency,Support Staff,21,17,80.95
+S00195,Oncology,Support Staff,27,22,81.48
+S00196,Dermatology,Administrator,17,14,82.35
+S00197,Orthopedics,Administrator,19,18,94.74
+S00198,Pediatrics,Support Staff,21,19,90.48
+S00199,Neurology,Administrator,15,13,86.67
+S00200,Dermatology,Support Staff,26,26,100.0
+S00201,Oncology,Technician,15,13,86.67
+S00202,Emergency,Administrator,19,13,68.42
+S00203,Orthopedics,Doctor,23,19,82.61
+S00204,Dermatology,Administrator,21,17,80.95
+S00205,Neurology,Technician,15,10,66.67
+S00206,Emergency,Technician,27,23,85.19
+S00207,Pediatrics,Administrator,27,18,66.67
+S00208,Oncology,Nurse,29,29,100.0
+S00209,Pediatrics,Support Staff,26,26,100.0
+S00210,Cardiology,Support Staff,19,14,73.68
+S00211,Oncology,Technician,29,29,100.0
+S00212,General Medicine,Administrator,22,18,81.82
+S00213,Cardiology,Nurse,22,15,68.18
+S00214,Neurology,Doctor,26,19,73.08
+S00215,Oncology,Support Staff,16,16,100.0
+S00216,Cardiology,Nurse,21,14,66.67
+S00217,Emergency,Support Staff,24,19,79.17
+S00218,Orthopedics,Administrator,19,13,68.42
+S00219,Emergency,Support Staff,23,16,69.57
+S00220,Cardiology,Doctor,17,17,100.0
+S00221,General Medicine,Administrator,15,12,80.0
+S00222,Emergency,Technician,27,19,70.37
+S00223,Emergency,Nurse,18,16,88.89
+S00224,Emergency,Support Staff,21,17,80.95
+S00225,General Medicine,Administrator,15,12,80.0
+S00226,Oncology,Administrator,16,16,100.0
+S00227,Emergency,Support Staff,28,26,92.86
+S00228,Neurology,Technician,19,14,73.68
+S00229,Pediatrics,Support Staff,23,18,78.26
+S00230,General Medicine,Technician,28,28,100.0
+S00231,Neurology,Support Staff,15,14,93.33
+S00232,General Medicine,Administrator,26,25,96.15
+S00233,General Medicine,Doctor,18,13,72.22
+S00234,Oncology,Doctor,26,25,96.15
+S00235,Pediatrics,Administrator,28,25,89.29
+S00236,Orthopedics,Doctor,17,12,70.59
+S00237,Oncology,Technician,28,20,71.43
+S00238,Oncology,Administrator,19,13,68.42
+S00239,Neurology,Technician,19,18,94.74
+S00240,General Medicine,Administrator,24,22,91.67
+S00241,Dermatology,Technician,16,13,81.25
+S00242,General Medicine,Technician,19,16,84.21
+S00243,Cardiology,Doctor,23,22,95.65
+S00244,Emergency,Administrator,19,16,84.21
+S00245,Orthopedics,Support Staff,29,20,68.97
+S00246,Pediatrics,Doctor,25,18,72.0
+S00247,Dermatology,Technician,24,16,66.67
+S00248,Neurology,Technician,16,14,87.5
+S00249,General Medicine,Support Staff,21,19,90.48
+S00250,Emergency,Support Staff,29,21,72.41
+S00251,Neurology,Technician,20,15,75.0
+S00252,Oncology,Support Staff,21,17,80.95
+S00253,Pediatrics,Nurse,22,18,81.82
+S00254,Orthopedics,Doctor,24,24,100.0
+S00255,Cardiology,Administrator,19,16,84.21
+S00256,Oncology,Support Staff,16,12,75.0
+S00257,Orthopedics,Support Staff,21,20,95.24
+S00258,Oncology,Nurse,21,16,76.19
+S00259,Cardiology,Administrator,22,19,86.36
+S00260,Neurology,Nurse,21,21,100.0
+S00261,Orthopedics,Administrator,24,19,79.17
+S00262,Oncology,Doctor,21,15,71.43
+S00263,Orthopedics,Support Staff,28,26,92.86
+S00264,Orthopedics,Doctor,27,26,96.3
+S00265,Pediatrics,Administrator,23,17,73.91
+S00266,Neurology,Support Staff,22,15,68.18
+S00267,Dermatology,Nurse,29,28,96.55
+S00268,Cardiology,Technician,16,11,68.75
+S00269,Orthopedics,Nurse,16,11,68.75
+S00270,Neurology,Technician,21,17,80.95
+S00271,Dermatology,Nurse,24,18,75.0
+S00272,Emergency,Administrator,29,26,89.66
+S00273,Pediatrics,Doctor,25,24,96.0
+S00274,Pediatrics,Technician,27,25,92.59
+S00275,Emergency,Administrator,29,23,79.31
+S00276,Neurology,Doctor,24,22,91.67
+S00277,Cardiology,Doctor,17,11,64.71
+S00278,Neurology,Support Staff,15,11,73.33
+S00279,Neurology,Support Staff,23,22,95.65
+S00280,General Medicine,Support Staff,28,19,67.86
+S00281,Dermatology,Technician,29,26,89.66
+S00282,Pediatrics,Technician,28,23,82.14
+S00283,Cardiology,Doctor,28,26,92.86
+S00284,General Medicine,Technician,17,13,76.47
+S00285,Emergency,Doctor,15,13,86.67
+S00286,Neurology,Administrator,20,19,95.0
+S00287,Emergency,Nurse,18,17,94.44
+S00288,Pediatrics,Doctor,28,27,96.43
+S00289,General Medicine,Doctor,15,15,100.0
+S00290,Dermatology,Administrator,18,17,94.44
+S00291,General Medicine,Support Staff,22,22,100.0
+S00292,Cardiology,Support Staff,25,19,76.0
+S00293,Dermatology,Support Staff,21,17,80.95
+S00294,Neurology,Doctor,29,24,82.76
+S00295,Oncology,Doctor,26,21,80.77
+S00296,Oncology,Technician,15,10,66.67
+S00297,Cardiology,Technician,24,24,100.0
+S00298,General Medicine,Nurse,26,18,69.23
+S00299,Dermatology,Nurse,23,21,91.3
+S00300,General Medicine,Technician,20,14,70.0
+S00301,Cardiology,Doctor,16,11,68.75
+S00302,General Medicine,Administrator,17,15,88.24
+S00303,Dermatology,Technician,21,21,100.0
+S00304,Orthopedics,Doctor,17,15,88.24
+S00305,Pediatrics,Technician,27,26,96.3
+S00306,Neurology,Support Staff,17,12,70.59
+S00307,Pediatrics,Technician,19,13,68.42
+S00308,Neurology,Support Staff,17,15,88.24
+S00309,Dermatology,Doctor,17,11,64.71
+S00310,General Medicine,Support Staff,25,19,76.0
+S00311,Oncology,Technician,19,13,68.42
+S00312,Dermatology,Support Staff,28,28,100.0
+S00313,Cardiology,Administrator,19,13,68.42
+S00314,Oncology,Support Staff,26,21,80.77
+S00315,Cardiology,Support Staff,23,22,95.65
+S00316,General Medicine,Nurse,15,10,66.67
+S00317,Neurology,Administrator,28,28,100.0
+S00318,General Medicine,Doctor,15,11,73.33
+S00319,Neurology,Support Staff,25,17,68.0
+S00320,General Medicine,Administrator,28,28,100.0
+S00321,Oncology,Doctor,23,17,73.91
+S00322,General Medicine,Administrator,19,16,84.21
+S00323,General Medicine,Nurse,18,17,94.44
+S00324,Oncology,Doctor,16,15,93.75
+S00325,Cardiology,Doctor,26,26,100.0
+S00326,Neurology,Support Staff,23,21,91.3
+S00327,Emergency,Technician,20,16,80.0
+S00328,General Medicine,Doctor,29,23,79.31
+S00329,Pediatrics,Doctor,23,21,91.3
+S00330,Pediatrics,Nurse,19,14,73.68
+S00331,Dermatology,Nurse,18,14,77.78
+S00332,Dermatology,Nurse,21,20,95.24
+S00333,Cardiology,Support Staff,19,14,73.68
+S00334,Orthopedics,Doctor,22,19,86.36
+S00335,Emergency,Nurse,22,22,100.0
+S00336,Cardiology,Nurse,27,23,85.19
+S00337,Orthopedics,Administrator,16,11,68.75
+S00338,Cardiology,Administrator,27,18,66.67
+S00339,Dermatology,Nurse,29,27,93.1
+S00340,Pediatrics,Support Staff,19,17,89.47
+S00341,General Medicine,Technician,24,17,70.83
+S00342,Neurology,Administrator,22,16,72.73
+S00343,Dermatology,Administrator,17,15,88.24
+S00344,General Medicine,Doctor,21,17,80.95
+S00345,Pediatrics,Doctor,17,15,88.24
+S00346,Oncology,Nurse,29,24,82.76
+S00347,Neurology,Doctor,20,15,75.0
+S00348,Orthopedics,Doctor,16,13,81.25
+S00349,Orthopedics,Technician,20,14,70.0
+S00350,Pediatrics,Support Staff,20,15,75.0
+S00351,Neurology,Nurse,22,20,90.91
+S00352,General Medicine,Technician,19,15,78.95
+S00353,Pediatrics,Nurse,28,21,75.0
+S00354,Orthopedics,Support Staff,15,13,86.67
+S00355,Oncology,Nurse,29,28,96.55
+S00356,Pediatrics,Doctor,22,19,86.36
+S00357,Oncology,Support Staff,26,26,100.0
+S00358,General Medicine,Technician,23,16,69.57
+S00359,Cardiology,Technician,15,15,100.0
+S00360,Oncology,Administrator,19,19,100.0
+S00361,Oncology,Technician,26,26,100.0
+S00362,Emergency,Administrator,20,16,80.0
+S00363,Emergency,Doctor,18,17,94.44
+S00364,Dermatology,Technician,28,20,71.43
+S00365,Emergency,Support Staff,25,19,76.0
+S00366,Cardiology,Administrator,16,13,81.25
+S00367,General Medicine,Technician,19,13,68.42
+S00368,Dermatology,Doctor,28,20,71.43
+S00369,Neurology,Support Staff,28,27,96.43
+S00370,Oncology,Support Staff,18,13,72.22
+S00371,Pediatrics,Doctor,27,22,81.48
+S00372,General Medicine,Technician,21,18,85.71
+S00373,Cardiology,Nurse,20,18,90.0
+S00374,Oncology,Technician,17,12,70.59
+S00375,Dermatology,Administrator,23,21,91.3
+S00376,Orthopedics,Administrator,28,22,78.57
+S00377,Emergency,Technician,18,17,94.44
+S00378,Emergency,Administrator,29,24,82.76
+S00379,General Medicine,Nurse,25,25,100.0
+S00380,Oncology,Nurse,19,16,84.21
+S00381,Emergency,Support Staff,28,23,82.14
+S00382,Emergency,Administrator,17,17,100.0
+S00383,Oncology,Technician,22,15,68.18
+S00384,General Medicine,Support Staff,25,18,72.0
+S00385,General Medicine,Nurse,21,20,95.24
+S00386,Dermatology,Support Staff,25,21,84.0
+S00387,Cardiology,Doctor,25,17,68.0
+S00388,Cardiology,Administrator,29,20,68.97
+S00389,Emergency,Technician,21,19,90.48
+S00390,Dermatology,Nurse,22,17,77.27
+S00391,General Medicine,Support Staff,21,18,85.71
+S00392,General Medicine,Technician,17,12,70.59
+S00393,Emergency,Administrator,17,16,94.12
+S00394,Neurology,Technician,16,14,87.5
+S00395,Orthopedics,Administrator,27,26,96.3
+S00396,Pediatrics,Administrator,15,15,100.0
+S00397,Pediatrics,Administrator,19,16,84.21
+S00398,Oncology,Support Staff,26,26,100.0
+S00399,Emergency,Administrator,18,12,66.67
+S00400,Dermatology,Technician,29,21,72.41
+S00401,Oncology,Doctor,27,19,70.37
+S00402,Pediatrics,Technician,25,19,76.0
+S00403,Cardiology,Support Staff,16,15,93.75
+S00404,Dermatology,Administrator,15,10,66.67
+S00405,Oncology,Doctor,28,24,85.71
+S00406,Dermatology,Support Staff,28,28,100.0
+S00407,Oncology,Nurse,17,15,88.24
+S00408,Cardiology,Nurse,27,20,74.07
+S00409,Neurology,Nurse,20,17,85.0
+S00410,Emergency,Doctor,27,20,74.07
+S00411,Cardiology,Technician,16,11,68.75
+S00412,Emergency,Doctor,24,20,83.33
+S00413,Emergency,Doctor,29,25,86.21
+S00414,Oncology,Doctor,27,18,66.67
+S00415,Dermatology,Nurse,21,19,90.48
+S00416,General Medicine,Technician,25,20,80.0
+S00417,Orthopedics,Doctor,21,17,80.95
+S00418,Orthopedics,Technician,25,18,72.0
+S00419,Emergency,Administrator,17,13,76.47
+S00420,Orthopedics,Doctor,28,27,96.43
+S00421,Orthopedics,Doctor,15,13,86.67
+S00422,Pediatrics,Doctor,23,18,78.26
+S00423,Dermatology,Administrator,25,20,80.0
+S00424,Pediatrics,Administrator,19,19,100.0
+S00425,General Medicine,Nurse,16,12,75.0
+S00426,Neurology,Support Staff,29,22,75.86
+S00427,Dermatology,Technician,22,21,95.45
+S00428,Cardiology,Support Staff,26,18,69.23
+S00429,Oncology,Doctor,24,18,75.0
+S00430,Oncology,Doctor,24,21,87.5
+S00431,Oncology,Nurse,18,18,100.0
+S00432,Cardiology,Support Staff,25,23,92.0
+S00433,Pediatrics,Doctor,24,19,79.17
+S00434,Emergency,Support Staff,26,22,84.62
+S00435,Orthopedics,Nurse,21,16,76.19
+S00436,General Medicine,Support Staff,28,20,71.43
+S00437,Neurology,Technician,27,24,88.89
+S00438,Pediatrics,Nurse,19,19,100.0
+S00439,Emergency,Support Staff,27,18,66.67
+S00440,General Medicine,Doctor,17,17,100.0
+S00441,Oncology,Administrator,24,23,95.83
+S00442,Emergency,Administrator,22,18,81.82
+S00443,General Medicine,Nurse,16,12,75.0
+S00444,Pediatrics,Administrator,15,13,86.67
+S00445,General Medicine,Technician,19,15,78.95
+S00446,Dermatology,Nurse,25,21,84.0
+S00447,Orthopedics,Doctor,18,18,100.0
+S00448,General Medicine,Doctor,25,20,80.0
+S00449,Neurology,Nurse,24,19,79.17
+S00450,General Medicine,Administrator,29,20,68.97
+S00451,Dermatology,Administrator,21,17,80.95
+S00452,Cardiology,Doctor,29,26,89.66
+S00453,Dermatology,Technician,27,23,85.19
+S00454,General Medicine,Administrator,23,20,86.96
+S00455,Oncology,Technician,20,20,100.0
+S00456,Emergency,Administrator,25,18,72.0
+S00457,Oncology,Nurse,15,12,80.0
+S00458,Oncology,Support Staff,29,25,86.21
+S00459,Pediatrics,Doctor,22,21,95.45
+S00460,Cardiology,Nurse,16,16,100.0
+S00461,Pediatrics,Administrator,18,18,100.0
+S00462,Emergency,Doctor,17,15,88.24
+S00463,Neurology,Support Staff,20,16,80.0
+S00464,Orthopedics,Support Staff,16,11,68.75
+S00465,Neurology,Administrator,19,13,68.42
+S00466,Cardiology,Doctor,25,21,84.0
+S00467,Emergency,Administrator,23,18,78.26
+S00468,Oncology,Support Staff,29,29,100.0
+S00469,Emergency,Nurse,17,13,76.47
+S00470,Oncology,Nurse,16,11,68.75
+S00471,Orthopedics,Technician,16,11,68.75
+S00472,General Medicine,Support Staff,29,29,100.0
+S00473,Cardiology,Support Staff,23,22,95.65
+S00474,Orthopedics,Administrator,20,16,80.0
+S00475,Dermatology,Technician,16,16,100.0
+S00476,Dermatology,Technician,17,17,100.0
+S00477,Pediatrics,Doctor,29,25,86.21
+S00478,Oncology,Administrator,28,25,89.29
+S00479,Orthopedics,Nurse,15,14,93.33
+S00480,Pediatrics,Doctor,16,15,93.75
+S00481,Dermatology,Technician,29,21,72.41
+S00482,Dermatology,Nurse,16,14,87.5
+S00483,Pediatrics,Support Staff,25,20,80.0
+S00484,Emergency,Administrator,16,13,81.25
+S00485,Orthopedics,Technician,21,14,66.67
+S00486,Emergency,Support Staff,17,16,94.12
+S00487,Dermatology,Technician,27,24,88.89
+S00488,Emergency,Nurse,29,20,68.97
+S00489,Oncology,Doctor,28,27,96.43
+S00490,Neurology,Nurse,25,25,100.0
+S00491,Neurology,Administrator,18,17,94.44
+S00492,Emergency,Administrator,16,16,100.0
+S00493,Emergency,Technician,19,18,94.74
+S00494,Oncology,Nurse,28,22,78.57
+S00495,Pediatrics,Doctor,23,21,91.3
+S00496,Emergency,Administrator,26,24,92.31
+S00497,Cardiology,Doctor,23,17,73.91
+S00498,Orthopedics,Support Staff,21,19,90.48
+S00499,Cardiology,Technician,26,23,88.46
+S00500,Neurology,Doctor,22,16,72.73
+S00501,Cardiology,Technician,27,22,81.48
+S00502,General Medicine,Support Staff,28,27,96.43
+S00503,General Medicine,Doctor,19,15,78.95
+S00504,Neurology,Doctor,19,18,94.74
+S00505,Cardiology,Support Staff,26,24,92.31
+S00506,Orthopedics,Nurse,17,13,76.47
+S00507,Oncology,Doctor,20,17,85.0
+S00508,Neurology,Doctor,15,15,100.0
+S00509,General Medicine,Administrator,17,13,76.47
+S00510,Neurology,Nurse,25,25,100.0
+S00511,Cardiology,Doctor,16,12,75.0
+S00512,Cardiology,Support Staff,21,17,80.95
+S00513,Cardiology,Technician,23,22,95.65
+S00514,Pediatrics,Support Staff,18,17,94.44
+S00515,Cardiology,Nurse,21,20,95.24
+S00516,Emergency,Administrator,22,17,77.27
+S00517,General Medicine,Administrator,24,20,83.33
+S00518,Dermatology,Administrator,16,14,87.5
+S00519,General Medicine,Support Staff,21,14,66.67
+S00520,Pediatrics,Technician,27,22,81.48
+S00521,General Medicine,Technician,26,22,84.62
+S00522,General Medicine,Doctor,17,12,70.59
+S00523,Neurology,Technician,22,21,95.45
+S00524,Dermatology,Technician,20,20,100.0
+S00525,Dermatology,Doctor,17,15,88.24
+S00526,Cardiology,Support Staff,22,20,90.91
+S00527,Emergency,Support Staff,25,24,96.0
+S00528,Emergency,Nurse,27,25,92.59
+S00529,Neurology,Support Staff,17,14,82.35
+S00530,Emergency,Administrator,23,19,82.61
+S00531,Neurology,Administrator,25,25,100.0
+S00532,Dermatology,Nurse,17,14,82.35
+S00533,Dermatology,Technician,15,15,100.0
+S00534,Oncology,Nurse,27,20,74.07
+S00535,Dermatology,Doctor,16,16,100.0
+S00536,Emergency,Nurse,18,12,66.67
+S00537,General Medicine,Nurse,27,22,81.48
+S00538,Dermatology,Administrator,25,25,100.0
+S00539,Oncology,Doctor,16,16,100.0
+S00540,Orthopedics,Doctor,18,17,94.44
+S00541,Cardiology,Nurse,18,16,88.89
+S00542,Orthopedics,Doctor,18,14,77.78
+S00543,General Medicine,Doctor,15,10,66.67
+S00544,Pediatrics,Support Staff,23,19,82.61
+S00545,Neurology,Doctor,24,20,83.33
+S00546,Oncology,Technician,25,20,80.0
+S00547,Emergency,Doctor,21,17,80.95
+S00548,Emergency,Administrator,16,12,75.0
+S00549,General Medicine,Support Staff,17,11,64.71
+S00550,Emergency,Administrator,27,18,66.67
+S00551,General Medicine,Administrator,22,18,81.82
+S00552,Oncology,Technician,21,21,100.0
+S00553,Orthopedics,Support Staff,18,16,88.89
+S00554,Pediatrics,Nurse,18,18,100.0
+S00555,Neurology,Doctor,23,17,73.91
+S00556,Emergency,Technician,29,27,93.1
+S00557,Pediatrics,Technician,19,16,84.21
+S00558,Pediatrics,Nurse,28,28,100.0
+S00559,Pediatrics,Technician,27,21,77.78
+S00560,Cardiology,Nurse,25,23,92.0
+S00561,Pediatrics,Nurse,19,16,84.21
+S00562,Dermatology,Nurse,29,26,89.66
+S00563,General Medicine,Technician,21,17,80.95
+S00564,Cardiology,Nurse,15,11,73.33
+S00565,Dermatology,Technician,17,16,94.12
+S00566,Cardiology,Support Staff,16,16,100.0
+S00567,Pediatrics,Nurse,25,17,68.0
+S00568,Emergency,Technician,24,17,70.83
+S00569,Emergency,Technician,20,20,100.0
+S00570,Emergency,Technician,25,23,92.0
+S00571,Emergency,Doctor,26,21,80.77
+S00572,General Medicine,Doctor,20,15,75.0
+S00573,Oncology,Nurse,24,24,100.0
+S00574,Emergency,Support Staff,15,13,86.67
+S00575,Neurology,Nurse,28,19,67.86
+S00576,Pediatrics,Administrator,28,27,96.43
+S00577,Cardiology,Administrator,20,15,75.0
+S00578,Neurology,Support Staff,24,17,70.83
+S00579,Emergency,Support Staff,16,14,87.5
+S00580,Neurology,Support Staff,25,19,76.0
+S00581,Cardiology,Doctor,18,18,100.0
+S00582,Emergency,Doctor,20,17,85.0
+S00583,Neurology,Administrator,17,16,94.12
+S00584,General Medicine,Support Staff,17,15,88.24
+S00585,General Medicine,Technician,26,26,100.0
+S00586,Pediatrics,Administrator,17,15,88.24
+S00587,Oncology,Support Staff,18,14,77.78
+S00588,Pediatrics,Technician,23,23,100.0
+S00589,Dermatology,Support Staff,18,16,88.89
+S00590,Neurology,Nurse,27,26,96.3
+S00591,Cardiology,Technician,18,15,83.33
+S00592,General Medicine,Nurse,18,18,100.0
+S00593,Orthopedics,Doctor,21,21,100.0
+S00594,Oncology,Administrator,19,14,73.68
+S00595,Pediatrics,Support Staff,26,25,96.15
+S00596,Dermatology,Administrator,16,14,87.5
+S00597,General Medicine,Support Staff,21,18,85.71
+S00598,Dermatology,Nurse,17,17,100.0
+S00599,Emergency,Technician,25,20,80.0
+S00600,Neurology,Technician,15,15,100.0
+S00601,Dermatology,Support Staff,23,20,86.96
+S00602,Oncology,Nurse,19,19,100.0
+S00603,General Medicine,Support Staff,24,24,100.0
+S00604,General Medicine,Support Staff,15,13,86.67
+S00605,Neurology,Support Staff,25,20,80.0
+S00606,Pediatrics,Technician,15,12,80.0
+S00607,Pediatrics,Support Staff,15,13,86.67
+S00608,Orthopedics,Technician,26,19,73.08
+S00609,Oncology,Doctor,23,20,86.96
+S00610,Orthopedics,Nurse,27,21,77.78
+S00611,Pediatrics,Doctor,22,19,86.36
+S00612,Pediatrics,Support Staff,25,22,88.0
+S00613,Oncology,Technician,27,23,85.19
+S00614,Dermatology,Nurse,29,28,96.55
+S00615,Oncology,Administrator,27,19,70.37
+S00616,Pediatrics,Nurse,20,15,75.0
+S00617,Pediatrics,Nurse,24,18,75.0
+S00618,General Medicine,Support Staff,29,23,79.31
+S00619,Orthopedics,Doctor,29,26,89.66
+S00620,Neurology,Doctor,20,19,95.0
+S00621,Oncology,Administrator,20,15,75.0
+S00622,Cardiology,Support Staff,18,17,94.44
+S00623,Neurology,Nurse,19,14,73.68
+S00624,Oncology,Doctor,24,17,70.83
+S00625,Emergency,Doctor,17,14,82.35
+S00626,Oncology,Technician,17,14,82.35
+S00627,Cardiology,Nurse,24,21,87.5
+S00628,General Medicine,Support Staff,21,21,100.0
+S00629,Emergency,Doctor,19,16,84.21
+S00630,Orthopedics,Support Staff,22,15,68.18
+S00631,Cardiology,Nurse,19,14,73.68
+S00632,Pediatrics,Nurse,26,24,92.31
+S00633,Emergency,Doctor,18,15,83.33
+S00634,General Medicine,Administrator,28,28,100.0
+S00635,Oncology,Support Staff,17,16,94.12
+S00636,Oncology,Support Staff,26,18,69.23
+S00637,Cardiology,Technician,16,15,93.75
+S00638,Pediatrics,Nurse,17,14,82.35
+S00639,Emergency,Nurse,21,21,100.0
+S00640,General Medicine,Doctor,22,15,68.18
+S00641,Oncology,Doctor,29,25,86.21
+S00642,Emergency,Doctor,19,15,78.95
+S00643,Cardiology,Technician,25,23,92.0
+S00644,Pediatrics,Administrator,15,13,86.67
+S00645,Orthopedics,Doctor,17,15,88.24
+S00646,Dermatology,Doctor,18,17,94.44
+S00647,General Medicine,Doctor,24,24,100.0
+S00648,Cardiology,Technician,27,27,100.0
+S00649,Oncology,Support Staff,27,21,77.78
+S00650,Pediatrics,Administrator,26,25,96.15
+S00651,Orthopedics,Support Staff,18,13,72.22
+S00652,Emergency,Nurse,26,22,84.62
+S00653,Pediatrics,Nurse,15,13,86.67
+S00654,Dermatology,Doctor,24,23,95.83
+S00655,Orthopedics,Support Staff,23,16,69.57
+S00656,Cardiology,Technician,26,24,92.31
+S00657,Oncology,Administrator,24,21,87.5
+S00658,Pediatrics,Support Staff,29,26,89.66
+S00659,Dermatology,Support Staff,29,22,75.86
+S00660,Pediatrics,Administrator,18,18,100.0
+S00661,Neurology,Support Staff,16,14,87.5
+S00662,General Medicine,Support Staff,27,20,74.07
+S00663,Pediatrics,Administrator,23,16,69.57
+S00664,Dermatology,Technician,28,25,89.29
+S00665,Orthopedics,Administrator,18,16,88.89
+S00666,General Medicine,Doctor,18,16,88.89
+S00667,Cardiology,Doctor,25,17,68.0
+S00668,Dermatology,Doctor,20,14,70.0
+S00669,General Medicine,Doctor,22,21,95.45
+S00670,Neurology,Nurse,19,14,73.68
+S00671,Oncology,Technician,26,25,96.15
+S00672,Cardiology,Nurse,22,17,77.27
+S00673,Pediatrics,Support Staff,15,10,66.67
+S00674,Dermatology,Support Staff,27,22,81.48
+S00675,Emergency,Administrator,18,15,83.33
+S00676,Cardiology,Doctor,15,12,80.0
+S00677,Dermatology,Administrator,17,12,70.59
+S00678,Oncology,Support Staff,25,24,96.0
+S00679,Oncology,Doctor,21,19,90.48
+S00680,Cardiology,Technician,15,12,80.0
+S00681,Neurology,Support Staff,19,19,100.0
+S00682,Orthopedics,Administrator,15,13,86.67
+S00683,Cardiology,Administrator,20,16,80.0
+S00684,Dermatology,Support Staff,23,22,95.65
+S00685,Oncology,Nurse,17,13,76.47
+S00686,Orthopedics,Technician,25,18,72.0
+S00687,General Medicine,Support Staff,25,24,96.0
+S00688,Emergency,Support Staff,28,19,67.86
+S00689,Neurology,Administrator,26,26,100.0
+S00690,Oncology,Doctor,29,20,68.97
+S00691,Pediatrics,Doctor,20,16,80.0
+S00692,Oncology,Doctor,18,13,72.22
+S00693,Dermatology,Administrator,20,19,95.0
+S00694,Dermatology,Doctor,16,11,68.75
+S00695,Dermatology,Support Staff,18,18,100.0
+S00696,Cardiology,Nurse,27,18,66.67
+S00697,Emergency,Nurse,27,18,66.67
+S00698,Emergency,Nurse,21,17,80.95
+S00699,Orthopedics,Doctor,25,20,80.0
+S00700,Cardiology,Nurse,20,20,100.0
+S00701,Dermatology,Doctor,23,16,69.57
+S00702,Emergency,Support Staff,25,19,76.0
+S00703,Oncology,Support Staff,21,17,80.95
+S00704,Dermatology,Administrator,15,11,73.33
+S00705,Dermatology,Administrator,20,17,85.0
+S00706,Dermatology,Technician,25,18,72.0
+S00707,Neurology,Support Staff,17,15,88.24
+S00708,Pediatrics,Doctor,22,18,81.82
+S00709,General Medicine,Technician,27,25,92.59
+S00710,Oncology,Support Staff,15,15,100.0
+S00711,General Medicine,Doctor,24,20,83.33
+S00712,Orthopedics,Support Staff,16,13,81.25
+S00713,Emergency,Support Staff,17,12,70.59
+S00714,General Medicine,Doctor,28,28,100.0
+S00715,Orthopedics,Support Staff,17,15,88.24
+S00716,Pediatrics,Support Staff,21,15,71.43
+S00717,Dermatology,Support Staff,27,20,74.07
+S00718,Oncology,Administrator,22,19,86.36
+S00719,Oncology,Nurse,29,21,72.41
+S00720,Cardiology,Support Staff,23,16,69.57
+S00721,Neurology,Doctor,21,18,85.71
+S00722,Pediatrics,Support Staff,22,21,95.45
+S00723,Pediatrics,Administrator,25,23,92.0
+S00724,General Medicine,Administrator,29,23,79.31
+S00725,General Medicine,Support Staff,20,14,70.0
+S00726,Neurology,Technician,16,15,93.75
+S00727,Oncology,Nurse,15,15,100.0
+S00728,Cardiology,Doctor,17,17,100.0
+S00729,Pediatrics,Doctor,23,19,82.61
+S00730,Emergency,Doctor,27,19,70.37
+S00731,General Medicine,Doctor,21,18,85.71
+S00732,Oncology,Administrator,16,16,100.0
+S00733,Pediatrics,Nurse,28,28,100.0
+S00734,Cardiology,Support Staff,15,10,66.67
+S00735,Oncology,Support Staff,16,15,93.75
+S00736,Orthopedics,Technician,29,20,68.97
+S00737,Cardiology,Support Staff,17,13,76.47
+S00738,Pediatrics,Nurse,28,27,96.43
+S00739,Pediatrics,Support Staff,20,17,85.0
+S00740,Neurology,Administrator,26,23,88.46
+S00741,Oncology,Support Staff,23,17,73.91
+S00742,Oncology,Doctor,22,20,90.91
+S00743,Oncology,Doctor,24,16,66.67
+S00744,Pediatrics,Doctor,23,22,95.65
+S00745,Oncology,Doctor,25,24,96.0
+S00746,Oncology,Administrator,25,18,72.0
+S00747,General Medicine,Administrator,22,21,95.45
+S00748,Emergency,Administrator,21,19,90.48
+S00749,Neurology,Support Staff,20,19,95.0
+S00750,Pediatrics,Doctor,22,22,100.0
+S00751,Oncology,Technician,20,19,95.0
+S00752,Cardiology,Technician,16,12,75.0
+S00753,Pediatrics,Doctor,27,24,88.89
+S00754,Cardiology,Nurse,23,18,78.26
+S00755,Cardiology,Support Staff,23,20,86.96
+S00756,Pediatrics,Technician,17,15,88.24
+S00757,Cardiology,Administrator,23,23,100.0
+S00758,Emergency,Nurse,16,14,87.5
+S00759,Orthopedics,Administrator,26,24,92.31
+S00760,Neurology,Nurse,28,28,100.0
+S00761,Pediatrics,Nurse,17,13,76.47
+S00762,Dermatology,Support Staff,28,24,85.71
+S00763,Orthopedics,Administrator,20,20,100.0
+S00764,Oncology,Administrator,28,22,78.57
+S00765,Cardiology,Technician,18,18,100.0
+S00766,Cardiology,Doctor,22,16,72.73
+S00767,Neurology,Doctor,15,12,80.0
+S00768,Orthopedics,Technician,27,25,92.59
+S00769,Orthopedics,Nurse,20,15,75.0
+S00770,Pediatrics,Technician,16,14,87.5
+S00771,Oncology,Technician,20,18,90.0
+S00772,Cardiology,Administrator,28,28,100.0
+S00773,Dermatology,Technician,15,15,100.0
+S00774,General Medicine,Nurse,29,26,89.66
+S00775,Oncology,Doctor,16,13,81.25
+S00776,Dermatology,Support Staff,23,16,69.57
+S00777,Pediatrics,Technician,20,17,85.0
+S00778,Pediatrics,Technician,22,20,90.91
+S00779,Pediatrics,Administrator,21,16,76.19
+S00780,Neurology,Administrator,23,23,100.0
+S00781,Neurology,Technician,23,19,82.61
+S00782,Oncology,Technician,25,22,88.0
+S00783,Pediatrics,Nurse,18,18,100.0
+S00784,Emergency,Doctor,21,18,85.71
+S00785,General Medicine,Doctor,19,15,78.95
+S00786,Orthopedics,Support Staff,21,18,85.71
+S00787,Orthopedics,Doctor,18,16,88.89
+S00788,Cardiology,Support Staff,26,22,84.62
+S00789,Orthopedics,Administrator,24,24,100.0
+S00790,Dermatology,Support Staff,25,17,68.0
+S00791,Orthopedics,Support Staff,25,25,100.0
+S00792,General Medicine,Doctor,15,11,73.33
+S00793,Orthopedics,Technician,18,12,66.67
+S00794,Dermatology,Administrator,29,23,79.31
+S00795,General Medicine,Nurse,27,24,88.89
+S00796,Neurology,Support Staff,24,23,95.83
+S00797,General Medicine,Support Staff,29,28,96.55
+S00798,Neurology,Support Staff,17,17,100.0
+S00799,General Medicine,Technician,23,19,82.61
+S00800,Pediatrics,Nurse,19,18,94.74
+S00801,Dermatology,Doctor,18,15,83.33
+S00802,Emergency,Administrator,22,22,100.0
+S00803,Oncology,Technician,29,27,93.1
+S00804,Neurology,Nurse,19,19,100.0
+S00805,Neurology,Administrator,17,11,64.71
+S00806,Orthopedics,Doctor,16,11,68.75
+S00807,Neurology,Administrator,29,24,82.76
+S00808,General Medicine,Support Staff,22,18,81.82
+S00809,Pediatrics,Support Staff,26,24,92.31
+S00810,Pediatrics,Technician,16,16,100.0
+S00811,Orthopedics,Administrator,28,22,78.57
+S00812,General Medicine,Support Staff,22,19,86.36
+S00813,General Medicine,Technician,19,18,94.74
+S00814,Cardiology,Technician,22,20,90.91
+S00815,Oncology,Technician,19,16,84.21
+S00816,Neurology,Doctor,15,14,93.33
+S00817,Orthopedics,Support Staff,26,26,100.0
+S00818,Pediatrics,Support Staff,27,23,85.19
+S00819,Dermatology,Nurse,25,23,92.0
+S00820,Emergency,Doctor,28,27,96.43
+S00821,Cardiology,Support Staff,25,22,88.0
+S00822,Oncology,Support Staff,16,13,81.25
+S00823,General Medicine,Nurse,28,26,92.86
+S00824,Neurology,Administrator,20,16,80.0
+S00825,Pediatrics,Administrator,17,13,76.47
+S00826,Dermatology,Doctor,22,19,86.36
+S00827,Cardiology,Technician,19,14,73.68
+S00828,General Medicine,Nurse,17,11,64.71
+S00829,Pediatrics,Nurse,26,21,80.77
+S00830,Pediatrics,Support Staff,24,21,87.5
+S00831,General Medicine,Support Staff,21,15,71.43
+S00832,General Medicine,Nurse,28,27,96.43
+S00833,Orthopedics,Technician,22,17,77.27
+S00834,Pediatrics,Administrator,18,13,72.22
+S00835,General Medicine,Doctor,27,21,77.78
+S00836,Emergency,Administrator,27,25,92.59
+S00837,Oncology,Doctor,25,21,84.0
+S00838,Dermatology,Technician,23,20,86.96
+S00839,Dermatology,Nurse,20,14,70.0
+S00840,Emergency,Technician,28,22,78.57
+S00841,Dermatology,Nurse,15,12,80.0
+S00842,Cardiology,Support Staff,19,14,73.68
+S00843,Dermatology,Doctor,19,15,78.95
+S00844,Neurology,Support Staff,21,16,76.19
+S00845,Dermatology,Nurse,21,18,85.71
+S00846,Emergency,Doctor,20,14,70.0
+S00847,Orthopedics,Doctor,29,28,96.55
+S00848,General Medicine,Support Staff,29,22,75.86
+S00849,Neurology,Doctor,22,19,86.36
+S00850,Orthopedics,Nurse,16,11,68.75
+S00851,Pediatrics,Nurse,28,19,67.86
+S00852,Neurology,Support Staff,27,26,96.3
+S00853,Emergency,Technician,27,22,81.48
+S00854,Orthopedics,Nurse,21,16,76.19
+S00855,General Medicine,Nurse,24,23,95.83
+S00856,General Medicine,Doctor,29,21,72.41
+S00857,Dermatology,Doctor,21,14,66.67
+S00858,Orthopedics,Nurse,18,16,88.89
+S00859,Pediatrics,Support Staff,26,22,84.62
+S00860,Dermatology,Technician,24,23,95.83
+S00861,Emergency,Doctor,16,14,87.5
+S00862,Orthopedics,Doctor,18,15,83.33
+S00863,Cardiology,Technician,18,14,77.78
+S00864,Orthopedics,Doctor,26,20,76.92
+S00865,Orthopedics,Support Staff,26,18,69.23
+S00866,Emergency,Doctor,20,16,80.0
+S00867,General Medicine,Doctor,28,26,92.86
+S00868,Dermatology,Nurse,21,15,71.43
+S00869,Pediatrics,Support Staff,17,17,100.0
+S00870,Dermatology,Support Staff,29,21,72.41
+S00871,Orthopedics,Nurse,24,22,91.67
+S00872,Neurology,Administrator,15,13,86.67
+S00873,General Medicine,Technician,17,11,64.71
+S00874,General Medicine,Support Staff,23,16,69.57
+S00875,Oncology,Administrator,15,11,73.33
+S00876,Orthopedics,Technician,27,20,74.07
+S00877,Emergency,Support Staff,22,19,86.36
+S00878,Neurology,Doctor,16,11,68.75
+S00879,Orthopedics,Support Staff,20,15,75.0
+S00880,Neurology,Technician,17,11,64.71
+S00881,General Medicine,Administrator,21,20,95.24
+S00882,Neurology,Doctor,16,15,93.75
+S00883,Dermatology,Technician,18,16,88.89
+S00884,Orthopedics,Technician,24,19,79.17
+S00885,Cardiology,Support Staff,23,22,95.65
+S00886,Cardiology,Nurse,20,17,85.0
+S00887,Neurology,Nurse,18,15,83.33
+S00888,Emergency,Doctor,16,13,81.25
+S00889,Orthopedics,Technician,24,22,91.67
+S00890,Pediatrics,Administrator,28,23,82.14
+S00891,Cardiology,Doctor,23,16,69.57
+S00892,Oncology,Doctor,29,29,100.0
+S00893,General Medicine,Support Staff,18,17,94.44
+S00894,Dermatology,Administrator,23,17,73.91
+S00895,Orthopedics,Technician,28,22,78.57
+S00896,Orthopedics,Technician,16,16,100.0
+S00897,Dermatology,Technician,21,17,80.95
+S00898,Cardiology,Doctor,25,21,84.0
+S00899,Dermatology,Support Staff,25,18,72.0
+S00900,Dermatology,Doctor,19,14,73.68
+S00901,Pediatrics,Nurse,22,18,81.82
+S00902,Oncology,Nurse,25,19,76.0
+S00903,Dermatology,Technician,28,27,96.43
+S00904,General Medicine,Support Staff,22,16,72.73
+S00905,Pediatrics,Technician,28,21,75.0
+S00906,General Medicine,Technician,28,19,67.86
+S00907,Cardiology,Doctor,18,15,83.33
+S00908,Orthopedics,Technician,27,25,92.59
+S00909,General Medicine,Technician,18,17,94.44
+S00910,Orthopedics,Support Staff,29,29,100.0
+S00911,Neurology,Support Staff,22,22,100.0
+S00912,Neurology,Support Staff,17,13,76.47
+S00913,Oncology,Technician,21,14,66.67
+S00914,Cardiology,Support Staff,22,18,81.82
+S00915,Oncology,Support Staff,22,19,86.36
+S00916,Cardiology,Administrator,25,21,84.0
+S00917,Emergency,Administrator,24,23,95.83
+S00918,Cardiology,Nurse,18,12,66.67
+S00919,Neurology,Doctor,23,19,82.61
+S00920,General Medicine,Doctor,29,24,82.76
+S00921,Dermatology,Support Staff,24,19,79.17
+S00922,Dermatology,Nurse,18,15,83.33
+S00923,Dermatology,Nurse,22,16,72.73
+S00924,Pediatrics,Administrator,20,18,90.0
+S00925,Dermatology,Nurse,19,14,73.68
+S00926,Cardiology,Technician,29,22,75.86
+S00927,Dermatology,Support Staff,18,14,77.78
+S00928,Pediatrics,Technician,19,19,100.0
+S00929,Pediatrics,Doctor,29,22,75.86
+S00930,Neurology,Administrator,27,19,70.37
+S00931,Emergency,Technician,29,20,68.97
+S00932,General Medicine,Support Staff,25,19,76.0
+S00933,Neurology,Technician,15,12,80.0
+S00934,Cardiology,Technician,21,18,85.71
+S00935,Neurology,Nurse,22,22,100.0
+S00936,Neurology,Administrator,26,19,73.08
+S00937,Neurology,Doctor,23,23,100.0
+S00938,Cardiology,Support Staff,27,22,81.48
+S00939,Cardiology,Support Staff,17,16,94.12
+S00940,Oncology,Doctor,29,26,89.66
+S00941,Neurology,Support Staff,23,20,86.96
+S00942,Neurology,Nurse,24,24,100.0
+S00943,Pediatrics,Technician,19,17,89.47
+S00944,Oncology,Nurse,24,23,95.83
+S00945,General Medicine,Nurse,20,17,85.0
+S00946,Pediatrics,Nurse,15,10,66.67
+S00947,Emergency,Doctor,23,16,69.57
+S00948,General Medicine,Administrator,23,22,95.65
+S00949,Oncology,Doctor,20,19,95.0
+S00950,Emergency,Doctor,22,20,90.91
+S00951,General Medicine,Nurse,18,16,88.89
+S00952,Neurology,Administrator,19,15,78.95
+S00953,Oncology,Doctor,19,13,68.42
+S00954,Oncology,Administrator,21,15,71.43
+S00955,Pediatrics,Nurse,21,17,80.95
+S00956,General Medicine,Doctor,21,14,66.67
+S00957,Emergency,Administrator,19,19,100.0
+S00958,General Medicine,Support Staff,18,17,94.44
+S00959,Cardiology,Doctor,22,19,86.36
+S00960,General Medicine,Doctor,15,14,93.33
+S00961,Dermatology,Doctor,15,10,66.67
+S00962,Neurology,Administrator,20,20,100.0
+S00963,Orthopedics,Technician,16,12,75.0
+S00964,Cardiology,Doctor,26,25,96.15
+S00965,Orthopedics,Support Staff,17,15,88.24
+S00966,Oncology,Support Staff,18,17,94.44
+S00967,Neurology,Nurse,28,26,92.86
+S00968,Dermatology,Technician,16,13,81.25
+S00969,Oncology,Technician,24,18,75.0
+S00970,Orthopedics,Administrator,21,20,95.24
+S00971,Oncology,Nurse,29,27,93.1
+S00972,General Medicine,Administrator,24,17,70.83
+S00973,Orthopedics,Nurse,15,13,86.67
+S00974,Pediatrics,Technician,17,13,76.47
+S00975,Neurology,Administrator,16,14,87.5
+S00976,Pediatrics,Nurse,27,23,85.19
+S00977,Orthopedics,Technician,23,21,91.3
+S00978,Oncology,Technician,22,16,72.73
+S00979,Dermatology,Doctor,17,17,100.0
+S00980,Oncology,Administrator,19,14,73.68
+S00981,Oncology,Doctor,17,13,76.47
+S00982,Pediatrics,Technician,28,25,89.29
+S00983,Cardiology,Administrator,25,24,96.0
+S00984,Orthopedics,Administrator,27,22,81.48
+S00985,Emergency,Support Staff,26,24,92.31
+S00986,Pediatrics,Nurse,25,25,100.0
+S00987,General Medicine,Support Staff,26,18,69.23
+S00988,Orthopedics,Support Staff,25,24,96.0
+S00989,Dermatology,Technician,20,14,70.0
+S00990,Emergency,Nurse,19,15,78.95
+S00991,Dermatology,Support Staff,25,21,84.0
+S00992,Cardiology,Support Staff,16,13,81.25
+S00993,General Medicine,Administrator,28,20,71.43
+S00994,Orthopedics,Technician,24,22,91.67
+S00995,Dermatology,Support Staff,22,15,68.18
+S00996,General Medicine,Nurse,20,19,95.0
+S00997,Orthopedics,Doctor,28,27,96.43
+S00998,Orthopedics,Doctor,29,27,93.1
+S00999,Neurology,Technician,17,14,82.35
+S01000,Pediatrics,Doctor,27,18,66.67
+S01001,Orthopedics,Administrator,29,23,79.31
+S01002,Cardiology,Administrator,27,26,96.3
+S01003,Emergency,Nurse,15,12,80.0
+S01004,Pediatrics,Technician,19,17,89.47
+S01005,Neurology,Technician,26,25,96.15
+S01006,Pediatrics,Doctor,25,24,96.0
+S01007,Pediatrics,Support Staff,16,11,68.75
+S01008,Orthopedics,Support Staff,27,21,77.78
+S01009,Cardiology,Support Staff,16,13,81.25
+S01010,Orthopedics,Nurse,23,18,78.26
+S01011,Dermatology,Technician,25,21,84.0
+S01012,Cardiology,Doctor,27,25,92.59
+S01013,Dermatology,Nurse,29,27,93.1
+S01014,Cardiology,Administrator,24,17,70.83
+S01015,General Medicine,Administrator,21,14,66.67
+S01016,Orthopedics,Administrator,20,19,95.0
+S01017,Oncology,Technician,29,29,100.0
+S01018,Oncology,Administrator,27,21,77.78
+S01019,Dermatology,Support Staff,15,15,100.0
+S01020,Neurology,Administrator,29,22,75.86
+S01021,Emergency,Nurse,28,23,82.14
+S01022,Oncology,Administrator,24,24,100.0
+S01023,Oncology,Support Staff,16,11,68.75
+S01024,Pediatrics,Administrator,25,25,100.0
+S01025,General Medicine,Doctor,21,20,95.24
+S01026,Dermatology,Support Staff,29,21,72.41
+S01027,Neurology,Technician,17,12,70.59
+S01028,Emergency,Administrator,16,11,68.75
+S01029,Emergency,Nurse,20,17,85.0
+S01030,Orthopedics,Administrator,22,16,72.73
+S01031,Cardiology,Nurse,29,22,75.86
+S01032,Dermatology,Doctor,22,22,100.0
+S01033,Orthopedics,Technician,25,21,84.0
+S01034,Emergency,Support Staff,16,15,93.75
+S01035,Orthopedics,Support Staff,20,19,95.0
+S01036,General Medicine,Technician,26,22,84.62
+S01037,Dermatology,Doctor,19,16,84.21
+S01038,Neurology,Doctor,21,21,100.0
+S01039,Emergency,Administrator,18,15,83.33
+S01040,Dermatology,Doctor,26,21,80.77
+S01041,Oncology,Administrator,27,25,92.59
+S01042,General Medicine,Nurse,16,15,93.75
+S01043,Neurology,Technician,24,18,75.0
+S01044,Oncology,Nurse,17,14,82.35
+S01045,General Medicine,Nurse,23,19,82.61
+S01046,Pediatrics,Nurse,24,24,100.0
+S01047,Cardiology,Nurse,22,17,77.27
+S01048,Oncology,Support Staff,27,19,70.37
+S01049,Oncology,Doctor,23,20,86.96
+S01050,Cardiology,Technician,19,19,100.0
+S01051,Cardiology,Technician,27,24,88.89
+S01052,Pediatrics,Nurse,19,15,78.95
+S01053,Emergency,Technician,21,18,85.71
+S01054,Emergency,Administrator,21,14,66.67
+S01055,Pediatrics,Technician,15,12,80.0
+S01056,Cardiology,Nurse,26,22,84.62
+S01057,Cardiology,Technician,29,29,100.0
+S01058,Neurology,Doctor,28,28,100.0
+S01059,Neurology,Nurse,19,18,94.74
+S01060,Oncology,Support Staff,22,22,100.0
+S01061,Orthopedics,Doctor,21,16,76.19
+S01062,Oncology,Technician,25,24,96.0
+S01063,Dermatology,Support Staff,16,15,93.75
+S01064,Dermatology,Doctor,28,26,92.86
+S01065,Dermatology,Administrator,22,20,90.91
+S01066,General Medicine,Doctor,16,13,81.25
+S01067,Neurology,Support Staff,24,24,100.0
+S01068,Neurology,Administrator,15,14,93.33
+S01069,Neurology,Technician,25,23,92.0
+S01070,Neurology,Nurse,25,24,96.0
+S01071,Oncology,Technician,28,24,85.71
+S01072,Pediatrics,Nurse,25,20,80.0
+S01073,Orthopedics,Nurse,17,16,94.12
+S01074,Neurology,Support Staff,17,12,70.59
+S01075,Emergency,Administrator,20,18,90.0
+S01076,General Medicine,Administrator,26,24,92.31
+S01077,Dermatology,Doctor,17,12,70.59
+S01078,Neurology,Technician,21,20,95.24
+S01079,Pediatrics,Support Staff,22,15,68.18
+S01080,Emergency,Technician,17,13,76.47
+S01081,Dermatology,Doctor,23,23,100.0
+S01082,Cardiology,Doctor,15,15,100.0
+S01083,Oncology,Support Staff,29,26,89.66
+S01084,Cardiology,Doctor,17,14,82.35
+S01085,Dermatology,Support Staff,26,20,76.92
+S01086,Orthopedics,Doctor,17,14,82.35
+S01087,Cardiology,Administrator,21,14,66.67
+S01088,Neurology,Support Staff,25,19,76.0
+S01089,Dermatology,Administrator,25,25,100.0
+S01090,Pediatrics,Administrator,19,17,89.47
+S01091,Orthopedics,Support Staff,18,14,77.78
+S01092,Emergency,Technician,16,11,68.75
+S01093,Neurology,Nurse,21,21,100.0
+S01094,Cardiology,Doctor,17,11,64.71
+S01095,General Medicine,Doctor,21,21,100.0
+S01096,Oncology,Technician,24,16,66.67
+S01097,Neurology,Nurse,26,20,76.92
+S01098,General Medicine,Technician,21,20,95.24
+S01099,Emergency,Nurse,25,19,76.0
+S01100,General Medicine,Support Staff,16,11,68.75
+S01101,Emergency,Support Staff,21,21,100.0
+S01102,Orthopedics,Administrator,20,20,100.0
+S01103,Pediatrics,Administrator,24,20,83.33
+S01104,Cardiology,Support Staff,18,14,77.78
+S01105,Oncology,Administrator,25,23,92.0
+S01106,Cardiology,Support Staff,19,18,94.74
+S01107,Oncology,Technician,26,19,73.08
+S01108,Neurology,Doctor,22,20,90.91
+S01109,Dermatology,Support Staff,19,19,100.0
+S01110,Cardiology,Support Staff,17,16,94.12
+S01111,Orthopedics,Support Staff,16,15,93.75
+S01112,Cardiology,Administrator,20,17,85.0
+S01113,Neurology,Administrator,20,16,80.0
+S01114,Cardiology,Administrator,21,21,100.0
+S01115,Pediatrics,Administrator,22,15,68.18
+S01116,Emergency,Technician,18,16,88.89
+S01117,General Medicine,Support Staff,26,19,73.08
+S01118,General Medicine,Technician,22,18,81.82
+S01119,Emergency,Administrator,26,22,84.62
+S01120,General Medicine,Technician,15,11,73.33
+S01121,Pediatrics,Support Staff,20,19,95.0
+S01122,Orthopedics,Support Staff,20,14,70.0
+S01123,Neurology,Administrator,17,14,82.35
+S01124,Pediatrics,Support Staff,23,17,73.91
+S01125,Neurology,Technician,26,19,73.08
+S01126,Orthopedics,Nurse,26,25,96.15
+S01127,Pediatrics,Support Staff,19,14,73.68
+S01128,Cardiology,Technician,29,24,82.76
+S01129,Dermatology,Technician,15,10,66.67
+S01130,Orthopedics,Technician,21,14,66.67
+S01131,General Medicine,Support Staff,24,21,87.5
+S01132,Pediatrics,Nurse,29,20,68.97
+S01133,Orthopedics,Administrator,28,23,82.14
+S01134,Orthopedics,Administrator,17,13,76.47
+S01135,Pediatrics,Support Staff,24,21,87.5
+S01136,General Medicine,Support Staff,24,22,91.67
+S01137,Emergency,Doctor,25,19,76.0
+S01138,General Medicine,Nurse,18,13,72.22
+S01139,Orthopedics,Technician,20,18,90.0
+S01140,Neurology,Technician,22,21,95.45
+S01141,Emergency,Administrator,27,27,100.0
+S01142,Oncology,Support Staff,18,17,94.44
+S01143,Emergency,Nurse,29,22,75.86
+S01144,Orthopedics,Administrator,26,20,76.92
+S01145,Pediatrics,Nurse,23,18,78.26
+S01146,Pediatrics,Support Staff,22,16,72.73
+S01147,Pediatrics,Technician,24,22,91.67
+S01148,General Medicine,Doctor,24,19,79.17
+S01149,Cardiology,Nurse,20,17,85.0
+S01150,Pediatrics,Technician,21,16,76.19
+S01151,Pediatrics,Nurse,22,18,81.82
+S01152,Emergency,Nurse,16,14,87.5
+S01153,Neurology,Nurse,19,18,94.74
+S01154,Neurology,Support Staff,27,22,81.48
+S01155,Orthopedics,Administrator,21,21,100.0
+S01156,Orthopedics,Nurse,22,19,86.36
+S01157,Orthopedics,Support Staff,19,18,94.74
+S01158,Pediatrics,Doctor,17,11,64.71
+S01159,Neurology,Administrator,29,27,93.1
+S01160,Orthopedics,Support Staff,20,16,80.0
+S01161,Oncology,Doctor,19,18,94.74
+S01162,Neurology,Administrator,22,17,77.27
+S01163,Pediatrics,Support Staff,23,17,73.91
+S01164,Emergency,Doctor,23,23,100.0
+S01165,Pediatrics,Support Staff,26,23,88.46
+S01166,Orthopedics,Doctor,26,22,84.62
+S01167,Pediatrics,Nurse,20,19,95.0
+S01168,Pediatrics,Nurse,29,26,89.66
+S01169,Oncology,Administrator,18,17,94.44
+S01170,Neurology,Doctor,18,14,77.78
+S01171,Cardiology,Nurse,23,23,100.0
+S01172,Oncology,Administrator,18,18,100.0
+S01173,General Medicine,Technician,22,19,86.36
+S01174,Oncology,Nurse,23,19,82.61
+S01175,Orthopedics,Nurse,19,16,84.21
+S01176,Dermatology,Support Staff,27,25,92.59
+S01177,Cardiology,Technician,20,14,70.0
+S01178,Emergency,Doctor,17,12,70.59
+S01179,Dermatology,Administrator,26,24,92.31
+S01180,Orthopedics,Technician,19,17,89.47
+S01181,Cardiology,Doctor,19,15,78.95
+S01182,Pediatrics,Nurse,29,29,100.0
+S01183,Orthopedics,Administrator,28,23,82.14
+S01184,Cardiology,Administrator,16,16,100.0
+S01185,General Medicine,Technician,24,20,83.33
+S01186,Pediatrics,Support Staff,20,14,70.0
+S01187,Oncology,Doctor,23,22,95.65
+S01188,Orthopedics,Technician,25,21,84.0
+S01189,Emergency,Support Staff,29,20,68.97
+S01190,Oncology,Support Staff,21,14,66.67
+S01191,Emergency,Support Staff,28,28,100.0
+S01192,Orthopedics,Administrator,22,22,100.0
+S01193,Cardiology,Doctor,16,13,81.25
+S01194,Oncology,Doctor,25,20,80.0
+S01195,Oncology,Technician,27,27,100.0
+S01196,Orthopedics,Nurse,28,24,85.71
+S01197,Dermatology,Technician,23,19,82.61
+S01198,Pediatrics,Doctor,17,16,94.12
+S01199,Neurology,Administrator,24,19,79.17
+S01200,Oncology,Technician,19,17,89.47
+S01201,Emergency,Nurse,28,23,82.14
+S01202,Oncology,Technician,21,16,76.19
+S01203,Oncology,Support Staff,18,17,94.44
+S01204,Cardiology,Nurse,21,15,71.43
+S01205,General Medicine,Support Staff,22,15,68.18
+S01206,Oncology,Administrator,29,24,82.76
+S01207,Orthopedics,Doctor,27,25,92.59
+S01208,Pediatrics,Technician,24,16,66.67
+S01209,Orthopedics,Technician,28,28,100.0
+S01210,General Medicine,Support Staff,24,21,87.5
+S01211,Pediatrics,Support Staff,18,17,94.44
+S01212,General Medicine,Doctor,29,22,75.86
+S01213,Pediatrics,Technician,19,13,68.42
+S01214,Neurology,Doctor,25,21,84.0
+S01215,Emergency,Support Staff,17,13,76.47
+S01216,Pediatrics,Support Staff,19,18,94.74
+S01217,General Medicine,Nurse,22,21,95.45
+S01218,Cardiology,Support Staff,17,12,70.59
+S01219,Oncology,Support Staff,29,23,79.31
+S01220,Emergency,Doctor,28,21,75.0
+S01221,Oncology,Nurse,27,26,96.3
+S01222,Dermatology,Nurse,19,15,78.95
+S01223,Neurology,Technician,24,24,100.0
+S01224,Orthopedics,Administrator,15,14,93.33
+S01225,Neurology,Technician,16,13,81.25
+S01226,Neurology,Technician,17,17,100.0
+S01227,Orthopedics,Technician,15,11,73.33
+S01228,Pediatrics,Nurse,27,22,81.48
+S01229,Oncology,Doctor,25,24,96.0
+S01230,Neurology,Support Staff,26,22,84.62
+S01231,Oncology,Nurse,25,22,88.0
+S01232,Emergency,Support Staff,23,17,73.91
+S01233,Oncology,Support Staff,23,23,100.0
+S01234,Neurology,Administrator,19,13,68.42
+S01235,Cardiology,Technician,28,21,75.0
+S01236,Emergency,Administrator,18,18,100.0
+S01237,Cardiology,Technician,19,14,73.68
+S01238,Emergency,Nurse,18,18,100.0
+S01239,General Medicine,Support Staff,26,24,92.31
+S01240,Orthopedics,Administrator,19,19,100.0
+S01241,Emergency,Nurse,21,19,90.48
+S01242,Emergency,Nurse,25,18,72.0
+S01243,Pediatrics,Technician,22,21,95.45
+S01244,Oncology,Support Staff,16,11,68.75
+S01245,Pediatrics,Technician,18,14,77.78
+S01246,Oncology,Technician,22,16,72.73
+S01247,General Medicine,Nurse,21,21,100.0
+S01248,Pediatrics,Technician,23,21,91.3
+S01249,Dermatology,Doctor,19,18,94.74
+S01250,Oncology,Support Staff,20,19,95.0
+S01251,Dermatology,Technician,29,24,82.76
+S01252,Pediatrics,Technician,25,23,92.0
+S01253,Dermatology,Administrator,22,20,90.91
+S01254,Oncology,Support Staff,29,21,72.41
+S01255,Cardiology,Support Staff,26,21,80.77
+S01256,Dermatology,Technician,28,26,92.86
+S01257,Pediatrics,Doctor,29,20,68.97
+S01258,Pediatrics,Administrator,25,25,100.0
+S01259,Dermatology,Doctor,29,25,86.21
+S01260,Oncology,Technician,19,17,89.47
+S01261,General Medicine,Support Staff,28,22,78.57
+S01262,General Medicine,Support Staff,23,17,73.91
+S01263,Oncology,Doctor,18,17,94.44
+S01264,Neurology,Nurse,22,22,100.0
+S01265,Pediatrics,Technician,26,22,84.62
+S01266,Pediatrics,Support Staff,28,25,89.29
+S01267,Emergency,Nurse,17,11,64.71
+S01268,Pediatrics,Support Staff,19,14,73.68
+S01269,Cardiology,Support Staff,29,20,68.97
+S01270,Dermatology,Nurse,22,15,68.18
+S01271,Emergency,Doctor,29,24,82.76
+S01272,Pediatrics,Technician,24,23,95.83
+S01273,Cardiology,Nurse,26,19,73.08
+S01274,Neurology,Nurse,21,15,71.43
+S01275,Emergency,Support Staff,15,11,73.33
+S01276,Dermatology,Nurse,26,26,100.0
+S01277,Dermatology,Technician,18,13,72.22
+S01278,Oncology,Doctor,16,14,87.5
+S01279,Oncology,Doctor,16,14,87.5
+S01280,Orthopedics,Doctor,27,23,85.19
+S01281,Pediatrics,Technician,29,28,96.55
+S01282,Emergency,Support Staff,21,20,95.24
+S01283,Dermatology,Technician,26,20,76.92
+S01284,General Medicine,Nurse,26,24,92.31
+S01285,Emergency,Administrator,17,16,94.12
+S01286,General Medicine,Administrator,17,11,64.71
+S01287,Pediatrics,Administrator,29,27,93.1
+S01288,Cardiology,Doctor,20,18,90.0
+S01289,General Medicine,Technician,20,17,85.0
+S01290,Emergency,Technician,15,12,80.0
+S01291,Oncology,Doctor,29,20,68.97
+S01292,Emergency,Nurse,29,25,86.21
+S01293,Dermatology,Administrator,29,23,79.31
+S01294,Oncology,Administrator,15,13,86.67
+S01295,General Medicine,Doctor,25,24,96.0
+S01296,Neurology,Administrator,20,15,75.0
+S01297,Dermatology,Support Staff,21,19,90.48
+S01298,Neurology,Technician,23,17,73.91
+S01299,Neurology,Administrator,18,17,94.44
+S01300,General Medicine,Administrator,28,24,85.71
+S01301,General Medicine,Support Staff,24,24,100.0
+S01302,Emergency,Nurse,20,19,95.0
+S01303,Pediatrics,Nurse,26,23,88.46
+S01304,Pediatrics,Support Staff,17,11,64.71
+S01305,Cardiology,Nurse,27,24,88.89
+S01306,Oncology,Doctor,27,22,81.48
+S01307,General Medicine,Support Staff,25,20,80.0
+S01308,Dermatology,Technician,18,12,66.67
+S01309,Oncology,Technician,23,23,100.0
+S01310,Dermatology,Technician,28,20,71.43
+S01311,Oncology,Administrator,28,22,78.57
+S01312,Pediatrics,Support Staff,15,15,100.0
+S01313,Pediatrics,Support Staff,19,18,94.74
+S01314,Neurology,Nurse,29,29,100.0
+S01315,Neurology,Support Staff,29,20,68.97
+S01316,Dermatology,Support Staff,25,17,68.0
+S01317,Dermatology,Nurse,21,19,90.48
+S01318,Neurology,Support Staff,17,12,70.59
+S01319,Orthopedics,Support Staff,29,22,75.86
+S01320,Oncology,Doctor,16,15,93.75
+S01321,Pediatrics,Nurse,27,21,77.78
+S01322,Neurology,Doctor,25,18,72.0
+S01323,Neurology,Administrator,16,15,93.75
+S01324,General Medicine,Nurse,15,11,73.33
+S01325,Dermatology,Support Staff,19,17,89.47
+S01326,Emergency,Support Staff,27,21,77.78
+S01327,Neurology,Doctor,17,17,100.0
+S01328,General Medicine,Doctor,25,20,80.0
+S01329,Cardiology,Administrator,26,23,88.46
+S01330,Neurology,Administrator,21,16,76.19
+S01331,Emergency,Support Staff,15,14,93.33
+S01332,General Medicine,Technician,23,16,69.57
+S01333,Emergency,Administrator,28,23,82.14
+S01334,Neurology,Support Staff,16,12,75.0
+S01335,Cardiology,Administrator,22,17,77.27
+S01336,Neurology,Nurse,24,24,100.0
+S01337,General Medicine,Doctor,18,14,77.78
+S01338,Cardiology,Support Staff,20,20,100.0
+S01339,Cardiology,Administrator,23,18,78.26
+S01340,Cardiology,Doctor,21,15,71.43
+S01341,Orthopedics,Technician,29,20,68.97
+S01342,General Medicine,Administrator,22,17,77.27
+S01343,Orthopedics,Support Staff,29,20,68.97
+S01344,Emergency,Nurse,21,19,90.48
+S01345,Cardiology,Doctor,16,12,75.0
+S01346,Orthopedics,Doctor,23,21,91.3
+S01347,Neurology,Nurse,29,20,68.97
+S01348,Orthopedics,Support Staff,15,11,73.33
+S01349,Pediatrics,Technician,28,23,82.14
+S01350,Emergency,Nurse,16,11,68.75
+S01351,Cardiology,Technician,17,12,70.59
+S01352,Cardiology,Support Staff,17,16,94.12
+S01353,Dermatology,Administrator,28,25,89.29
+S01354,Oncology,Administrator,24,24,100.0
+S01355,Emergency,Support Staff,18,12,66.67
+S01356,Emergency,Technician,19,18,94.74
+S01357,General Medicine,Nurse,20,14,70.0
+S01358,Neurology,Support Staff,15,13,86.67
+S01359,Dermatology,Support Staff,28,26,92.86
+S01360,Emergency,Administrator,27,23,85.19
+S01361,Dermatology,Nurse,22,16,72.73
+S01362,Emergency,Administrator,20,17,85.0
+S01363,Dermatology,Technician,24,24,100.0
+S01364,General Medicine,Technician,23,19,82.61
+S01365,Emergency,Doctor,19,17,89.47
+S01366,Orthopedics,Support Staff,21,14,66.67
+S01367,Pediatrics,Nurse,25,25,100.0
+S01368,Pediatrics,Nurse,18,14,77.78
+S01369,Pediatrics,Administrator,20,17,85.0
+S01370,Emergency,Administrator,20,19,95.0
+S01371,Dermatology,Nurse,27,18,66.67
+S01372,Pediatrics,Administrator,18,12,66.67
+S01373,Neurology,Doctor,20,17,85.0
+S01374,Orthopedics,Support Staff,22,21,95.45
+S01375,Pediatrics,Doctor,25,23,92.0
+S01376,Cardiology,Technician,19,18,94.74
+S01377,Emergency,Nurse,16,11,68.75
+S01378,Orthopedics,Doctor,23,23,100.0
+S01379,Neurology,Doctor,25,24,96.0
+S01380,Pediatrics,Administrator,18,12,66.67
+S01381,Neurology,Administrator,18,12,66.67
+S01382,Emergency,Administrator,25,22,88.0
+S01383,Pediatrics,Technician,21,16,76.19
+S01384,Cardiology,Doctor,24,17,70.83
+S01385,Orthopedics,Support Staff,28,21,75.0
+S01386,Dermatology,Administrator,24,20,83.33
+S01387,Cardiology,Technician,20,18,90.0
+S01388,Pediatrics,Technician,28,28,100.0
+S01389,General Medicine,Administrator,18,16,88.89
+S01390,Oncology,Nurse,20,19,95.0
+S01391,Orthopedics,Doctor,17,13,76.47
+S01392,Neurology,Administrator,21,20,95.24
+S01393,Pediatrics,Support Staff,20,18,90.0
+S01394,Cardiology,Doctor,17,15,88.24
+S01395,Emergency,Technician,15,12,80.0
+S01396,Dermatology,Support Staff,26,25,96.15
+S01397,General Medicine,Doctor,24,24,100.0
+S01398,Dermatology,Support Staff,19,17,89.47
+S01399,Emergency,Technician,24,22,91.67
+S01400,Pediatrics,Administrator,16,11,68.75
+S01401,Oncology,Support Staff,21,15,71.43
+S01402,Neurology,Administrator,27,26,96.3
+S01403,Cardiology,Technician,21,17,80.95
+S01404,Orthopedics,Technician,18,15,83.33
+S01405,General Medicine,Support Staff,20,17,85.0
+S01406,Pediatrics,Support Staff,15,11,73.33
+S01407,Pediatrics,Technician,16,14,87.5
+S01408,Pediatrics,Support Staff,29,25,86.21
+S01409,Pediatrics,Support Staff,20,20,100.0
+S01410,Cardiology,Support Staff,16,14,87.5
+S01411,Orthopedics,Support Staff,26,24,92.31
+S01412,Neurology,Doctor,26,24,92.31
+S01413,General Medicine,Technician,25,18,72.0
+S01414,Dermatology,Technician,18,14,77.78
+S01415,Oncology,Nurse,18,15,83.33
+S01416,Pediatrics,Administrator,24,21,87.5
+S01417,Emergency,Nurse,23,20,86.96
+S01418,Pediatrics,Support Staff,29,25,86.21
+S01419,Orthopedics,Support Staff,24,18,75.0
+S01420,Orthopedics,Doctor,21,21,100.0
+S01421,Oncology,Doctor,28,20,71.43
+S01422,Cardiology,Doctor,21,15,71.43
+S01423,Cardiology,Doctor,26,19,73.08
+S01424,Emergency,Doctor,25,18,72.0
+S01425,Emergency,Doctor,15,13,86.67
+S01426,Cardiology,Doctor,25,18,72.0
+S01427,General Medicine,Doctor,19,18,94.74
+S01428,Emergency,Doctor,17,16,94.12
+S01429,Cardiology,Technician,17,13,76.47
+S01430,Pediatrics,Doctor,20,20,100.0
+S01431,Cardiology,Administrator,18,13,72.22
+S01432,Dermatology,Doctor,22,15,68.18
+S01433,General Medicine,Support Staff,28,28,100.0
+S01434,Cardiology,Support Staff,18,16,88.89
+S01435,Cardiology,Doctor,22,20,90.91
+S01436,Pediatrics,Doctor,28,20,71.43
+S01437,Emergency,Support Staff,26,24,92.31
+S01438,Pediatrics,Administrator,29,25,86.21
+S01439,Dermatology,Nurse,26,24,92.31
+S01440,Dermatology,Technician,18,18,100.0
+S01441,Oncology,Support Staff,17,16,94.12
+S01442,Pediatrics,Doctor,19,13,68.42
+S01443,Cardiology,Technician,26,22,84.62
+S01444,Pediatrics,Doctor,27,27,100.0
+S01445,Orthopedics,Nurse,19,15,78.95
+S01446,Neurology,Nurse,24,21,87.5
+S01447,Neurology,Support Staff,24,17,70.83
+S01448,Pediatrics,Technician,15,14,93.33
+S01449,Emergency,Technician,29,28,96.55
+S01450,General Medicine,Nurse,22,18,81.82
+S01451,Dermatology,Doctor,22,17,77.27
+S01452,Pediatrics,Support Staff,22,22,100.0
+S01453,Emergency,Administrator,28,22,78.57
+S01454,Pediatrics,Nurse,24,17,70.83
+S01455,Cardiology,Nurse,18,14,77.78
+S01456,Dermatology,Support Staff,27,26,96.3
+S01457,Dermatology,Doctor,28,24,85.71
+S01458,Emergency,Technician,23,17,73.91
+S01459,Dermatology,Nurse,24,20,83.33
+S01460,General Medicine,Support Staff,17,15,88.24
+S01461,Pediatrics,Support Staff,21,17,80.95
+S01462,Orthopedics,Support Staff,20,20,100.0
+S01463,Emergency,Technician,23,22,95.65
+S01464,Neurology,Nurse,26,26,100.0
+S01465,Emergency,Support Staff,28,28,100.0
+S01466,Oncology,Technician,27,27,100.0
+S01467,Orthopedics,Doctor,18,17,94.44
+S01468,Dermatology,Administrator,18,17,94.44
+S01469,Oncology,Nurse,20,18,90.0
+S01470,Orthopedics,Technician,22,15,68.18
+S01471,Dermatology,Administrator,17,15,88.24
+S01472,Orthopedics,Administrator,25,21,84.0
+S01473,General Medicine,Technician,22,15,68.18
+S01474,General Medicine,Technician,28,21,75.0
+S01475,Emergency,Technician,22,19,86.36
+S01476,Oncology,Support Staff,28,23,82.14
+S01477,General Medicine,Doctor,28,24,85.71
+S01478,Neurology,Support Staff,21,19,90.48
+S01479,Oncology,Administrator,21,14,66.67
+S01480,Dermatology,Administrator,19,14,73.68
+S01481,Cardiology,Administrator,16,12,75.0
+S01482,Emergency,Technician,26,24,92.31
+S01483,Pediatrics,Nurse,28,20,71.43
+S01484,Pediatrics,Support Staff,29,22,75.86
+S01485,Emergency,Nurse,16,16,100.0
+S01486,Cardiology,Doctor,27,18,66.67
+S01487,Pediatrics,Doctor,26,19,73.08
+S01488,Emergency,Support Staff,24,24,100.0
+S01489,Emergency,Administrator,26,21,80.77
+S01490,Orthopedics,Doctor,22,21,95.45
+S01491,Neurology,Nurse,25,23,92.0
+S01492,Oncology,Nurse,20,17,85.0
+S01493,Pediatrics,Technician,22,20,90.91
+S01494,Neurology,Administrator,17,12,70.59
+S01495,Dermatology,Technician,15,12,80.0
+S01496,Emergency,Support Staff,27,22,81.48
+S01497,Cardiology,Doctor,20,19,95.0
+S01498,Emergency,Technician,16,13,81.25
+S01499,Pediatrics,Technician,26,19,73.08
+S01500,Neurology,Support Staff,29,20,68.97
+S01501,Orthopedics,Nurse,23,18,78.26
+S01502,Oncology,Nurse,19,14,73.68
+S01503,Orthopedics,Support Staff,19,19,100.0
+S01504,Emergency,Nurse,27,27,100.0
+S01505,Cardiology,Support Staff,24,16,66.67
+S01506,Dermatology,Nurse,22,16,72.73
+S01507,Oncology,Support Staff,20,16,80.0
+S01508,General Medicine,Nurse,17,14,82.35
+S01509,Pediatrics,Technician,23,22,95.65
+S01510,Emergency,Technician,24,23,95.83
+S01511,Orthopedics,Nurse,18,16,88.89
+S01512,Orthopedics,Support Staff,24,23,95.83
+S01513,Cardiology,Technician,18,15,83.33
+S01514,Orthopedics,Doctor,26,22,84.62
+S01515,Pediatrics,Nurse,27,21,77.78
+S01516,Cardiology,Doctor,16,15,93.75
+S01517,Neurology,Doctor,17,11,64.71
+S01518,Cardiology,Administrator,18,14,77.78
+S01519,Dermatology,Doctor,21,20,95.24
+S01520,Pediatrics,Doctor,27,19,70.37
+S01521,Dermatology,Administrator,17,13,76.47
+S01522,Pediatrics,Administrator,22,22,100.0
+S01523,Neurology,Administrator,22,19,86.36
+S01524,Emergency,Support Staff,24,16,66.67
+S01525,Cardiology,Administrator,25,20,80.0
+S01526,Pediatrics,Support Staff,16,14,87.5
+S01527,Pediatrics,Nurse,18,16,88.89
+S01528,Neurology,Support Staff,22,15,68.18
+S01529,General Medicine,Nurse,15,10,66.67
+S01530,Cardiology,Administrator,15,11,73.33
+S01531,Oncology,Administrator,28,23,82.14
+S01532,Pediatrics,Nurse,28,22,78.57
+S01533,Orthopedics,Technician,18,18,100.0
+S01534,Neurology,Support Staff,25,19,76.0
+S01535,General Medicine,Doctor,16,13,81.25
+S01536,General Medicine,Administrator,15,12,80.0
+S01537,Neurology,Support Staff,22,20,90.91
+S01538,General Medicine,Support Staff,16,11,68.75
+S01539,Pediatrics,Administrator,18,12,66.67
+S01540,General Medicine,Nurse,17,14,82.35
+S01541,Cardiology,Administrator,29,26,89.66
+S01542,Oncology,Support Staff,16,12,75.0
+S01543,Orthopedics,Technician,22,17,77.27
+S01544,Oncology,Nurse,17,14,82.35
+S01545,Oncology,Administrator,29,28,96.55
+S01546,Pediatrics,Doctor,23,19,82.61
+S01547,Neurology,Administrator,24,24,100.0
+S01548,Orthopedics,Support Staff,19,17,89.47
+S01549,Emergency,Support Staff,23,21,91.3
+S01550,Pediatrics,Doctor,17,11,64.71
+S01551,Orthopedics,Nurse,26,24,92.31
+S01552,General Medicine,Support Staff,19,19,100.0
+S01553,Emergency,Nurse,28,19,67.86
+S01554,Neurology,Nurse,24,22,91.67
+S01555,Neurology,Administrator,20,14,70.0
+S01556,Oncology,Nurse,23,23,100.0
+S01557,Cardiology,Support Staff,22,16,72.73
+S01558,General Medicine,Support Staff,16,13,81.25
+S01559,Oncology,Technician,16,15,93.75
+S01560,Cardiology,Nurse,27,24,88.89
+S01561,Cardiology,Technician,19,17,89.47
+S01562,General Medicine,Administrator,19,16,84.21
+S01563,Pediatrics,Technician,19,18,94.74
+S01564,Emergency,Nurse,18,17,94.44
+S01565,Dermatology,Support Staff,22,21,95.45
+S01566,Cardiology,Administrator,25,21,84.0
+S01567,Orthopedics,Nurse,19,13,68.42
+S01568,Emergency,Administrator,15,13,86.67
+S01569,Pediatrics,Doctor,24,16,66.67
+S01570,Oncology,Nurse,28,24,85.71
+S01571,General Medicine,Doctor,19,14,73.68
+S01572,Neurology,Technician,15,14,93.33
+S01573,Pediatrics,Nurse,18,15,83.33
+S01574,Oncology,Doctor,15,15,100.0
+S01575,Cardiology,Support Staff,20,16,80.0
+S01576,Orthopedics,Technician,20,14,70.0
+S01577,Oncology,Nurse,15,13,86.67
+S01578,Emergency,Nurse,26,19,73.08
+S01579,General Medicine,Support Staff,22,18,81.82
+S01580,Neurology,Support Staff,28,25,89.29
+S01581,Emergency,Doctor,18,16,88.89
+S01582,Orthopedics,Doctor,16,14,87.5
+S01583,Dermatology,Doctor,27,26,96.3
+S01584,Neurology,Administrator,28,20,71.43
+S01585,General Medicine,Technician,15,13,86.67
+S01586,Emergency,Nurse,25,21,84.0
+S01587,Pediatrics,Technician,17,16,94.12
+S01588,Cardiology,Support Staff,21,19,90.48
+S01589,General Medicine,Technician,24,19,79.17
+S01590,Oncology,Technician,25,22,88.0
+S01591,Orthopedics,Doctor,24,18,75.0
+S01592,Pediatrics,Support Staff,22,16,72.73
+S01593,Emergency,Technician,19,17,89.47
+S01594,Neurology,Nurse,21,15,71.43
+S01595,Pediatrics,Doctor,16,15,93.75
+S01596,Pediatrics,Technician,26,26,100.0
+S01597,Orthopedics,Support Staff,26,21,80.77
+S01598,Cardiology,Nurse,29,25,86.21
+S01599,Dermatology,Support Staff,18,14,77.78
+S01600,Oncology,Support Staff,20,19,95.0
+S01601,Oncology,Support Staff,26,20,76.92
+S01602,Pediatrics,Administrator,26,21,80.77
+S01603,Pediatrics,Nurse,26,19,73.08
+S01604,Cardiology,Support Staff,26,20,76.92
+S01605,Cardiology,Administrator,28,23,82.14
+S01606,Neurology,Doctor,26,21,80.77
+S01607,Emergency,Administrator,26,20,76.92
+S01608,Oncology,Doctor,19,17,89.47
+S01609,Neurology,Administrator,20,15,75.0
+S01610,Cardiology,Support Staff,26,19,73.08
+S01611,Dermatology,Administrator,16,12,75.0
+S01612,General Medicine,Administrator,21,21,100.0
+S01613,Cardiology,Support Staff,22,22,100.0
+S01614,Neurology,Doctor,27,27,100.0
+S01615,Orthopedics,Support Staff,28,28,100.0
+S01616,Orthopedics,Nurse,25,24,96.0
+S01617,Emergency,Administrator,23,21,91.3
+S01618,Pediatrics,Nurse,20,20,100.0
+S01619,Dermatology,Support Staff,21,19,90.48
+S01620,Orthopedics,Support Staff,27,20,74.07
+S01621,Neurology,Technician,26,25,96.15
+S01622,Orthopedics,Nurse,27,19,70.37
+S01623,Dermatology,Technician,15,13,86.67
+S01624,Dermatology,Nurse,23,23,100.0
+S01625,General Medicine,Technician,20,19,95.0
+S01626,Cardiology,Technician,26,22,84.62
+S01627,Cardiology,Nurse,18,18,100.0
+S01628,Neurology,Support Staff,24,20,83.33
+S01629,Pediatrics,Doctor,23,16,69.57
+S01630,Dermatology,Support Staff,26,23,88.46
+S01631,Cardiology,Doctor,15,14,93.33
+S01632,Oncology,Nurse,16,11,68.75
+S01633,Orthopedics,Administrator,17,13,76.47
+S01634,Dermatology,Support Staff,15,13,86.67
+S01635,General Medicine,Technician,16,14,87.5
+S01636,Oncology,Support Staff,16,11,68.75
+S01637,Pediatrics,Nurse,21,14,66.67
+S01638,Pediatrics,Administrator,24,21,87.5
+S01639,Pediatrics,Administrator,27,22,81.48
+S01640,Oncology,Support Staff,20,14,70.0
+S01641,Cardiology,Support Staff,26,19,73.08
+S01642,Emergency,Support Staff,23,22,95.65
+S01643,Pediatrics,Nurse,28,26,92.86
+S01644,Oncology,Doctor,19,17,89.47
+S01645,Oncology,Doctor,23,16,69.57
+S01646,Neurology,Technician,28,26,92.86
+S01647,Orthopedics,Nurse,27,27,100.0
+S01648,Emergency,Administrator,26,21,80.77
+S01649,General Medicine,Technician,24,21,87.5
+S01650,Orthopedics,Administrator,28,28,100.0
+S01651,Neurology,Administrator,28,26,92.86
+S01652,Neurology,Support Staff,23,18,78.26
+S01653,Dermatology,Administrator,16,11,68.75
+S01654,Emergency,Administrator,29,27,93.1
+S01655,Orthopedics,Nurse,26,19,73.08
+S01656,Cardiology,Support Staff,23,21,91.3
+S01657,Dermatology,Support Staff,17,16,94.12
+S01658,Neurology,Technician,25,18,72.0
+S01659,Pediatrics,Support Staff,17,15,88.24
+S01660,General Medicine,Doctor,26,20,76.92
+S01661,Oncology,Nurse,25,17,68.0
+S01662,General Medicine,Technician,28,22,78.57
+S01663,Neurology,Doctor,29,27,93.1
+S01664,Pediatrics,Administrator,23,23,100.0
+S01665,Orthopedics,Doctor,29,28,96.55
+S01666,Oncology,Technician,21,16,76.19
+S01667,General Medicine,Support Staff,29,25,86.21
+S01668,Pediatrics,Nurse,28,24,85.71
+S01669,Pediatrics,Technician,25,21,84.0
+S01670,Cardiology,Doctor,29,26,89.66
+S01671,Neurology,Doctor,22,21,95.45
+S01672,Pediatrics,Technician,21,19,90.48
+S01673,Dermatology,Technician,23,16,69.57
+S01674,Orthopedics,Technician,22,20,90.91
+S01675,General Medicine,Support Staff,28,20,71.43
+S01676,Dermatology,Technician,18,14,77.78
+S01677,Cardiology,Administrator,16,11,68.75
+S01678,Orthopedics,Nurse,28,27,96.43
+S01679,General Medicine,Nurse,27,24,88.89
+S01680,Neurology,Administrator,25,21,84.0
+S01681,Orthopedics,Doctor,19,15,78.95
+S01682,Oncology,Doctor,16,16,100.0
+S01683,General Medicine,Doctor,18,18,100.0
+S01684,Cardiology,Doctor,28,28,100.0
+S01685,Oncology,Support Staff,26,20,76.92
+S01686,Dermatology,Administrator,16,13,81.25
+S01687,General Medicine,Nurse,19,13,68.42
+S01688,Oncology,Administrator,20,18,90.0
+S01689,Pediatrics,Nurse,25,19,76.0
+S01690,Cardiology,Doctor,15,12,80.0
+S01691,Orthopedics,Support Staff,29,24,82.76
+S01692,Oncology,Technician,26,24,92.31
+S01693,Emergency,Technician,22,17,77.27
+S01694,Oncology,Doctor,16,15,93.75
+S01695,Neurology,Doctor,28,20,71.43
+S01696,Dermatology,Administrator,19,15,78.95
+S01697,Cardiology,Support Staff,25,25,100.0
+S01698,Dermatology,Support Staff,22,21,95.45
+S01699,Cardiology,Administrator,19,18,94.74
+S01700,Cardiology,Support Staff,17,17,100.0
+S01701,General Medicine,Support Staff,20,16,80.0
+S01702,Oncology,Technician,15,11,73.33
+S01703,Pediatrics,Support Staff,15,15,100.0
+S01704,Emergency,Doctor,22,16,72.73
+S01705,Neurology,Technician,21,20,95.24
+S01706,Oncology,Doctor,24,24,100.0
+S01707,Dermatology,Doctor,24,21,87.5
+S01708,Neurology,Administrator,25,17,68.0
+S01709,Pediatrics,Support Staff,25,22,88.0
+S01710,General Medicine,Support Staff,17,13,76.47
+S01711,General Medicine,Support Staff,22,17,77.27
+S01712,Pediatrics,Support Staff,25,20,80.0
+S01713,Dermatology,Technician,29,25,86.21
+S01714,Pediatrics,Nurse,22,22,100.0
+S01715,Orthopedics,Doctor,28,22,78.57
+S01716,General Medicine,Nurse,28,22,78.57
+S01717,Dermatology,Nurse,15,11,73.33
+S01718,Cardiology,Nurse,24,18,75.0
+S01719,Oncology,Technician,21,15,71.43
+S01720,Neurology,Nurse,16,13,81.25
+S01721,General Medicine,Technician,26,19,73.08
+S01722,Pediatrics,Administrator,16,15,93.75
+S01723,Cardiology,Administrator,16,15,93.75
+S01724,Oncology,Administrator,27,26,96.3
+S01725,Oncology,Technician,19,13,68.42
+S01726,Oncology,Technician,21,19,90.48
+S01727,Orthopedics,Doctor,18,18,100.0
+S01728,Emergency,Nurse,25,19,76.0
+S01729,Orthopedics,Support Staff,26,24,92.31
+S01730,Cardiology,Support Staff,18,13,72.22
+S01731,Oncology,Nurse,23,18,78.26
+S01732,Dermatology,Support Staff,28,21,75.0
+S01733,Dermatology,Support Staff,24,18,75.0
+S01734,Cardiology,Support Staff,23,23,100.0
+S01735,Dermatology,Technician,21,14,66.67
+S01736,Pediatrics,Technician,28,25,89.29
+S01737,Dermatology,Technician,29,25,86.21
+S01738,Emergency,Nurse,24,19,79.17
+S01739,Pediatrics,Administrator,29,27,93.1
+S01740,Neurology,Support Staff,18,16,88.89
+S01741,Dermatology,Doctor,22,19,86.36
+S01742,Emergency,Technician,24,23,95.83
+S01743,Emergency,Doctor,17,12,70.59
+S01744,Neurology,Support Staff,17,15,88.24
+S01745,Orthopedics,Administrator,26,21,80.77
+S01746,Cardiology,Doctor,21,18,85.71
+S01747,Orthopedics,Support Staff,27,25,92.59
+S01748,Dermatology,Support Staff,25,20,80.0
+S01749,Dermatology,Technician,26,23,88.46
+S01750,Pediatrics,Administrator,23,23,100.0
+S01751,General Medicine,Support Staff,27,25,92.59
+S01752,Dermatology,Administrator,25,21,84.0
+S01753,Dermatology,Technician,18,18,100.0
+S01754,Pediatrics,Doctor,18,15,83.33
+S01755,General Medicine,Nurse,15,14,93.33
+S01756,Oncology,Nurse,15,14,93.33
+S01757,Oncology,Nurse,27,24,88.89
+S01758,Oncology,Administrator,28,21,75.0
+S01759,Cardiology,Nurse,17,17,100.0
+S01760,Cardiology,Doctor,26,21,80.77
+S01761,Oncology,Support Staff,27,27,100.0
+S01762,Emergency,Administrator,21,16,76.19
+S01763,Cardiology,Doctor,27,22,81.48
+S01764,Neurology,Administrator,29,20,68.97
+S01765,Neurology,Administrator,23,23,100.0
+S01766,Oncology,Administrator,18,18,100.0
+S01767,General Medicine,Technician,16,13,81.25
+S01768,Orthopedics,Support Staff,20,18,90.0
+S01769,Emergency,Nurse,20,14,70.0
+S01770,Orthopedics,Technician,23,17,73.91
+S01771,General Medicine,Support Staff,29,24,82.76
+S01772,Neurology,Nurse,18,12,66.67
+S01773,Pediatrics,Technician,22,17,77.27
+S01774,Dermatology,Technician,27,22,81.48
+S01775,Oncology,Doctor,28,26,92.86
+S01776,Emergency,Technician,27,26,96.3
+S01777,General Medicine,Administrator,17,12,70.59
+S01778,Orthopedics,Technician,16,14,87.5
+S01779,General Medicine,Administrator,23,17,73.91
+S01780,General Medicine,Support Staff,29,23,79.31
+S01781,Cardiology,Support Staff,20,20,100.0
+S01782,Oncology,Administrator,25,24,96.0
+S01783,Neurology,Doctor,22,20,90.91
+S01784,Emergency,Doctor,25,17,68.0
+S01785,Cardiology,Support Staff,24,22,91.67
+S01786,Neurology,Technician,23,16,69.57
+S01787,Oncology,Support Staff,15,13,86.67
+S01788,General Medicine,Support Staff,27,26,96.3
+S01789,Neurology,Administrator,15,12,80.0
+S01790,Orthopedics,Doctor,25,20,80.0
+S01791,Oncology,Administrator,19,16,84.21
+S01792,Emergency,Support Staff,23,17,73.91
+S01793,Oncology,Nurse,21,19,90.48
+S01794,Oncology,Technician,21,17,80.95
+S01795,Cardiology,Support Staff,16,11,68.75
+S01796,Emergency,Administrator,17,13,76.47
+S01797,General Medicine,Nurse,18,12,66.67
+S01798,Orthopedics,Nurse,16,16,100.0
+S01799,Neurology,Support Staff,24,21,87.5
+S01800,Dermatology,Doctor,23,18,78.26
+S01801,Neurology,Nurse,19,14,73.68
+S01802,Orthopedics,Technician,27,18,66.67
+S01803,Dermatology,Administrator,21,18,85.71
+S01804,Neurology,Administrator,25,24,96.0
+S01805,Cardiology,Administrator,23,18,78.26
+S01806,Pediatrics,Support Staff,19,19,100.0
+S01807,Neurology,Administrator,29,27,93.1
+S01808,General Medicine,Administrator,20,17,85.0
+S01809,Neurology,Technician,18,16,88.89
+S01810,Emergency,Doctor,28,19,67.86
+S01811,General Medicine,Support Staff,22,16,72.73
+S01812,Neurology,Support Staff,15,10,66.67
+S01813,Neurology,Administrator,15,12,80.0
+S01814,Oncology,Technician,19,14,73.68
+S01815,General Medicine,Nurse,24,18,75.0
+S01816,Cardiology,Administrator,23,22,95.65
+S01817,Dermatology,Administrator,16,11,68.75
+S01818,Dermatology,Support Staff,25,21,84.0
+S01819,Pediatrics,Support Staff,29,23,79.31
+S01820,Pediatrics,Administrator,17,13,76.47
+S01821,Dermatology,Support Staff,22,16,72.73
+S01822,Cardiology,Technician,19,13,68.42
+S01823,Neurology,Nurse,17,12,70.59
+S01824,Pediatrics,Nurse,20,17,85.0
+S01825,Cardiology,Nurse,20,19,95.0
+S01826,Cardiology,Administrator,28,28,100.0
+S01827,Pediatrics,Administrator,19,16,84.21
+S01828,Dermatology,Administrator,19,13,68.42
+S01829,General Medicine,Technician,20,14,70.0
+S01830,Orthopedics,Nurse,16,14,87.5
+S01831,Dermatology,Support Staff,20,18,90.0
+S01832,General Medicine,Support Staff,16,15,93.75
+S01833,Dermatology,Doctor,17,11,64.71
+S01834,Neurology,Doctor,16,16,100.0
+S01835,General Medicine,Support Staff,15,14,93.33
+S01836,Emergency,Nurse,26,21,80.77
+S01837,Orthopedics,Administrator,15,15,100.0
+S01838,Dermatology,Support Staff,23,18,78.26
+S01839,Oncology,Support Staff,27,22,81.48
+S01840,Orthopedics,Doctor,18,15,83.33
+S01841,Cardiology,Nurse,19,13,68.42
+S01842,Emergency,Support Staff,24,21,87.5
+S01843,Neurology,Administrator,28,22,78.57
+S01844,Cardiology,Administrator,29,29,100.0
+S01845,General Medicine,Technician,21,20,95.24
+S01846,General Medicine,Administrator,29,22,75.86
+S01847,Pediatrics,Support Staff,16,16,100.0
+S01848,Cardiology,Support Staff,26,19,73.08
+S01849,Emergency,Administrator,25,25,100.0
+S01850,Cardiology,Doctor,24,21,87.5
+S01851,Cardiology,Nurse,23,17,73.91
+S01852,Cardiology,Support Staff,26,26,100.0
+S01853,Orthopedics,Administrator,18,16,88.89
+S01854,Pediatrics,Administrator,24,24,100.0
+S01855,Dermatology,Support Staff,24,24,100.0
+S01856,Neurology,Technician,27,26,96.3
+S01857,Neurology,Nurse,27,18,66.67
+S01858,Oncology,Support Staff,15,13,86.67
+S01859,Neurology,Administrator,22,22,100.0
+S01860,Oncology,Technician,18,12,66.67
+S01861,Orthopedics,Support Staff,21,20,95.24
+S01862,Pediatrics,Nurse,17,13,76.47
+S01863,Emergency,Technician,25,21,84.0
+S01864,Pediatrics,Administrator,26,18,69.23
+S01865,Oncology,Doctor,23,21,91.3
+S01866,Orthopedics,Nurse,29,21,72.41
+S01867,Emergency,Technician,27,23,85.19
+S01868,Cardiology,Support Staff,19,14,73.68
+S01869,General Medicine,Support Staff,19,18,94.74
+S01870,Cardiology,Technician,17,16,94.12
+S01871,Neurology,Support Staff,25,18,72.0
+S01872,Cardiology,Technician,23,21,91.3
+S01873,Orthopedics,Nurse,17,12,70.59
+S01874,Neurology,Support Staff,16,11,68.75
+S01875,General Medicine,Nurse,25,22,88.0
+S01876,Emergency,Administrator,27,26,96.3
+S01877,Oncology,Administrator,23,21,91.3
+S01878,Oncology,Administrator,26,20,76.92
+S01879,Emergency,Administrator,26,25,96.15
+S01880,Oncology,Support Staff,23,23,100.0
+S01881,Neurology,Technician,24,18,75.0
+S01882,Dermatology,Support Staff,26,20,76.92
+S01883,Dermatology,Support Staff,27,19,70.37
+S01884,Cardiology,Nurse,18,17,94.44
+S01885,Dermatology,Technician,18,18,100.0
+S01886,Oncology,Doctor,27,25,92.59
+S01887,Pediatrics,Doctor,25,17,68.0
+S01888,Pediatrics,Technician,24,20,83.33
+S01889,Emergency,Doctor,29,23,79.31
+S01890,Pediatrics,Technician,27,18,66.67
+S01891,Neurology,Nurse,27,21,77.78
+S01892,Pediatrics,Nurse,20,14,70.0
+S01893,Orthopedics,Support Staff,23,21,91.3
+S01894,Emergency,Doctor,22,19,86.36
+S01895,General Medicine,Technician,24,24,100.0
+S01896,Pediatrics,Nurse,17,14,82.35
+S01897,Orthopedics,Support Staff,20,20,100.0
+S01898,Orthopedics,Doctor,29,28,96.55
+S01899,Neurology,Doctor,27,25,92.59
+S01900,Emergency,Doctor,21,18,85.71
+S01901,Neurology,Nurse,29,20,68.97
+S01902,General Medicine,Nurse,29,23,79.31
+S01903,General Medicine,Doctor,20,16,80.0
+S01904,Oncology,Nurse,17,13,76.47
+S01905,Cardiology,Doctor,28,19,67.86
+S01906,General Medicine,Administrator,28,24,85.71
+S01907,Emergency,Nurse,28,23,82.14
+S01908,Dermatology,Technician,27,19,70.37
+S01909,Dermatology,Nurse,27,23,85.19
+S01910,Emergency,Doctor,23,22,95.65
+S01911,Oncology,Technician,18,15,83.33
+S01912,Oncology,Support Staff,16,16,100.0
+S01913,Neurology,Technician,23,23,100.0
+S01914,Orthopedics,Technician,17,14,82.35
+S01915,Cardiology,Nurse,20,16,80.0
+S01916,Dermatology,Technician,19,14,73.68
+S01917,Oncology,Technician,28,26,92.86
+S01918,Dermatology,Doctor,27,25,92.59
+S01919,General Medicine,Nurse,29,25,86.21
+S01920,Orthopedics,Doctor,16,15,93.75
+S01921,Neurology,Nurse,15,12,80.0
+S01922,Oncology,Support Staff,23,17,73.91
+S01923,Pediatrics,Technician,17,16,94.12
+S01924,Cardiology,Nurse,21,20,95.24
+S01925,Emergency,Technician,23,17,73.91
+S01926,Orthopedics,Technician,23,22,95.65
+S01927,Neurology,Administrator,26,20,76.92
+S01928,Neurology,Doctor,24,24,100.0
+S01929,Cardiology,Nurse,20,16,80.0
+S01930,Cardiology,Support Staff,22,20,90.91
+S01931,Oncology,Administrator,23,17,73.91
+S01932,General Medicine,Doctor,17,11,64.71
+S01933,General Medicine,Support Staff,20,16,80.0
+S01934,Emergency,Support Staff,19,18,94.74
+S01935,Emergency,Technician,21,18,85.71
+S01936,Oncology,Doctor,21,18,85.71
+S01937,Cardiology,Administrator,23,23,100.0
+S01938,Cardiology,Nurse,15,14,93.33
+S01939,Orthopedics,Nurse,20,19,95.0
+S01940,General Medicine,Administrator,19,16,84.21
+S01941,Neurology,Technician,18,13,72.22
+S01942,Dermatology,Technician,24,23,95.83
+S01943,Dermatology,Support Staff,26,23,88.46
+S01944,Dermatology,Doctor,25,24,96.0
+S01945,Oncology,Support Staff,28,19,67.86
+S01946,General Medicine,Nurse,15,15,100.0
+S01947,General Medicine,Administrator,18,18,100.0
+S01948,Cardiology,Doctor,24,21,87.5
+S01949,Dermatology,Administrator,25,23,92.0
+S01950,Cardiology,Doctor,21,18,85.71
+S01951,General Medicine,Nurse,18,17,94.44
+S01952,Pediatrics,Nurse,15,10,66.67
+S01953,Pediatrics,Doctor,24,17,70.83
+S01954,Emergency,Technician,15,15,100.0
+S01955,General Medicine,Doctor,15,15,100.0
+S01956,Dermatology,Nurse,25,23,92.0
+S01957,Oncology,Administrator,24,21,87.5
+S01958,Pediatrics,Support Staff,19,17,89.47
+S01959,Oncology,Administrator,21,16,76.19
+S01960,Oncology,Nurse,23,16,69.57
+S01961,Emergency,Administrator,22,17,77.27
+S01962,Emergency,Technician,16,15,93.75
+S01963,General Medicine,Technician,23,23,100.0
+S01964,Emergency,Doctor,18,12,66.67
+S01965,Cardiology,Administrator,26,20,76.92
+S01966,Cardiology,Administrator,24,17,70.83
+S01967,Cardiology,Nurse,29,23,79.31
+S01968,Neurology,Doctor,25,22,88.0
+S01969,Oncology,Doctor,19,15,78.95
+S01970,Cardiology,Administrator,26,24,92.31
+S01971,Dermatology,Support Staff,25,17,68.0
+S01972,Cardiology,Administrator,19,17,89.47
+S01973,General Medicine,Administrator,18,13,72.22
+S01974,Pediatrics,Administrator,27,25,92.59
+S01975,Dermatology,Technician,20,16,80.0
+S01976,Pediatrics,Doctor,15,12,80.0
+S01977,Cardiology,Technician,16,14,87.5
+S01978,Oncology,Support Staff,18,18,100.0
+S01979,Cardiology,Nurse,18,12,66.67
+S01980,Cardiology,Support Staff,22,17,77.27
+S01981,Emergency,Doctor,23,21,91.3
+S01982,General Medicine,Nurse,26,24,92.31
+S01983,General Medicine,Support Staff,18,14,77.78
+S01984,Oncology,Doctor,20,19,95.0
+S01985,General Medicine,Support Staff,18,14,77.78
+S01986,Pediatrics,Nurse,18,13,72.22
+S01987,Dermatology,Nurse,26,19,73.08
+S01988,Dermatology,Support Staff,25,17,68.0
+S01989,Neurology,Technician,26,20,76.92
+S01990,Pediatrics,Support Staff,23,23,100.0
+S01991,General Medicine,Support Staff,28,27,96.43
+S01992,Oncology,Support Staff,18,15,83.33
+S01993,Orthopedics,Technician,27,26,96.3
+S01994,Neurology,Administrator,20,14,70.0
+S01995,Cardiology,Nurse,28,23,82.14
+S01996,Emergency,Doctor,27,22,81.48
+S01997,Pediatrics,Nurse,23,23,100.0
+S01998,Emergency,Nurse,17,12,70.59
+S01999,Neurology,Administrator,21,18,85.71
+S02000,Oncology,Nurse,21,21,100.0

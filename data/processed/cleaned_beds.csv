@@ -1,0 +1,2001 @@
+bed_id,facility_id,department,bed_type,status
+B00001,F01645,Cardiology,Private,Occupied
+B00002,F00693,Neurology,Emergency,Available
+B00003,F01239,Orthopedics,General,Occupied
+B00004,F00959,Dermatology,General,Occupied
+B00005,F00114,Neurology,General,Available
+B00006,F01209,Orthopedics,Emergency,Available
+B00007,F00921,Orthopedics,General,Occupied
+B00008,F01149,Dermatology,Private,Available
+B00009,F01129,Oncology,Emergency,Occupied
+B00010,F00237,Dermatology,ICU,Available
+B00011,F00653,Orthopedics,Private,Occupied
+B00012,F01829,Cardiology,Private,Available
+B00013,F00158,Neurology,Private,Occupied
+B00014,F01498,General Medicine,Emergency,Available
+B00015,F00908,General Medicine,Private,Occupied
+B00016,F01529,Emergency,Emergency,Occupied
+B00017,F00961,Oncology,General,Occupied
+B00018,F01298,Oncology,ICU,Occupied
+B00019,F01914,Oncology,General,Occupied
+B00020,F00853,Pediatrics,Private,Available
+B00021,F01141,Cardiology,Emergency,Occupied
+B00022,F00886,Oncology,Emergency,Occupied
+B00023,F01598,Emergency,General,Occupied
+B00024,F01560,Emergency,Private,Occupied
+B00025,F00060,Cardiology,ICU,Occupied
+B00026,F00401,Cardiology,Emergency,Available
+B00027,F01898,Orthopedics,Emergency,Occupied
+B00028,F00828,Cardiology,Private,Occupied
+B00029,F01801,General Medicine,Emergency,Occupied
+B00030,F01204,Cardiology,Private,Available
+B00031,F01256,Dermatology,Private,Available
+B00032,F00476,Orthopedics,ICU,Maintenance
+B00033,F00655,Neurology,Private,Occupied
+B00034,F00845,Emergency,General,Available
+B00035,F00924,Oncology,ICU,Available
+B00036,F01269,Cardiology,Private,Available
+B00037,F01617,Dermatology,Private,Occupied
+B00038,F00638,Dermatology,ICU,Available
+B00039,F00649,Emergency,Emergency,Occupied
+B00040,F01592,Neurology,ICU,Occupied
+B00041,F00213,Pediatrics,Emergency,Occupied
+B00042,F01630,Orthopedics,ICU,Available
+B00043,F01919,Emergency,ICU,Maintenance
+B00044,F01483,Cardiology,General,Available
+B00045,F00990,Pediatrics,ICU,Available
+B00046,F00804,Pediatrics,General,Available
+B00047,F00128,Neurology,Private,Available
+B00048,F00952,Emergency,Emergency,Occupied
+B00049,F00217,Emergency,Emergency,Occupied
+B00050,F00711,General Medicine,General,Available
+B00051,F00020,General Medicine,Emergency,Occupied
+B00052,F01591,General Medicine,Emergency,Available
+B00053,F01782,Emergency,ICU,Available
+B00054,F01787,Emergency,General,Occupied
+B00055,F01084,General Medicine,Emergency,Available
+B00056,F00675,Orthopedics,Private,Occupied
+B00057,F00714,Dermatology,General,Occupied
+B00058,F00739,Dermatology,ICU,Occupied
+B00059,F01153,Dermatology,Private,Available
+B00060,F01998,Oncology,Emergency,Maintenance
+B00061,F00557,Cardiology,Emergency,Occupied
+B00062,F00197,Cardiology,General,Occupied
+B00063,F00936,Orthopedics,Emergency,Occupied
+B00064,F01516,Neurology,General,Occupied
+B00065,F00678,Dermatology,Emergency,Occupied
+B00066,F00504,Dermatology,Private,Occupied
+B00067,F01271,Cardiology,ICU,Available
+B00068,F00738,Emergency,Private,Available
+B00069,F00792,Pediatrics,ICU,Occupied
+B00070,F01284,Emergency,General,Occupied
+B00071,F01371,Oncology,Emergency,Available
+B00072,F00197,Cardiology,Private,Occupied
+B00073,F01131,Oncology,Emergency,Occupied
+B00074,F00781,Oncology,General,Occupied
+B00075,F00744,Orthopedics,ICU,Available
+B00076,F01941,Neurology,Private,Occupied
+B00077,F01637,Cardiology,ICU,Available
+B00078,F01184,Orthopedics,ICU,Occupied
+B00079,F00422,Pediatrics,General,Occupied
+B00080,F01631,General Medicine,ICU,Available
+B00081,F01952,Pediatrics,General,Occupied
+B00082,F01231,Pediatrics,ICU,Occupied
+B00083,F01337,Dermatology,ICU,Occupied
+B00084,F00432,Neurology,Private,Available
+B00085,F00926,Cardiology,General,Available
+B00086,F00235,Oncology,Emergency,Occupied
+B00087,F00327,General Medicine,Emergency,Available
+B00088,F00934,Orthopedics,Emergency,Occupied
+B00089,F00479,General Medicine,Private,Occupied
+B00090,F00428,Cardiology,Private,Occupied
+B00091,F00666,Neurology,ICU,Occupied
+B00092,F01124,Cardiology,ICU,Occupied
+B00093,F01262,Orthopedics,Emergency,Occupied
+B00094,F01131,General Medicine,ICU,Occupied
+B00095,F00858,Pediatrics,ICU,Occupied
+B00096,F01388,Cardiology,Private,Available
+B00097,F00642,Oncology,Emergency,Occupied
+B00098,F00811,Emergency,General,Occupied
+B00099,F01517,Neurology,Emergency,Occupied
+B00100,F01067,Neurology,Private,Occupied
+B00101,F00575,General Medicine,Emergency,Available
+B00102,F01097,Pediatrics,General,Occupied
+B00103,F01722,Orthopedics,ICU,Occupied
+B00104,F01019,Pediatrics,Emergency,Available
+B00105,F01653,Oncology,Private,Occupied
+B00106,F01328,General Medicine,Private,Occupied
+B00107,F01029,Pediatrics,Emergency,Available
+B00108,F01612,General Medicine,ICU,Occupied
+B00109,F00803,Pediatrics,ICU,Occupied
+B00110,F01373,Cardiology,Private,Occupied
+B00111,F00400,Neurology,Private,Available
+B00112,F00595,General Medicine,General,Available
+B00113,F01457,General Medicine,ICU,Occupied
+B00114,F01596,Neurology,Emergency,Occupied
+B00115,F01131,Emergency,Private,Available
+B00116,F00117,Emergency,Private,Occupied
+B00117,F01843,Orthopedics,Private,Occupied
+B00118,F00383,General Medicine,Private,Occupied
+B00119,F00859,Cardiology,ICU,Available
+B00120,F00082,Pediatrics,Private,Occupied
+B00121,F01851,Cardiology,ICU,Occupied
+B00122,F00832,General Medicine,General,Available
+B00123,F00873,Orthopedics,General,Occupied
+B00124,F00653,Oncology,Emergency,Occupied
+B00125,F00734,Oncology,Private,Available
+B00126,F01434,Oncology,Emergency,Occupied
+B00127,F00070,General Medicine,ICU,Occupied
+B00128,F00387,Oncology,Emergency,Occupied
+B00129,F00524,Orthopedics,Emergency,Occupied
+B00130,F00297,Neurology,Private,Occupied
+B00131,F00617,Pediatrics,ICU,Available
+B00132,F00719,Oncology,ICU,Available
+B00133,F01089,Oncology,Private,Occupied
+B00134,F01599,Oncology,ICU,Occupied
+B00135,F00178,Cardiology,General,Occupied
+B00136,F01967,Orthopedics,Private,Available
+B00137,F01032,Cardiology,Private,Available
+B00138,F01183,Dermatology,Private,Occupied
+B00139,F00011,Neurology,General,Occupied
+B00140,F00785,General Medicine,ICU,Occupied
+B00141,F00411,Orthopedics,General,Available
+B00142,F00892,Pediatrics,General,Occupied
+B00143,F00607,Dermatology,General,Occupied
+B00144,F00155,Orthopedics,Emergency,Occupied
+B00145,F01230,Emergency,ICU,Occupied
+B00146,F01139,General Medicine,ICU,Occupied
+B00147,F01403,General Medicine,Private,Occupied
+B00148,F00599,Pediatrics,Private,Occupied
+B00149,F00824,Pediatrics,Emergency,Occupied
+B00150,F01733,Neurology,General,Occupied
+B00151,F00350,Dermatology,Private,Occupied
+B00152,F01122,Dermatology,ICU,Available
+B00153,F00943,Cardiology,Private,Available
+B00154,F00019,Oncology,General,Available
+B00155,F00313,Orthopedics,Emergency,Occupied
+B00156,F00927,Neurology,General,Available
+B00157,F00528,Cardiology,Private,Occupied
+B00158,F00557,Dermatology,Emergency,Occupied
+B00159,F01691,Oncology,Emergency,Occupied
+B00160,F00445,Oncology,General,Occupied
+B00161,F01946,Neurology,Private,Occupied
+B00162,F00231,Emergency,General,Occupied
+B00163,F01693,Pediatrics,Private,Occupied
+B00164,F00625,Pediatrics,Private,Occupied
+B00165,F01011,General Medicine,ICU,Available
+B00166,F00889,Oncology,Emergency,Occupied
+B00167,F00359,Orthopedics,Private,Available
+B00168,F01407,Orthopedics,General,Occupied
+B00169,F01536,Orthopedics,General,Occupied
+B00170,F00044,Neurology,ICU,Available
+B00171,F01389,Neurology,ICU,Occupied
+B00172,F01949,Orthopedics,ICU,Available
+B00173,F00877,General Medicine,Emergency,Occupied
+B00174,F01646,Cardiology,ICU,Occupied
+B00175,F01135,Emergency,Emergency,Occupied
+B00176,F00223,Neurology,ICU,Available
+B00177,F01410,Orthopedics,Emergency,Occupied
+B00178,F00902,Pediatrics,Private,Occupied
+B00179,F01289,Neurology,ICU,Available
+B00180,F00271,Cardiology,Emergency,Occupied
+B00181,F00212,Neurology,Private,Available
+B00182,F01520,Cardiology,ICU,Occupied
+B00183,F01338,Cardiology,Private,Occupied
+B00184,F01794,Neurology,ICU,Occupied
+B00185,F01411,Cardiology,General,Occupied
+B00186,F00247,Oncology,Emergency,Available
+B00187,F00948,Neurology,General,Occupied
+B00188,F01591,Neurology,Emergency,Occupied
+B00189,F00821,General Medicine,General,Maintenance
+B00190,F01374,Pediatrics,ICU,Occupied
+B00191,F00072,Oncology,General,Available
+B00192,F01320,Emergency,ICU,Available
+B00193,F01237,Oncology,Emergency,Available
+B00194,F00295,Cardiology,ICU,Available
+B00195,F00171,Oncology,General,Occupied
+B00196,F00246,Neurology,Private,Available
+B00197,F01165,Cardiology,Emergency,Occupied
+B00198,F01640,Neurology,Private,Available
+B00199,F00617,Emergency,Private,Occupied
+B00200,F00240,Dermatology,Private,Available
+B00201,F01957,Neurology,Private,Available
+B00202,F00311,Neurology,Private,Occupied
+B00203,F01440,Pediatrics,General,Occupied
+B00204,F00398,Cardiology,ICU,Available
+B00205,F01857,Pediatrics,ICU,Occupied
+B00206,F00923,Oncology,Private,Occupied
+B00207,F00792,Oncology,General,Occupied
+B00208,F01907,Pediatrics,Private,Occupied
+B00209,F01905,Oncology,Private,Occupied
+B00210,F00022,Dermatology,Emergency,Occupied
+B00211,F01102,Oncology,General,Occupied
+B00212,F00813,Dermatology,Private,Occupied
+B00213,F00904,Pediatrics,ICU,Occupied
+B00214,F01499,Pediatrics,Emergency,Occupied
+B00215,F01731,General Medicine,Private,Occupied
+B00216,F00832,Cardiology,Private,Occupied
+B00217,F01377,Cardiology,Private,Occupied
+B00218,F01395,Neurology,General,Available
+B00219,F01967,Cardiology,Private,Occupied
+B00220,F01045,Emergency,ICU,Occupied
+B00221,F00507,Pediatrics,Emergency,Occupied
+B00222,F00160,Orthopedics,General,Available
+B00223,F00744,Dermatology,Emergency,Occupied
+B00224,F01385,Cardiology,ICU,Available
+B00225,F00813,Dermatology,Private,Occupied
+B00226,F01580,Dermatology,General,Occupied
+B00227,F01321,Orthopedics,Private,Maintenance
+B00228,F01376,Oncology,General,Occupied
+B00229,F00180,Dermatology,Private,Available
+B00230,F01496,Emergency,ICU,Available
+B00231,F01419,General Medicine,ICU,Available
+B00232,F01637,Neurology,Private,Available
+B00233,F01651,Neurology,ICU,Occupied
+B00234,F00213,Neurology,Private,Occupied
+B00235,F00530,General Medicine,General,Occupied
+B00236,F01419,Pediatrics,ICU,Maintenance
+B00237,F00027,Dermatology,General,Occupied
+B00238,F00939,Orthopedics,Private,Occupied
+B00239,F00870,Cardiology,General,Available
+B00240,F01473,Pediatrics,Emergency,Occupied
+B00241,F00438,Neurology,Private,Occupied
+B00242,F00285,Oncology,ICU,Available
+B00243,F00661,Neurology,ICU,Occupied
+B00244,F01821,Dermatology,Emergency,Occupied
+B00245,F00649,Pediatrics,Private,Occupied
+B00246,F00189,Orthopedics,Private,Occupied
+B00247,F01726,Pediatrics,Private,Occupied
+B00248,F01223,General Medicine,Private,Occupied
+B00249,F01126,Neurology,General,Occupied
+B00250,F00479,Orthopedics,Private,Occupied
+B00251,F00603,Oncology,General,Occupied
+B00252,F01015,Dermatology,General,Occupied
+B00253,F01248,Cardiology,ICU,Occupied
+B00254,F00517,Dermatology,Private,Occupied
+B00255,F01889,Oncology,General,Occupied
+B00256,F01551,Oncology,Private,Occupied
+B00257,F01465,Neurology,Emergency,Available
+B00258,F01541,Dermatology,General,Available
+B00259,F00916,Pediatrics,ICU,Occupied
+B00260,F00230,Orthopedics,Private,Available
+B00261,F00869,Neurology,ICU,Occupied
+B00262,F01873,Cardiology,General,Available
+B00263,F01138,Cardiology,General,Occupied
+B00264,F01540,Emergency,ICU,Available
+B00265,F01208,Pediatrics,Private,Occupied
+B00266,F01749,General Medicine,General,Occupied
+B00267,F00759,Oncology,Emergency,Available
+B00268,F00034,Pediatrics,ICU,Occupied
+B00269,F00296,Orthopedics,General,Available
+B00270,F00453,Pediatrics,Private,Occupied
+B00271,F01732,Orthopedics,General,Occupied
+B00272,F01529,Emergency,Private,Available
+B00273,F01430,Oncology,Private,Occupied
+B00274,F01151,Oncology,General,Occupied
+B00275,F00142,Emergency,Emergency,Available
+B00276,F01988,Emergency,Private,Available
+B00277,F00648,General Medicine,ICU,Occupied
+B00278,F00128,Emergency,Private,Available
+B00279,F00835,Pediatrics,Private,Maintenance
+B00280,F01710,Cardiology,Emergency,Occupied
+B00281,F00925,Orthopedics,Private,Available
+B00282,F00730,Dermatology,General,Occupied
+B00283,F01650,Orthopedics,Emergency,Available
+B00284,F01911,Cardiology,Private,Occupied
+B00285,F01374,Oncology,General,Available
+B00286,F01548,Dermatology,General,Available
+B00287,F00463,Pediatrics,Private,Occupied
+B00288,F01268,General Medicine,ICU,Occupied
+B00289,F00564,Neurology,ICU,Available
+B00290,F01210,Pediatrics,Private,Available
+B00291,F01257,Emergency,Private,Occupied
+B00292,F00514,Dermatology,General,Available
+B00293,F00001,Oncology,Private,Occupied
+B00294,F01263,Pediatrics,Private,Available
+B00295,F01079,Orthopedics,General,Occupied
+B00296,F01519,Orthopedics,Private,Occupied
+B00297,F01756,General Medicine,Private,Occupied
+B00298,F01640,Emergency,Private,Occupied
+B00299,F01891,Dermatology,General,Available
+B00300,F01442,General Medicine,Private,Occupied
+B00301,F01472,General Medicine,ICU,Available
+B00302,F01860,Cardiology,Private,Maintenance
+B00303,F00338,Dermatology,ICU,Available
+B00304,F00908,Neurology,Private,Occupied
+B00305,F00818,Neurology,General,Occupied
+B00306,F01301,Dermatology,ICU,Occupied
+B00307,F01034,Emergency,Private,Occupied
+B00308,F01365,General Medicine,Private,Available
+B00309,F01128,Oncology,Private,Occupied
+B00310,F00345,Orthopedics,Private,Available
+B00311,F01394,Neurology,General,Occupied
+B00312,F00977,Oncology,Emergency,Occupied
+B00313,F00883,Dermatology,ICU,Occupied
+B00314,F00198,Oncology,Private,Available
+B00315,F01038,Dermatology,General,Occupied
+B00316,F01704,Pediatrics,Emergency,Occupied
+B00317,F00872,Cardiology,General,Available
+B00318,F01362,Orthopedics,Private,Available
+B00319,F00542,Cardiology,Emergency,Occupied
+B00320,F00457,Pediatrics,ICU,Occupied
+B00321,F01550,Neurology,ICU,Occupied
+B00322,F00750,Cardiology,General,Available
+B00323,F01460,Emergency,ICU,Occupied
+B00324,F00366,Cardiology,ICU,Available
+B00325,F00401,Cardiology,Emergency,Occupied
+B00326,F00574,Oncology,ICU,Occupied
+B00327,F00482,Dermatology,Emergency,Occupied
+B00328,F00110,Pediatrics,Emergency,Available
+B00329,F01019,Dermatology,Emergency,Occupied
+B00330,F00406,Orthopedics,ICU,Maintenance
+B00331,F00309,Oncology,General,Occupied
+B00332,F00160,Dermatology,General,Occupied
+B00333,F00844,Orthopedics,ICU,Occupied
+B00334,F00055,Pediatrics,Emergency,Occupied
+B00335,F00761,Oncology,ICU,Occupied
+B00336,F02000,Dermatology,Private,Occupied
+B00337,F00256,Cardiology,General,Occupied
+B00338,F00534,Oncology,Emergency,Occupied
+B00339,F00422,Cardiology,ICU,Occupied
+B00340,F00946,General Medicine,Emergency,Available
+B00341,F01639,Oncology,Private,Occupied
+B00342,F00962,Emergency,Emergency,Occupied
+B00343,F00813,Neurology,Private,Occupied
+B00344,F00887,Neurology,General,Available
+B00345,F00264,Orthopedics,Emergency,Available
+B00346,F00748,Pediatrics,ICU,Occupied
+B00347,F00833,Oncology,Emergency,Available
+B00348,F00233,Cardiology,Emergency,Occupied
+B00349,F00680,Dermatology,Private,Occupied
+B00350,F00233,Emergency,Private,Occupied
+B00351,F01541,Neurology,ICU,Occupied
+B00352,F01069,Pediatrics,General,Available
+B00353,F00558,Pediatrics,General,Occupied
+B00354,F01700,Oncology,Private,Available
+B00355,F00913,Cardiology,ICU,Occupied
+B00356,F00681,Oncology,Emergency,Occupied
+B00357,F01950,Oncology,ICU,Occupied
+B00358,F01460,Emergency,ICU,Occupied
+B00359,F00335,Pediatrics,ICU,Maintenance
+B00360,F00404,Neurology,General,Occupied
+B00361,F01188,General Medicine,Emergency,Occupied
+B00362,F00256,Neurology,ICU,Available
+B00363,F01090,Emergency,General,Occupied
+B00364,F01020,General Medicine,General,Occupied
+B00365,F00941,Dermatology,Private,Occupied
+B00366,F00772,Dermatology,Emergency,Available
+B00367,F00946,Pediatrics,ICU,Available
+B00368,F01112,Neurology,Emergency,Available
+B00369,F01264,Cardiology,Private,Available
+B00370,F00311,Emergency,Private,Available
+B00371,F01595,Pediatrics,ICU,Available
+B00372,F00682,Cardiology,General,Occupied
+B00373,F01282,General Medicine,Private,Occupied
+B00374,F01582,Dermatology,General,Occupied
+B00375,F01538,Orthopedics,Private,Available
+B00376,F01458,Orthopedics,Emergency,Available
+B00377,F00129,General Medicine,ICU,Occupied
+B00378,F00781,Orthopedics,Private,Occupied
+B00379,F00326,Oncology,Emergency,Occupied
+B00380,F00790,Emergency,Private,Available
+B00381,F00017,Oncology,ICU,Occupied
+B00382,F00699,Pediatrics,Emergency,Available
+B00383,F01009,Pediatrics,General,Occupied
+B00384,F00342,Emergency,Private,Occupied
+B00385,F01003,Neurology,Private,Occupied
+B00386,F00838,Pediatrics,Emergency,Available
+B00387,F00628,Dermatology,ICU,Occupied
+B00388,F00771,Orthopedics,Private,Occupied
+B00389,F00878,Dermatology,Emergency,Occupied
+B00390,F01273,Emergency,ICU,Available
+B00391,F00710,Cardiology,Private,Occupied
+B00392,F00849,Oncology,Emergency,Occupied
+B00393,F00739,Neurology,ICU,Available
+B00394,F00177,Cardiology,Private,Occupied
+B00395,F01779,Dermatology,Private,Available
+B00396,F00946,Orthopedics,ICU,Occupied
+B00397,F00357,Dermatology,ICU,Occupied
+B00398,F00495,Cardiology,Emergency,Available
+B00399,F00035,Orthopedics,Private,Available
+B00400,F01431,Pediatrics,Private,Occupied
+B00401,F01992,Neurology,Emergency,Occupied
+B00402,F01671,General Medicine,Private,Occupied
+B00403,F00818,Orthopedics,Private,Occupied
+B00404,F00010,Emergency,Private,Occupied
+B00405,F00986,Emergency,General,Occupied
+B00406,F01719,Pediatrics,ICU,Available
+B00407,F01738,Emergency,General,Occupied
+B00408,F00531,Cardiology,General,Occupied
+B00409,F01559,Pediatrics,ICU,Available
+B00410,F00095,Emergency,General,Available
+B00411,F00576,Cardiology,Emergency,Occupied
+B00412,F01953,Cardiology,General,Occupied
+B00413,F00450,Cardiology,Emergency,Available
+B00414,F01244,Emergency,ICU,Available
+B00415,F01018,Oncology,Private,Occupied
+B00416,F00096,Cardiology,ICU,Occupied
+B00417,F00865,Dermatology,ICU,Available
+B00418,F01801,Neurology,General,Occupied
+B00419,F01405,Emergency,ICU,Maintenance
+B00420,F00669,Cardiology,ICU,Occupied
+B00421,F00207,Neurology,Emergency,Occupied
+B00422,F01810,Dermatology,Private,Occupied
+B00423,F00850,General Medicine,General,Occupied
+B00424,F00246,Neurology,Private,Occupied
+B00425,F01735,Emergency,Private,Available
+B00426,F01998,Emergency,Private,Available
+B00427,F01821,Cardiology,General,Occupied
+B00428,F01534,Dermatology,ICU,Available
+B00429,F00884,Oncology,Private,Occupied
+B00430,F00083,Dermatology,General,Occupied
+B00431,F00317,Dermatology,ICU,Available
+B00432,F00645,Emergency,Private,Occupied
+B00433,F01129,General Medicine,Emergency,Occupied
+B00434,F00370,Dermatology,General,Occupied
+B00435,F00749,Oncology,Private,Available
+B00436,F01605,Pediatrics,General,Occupied
+B00437,F01720,Neurology,Emergency,Occupied
+B00438,F00630,Pediatrics,General,Occupied
+B00439,F00180,General Medicine,ICU,Occupied
+B00440,F01807,Neurology,Private,Available
+B00441,F00602,Cardiology,General,Occupied
+B00442,F00600,Neurology,General,Occupied
+B00443,F01107,Cardiology,Private,Occupied
+B00444,F01556,Orthopedics,Emergency,Occupied
+B00445,F01643,Neurology,Emergency,Available
+B00446,F00841,Oncology,Private,Occupied
+B00447,F01525,Neurology,Private,Occupied
+B00448,F00348,Oncology,ICU,Maintenance
+B00449,F01296,Pediatrics,General,Occupied
+B00450,F00331,Pediatrics,General,Occupied
+B00451,F00610,General Medicine,Emergency,Available
+B00452,F01945,Cardiology,ICU,Occupied
+B00453,F00744,Emergency,General,Maintenance
+B00454,F01911,Pediatrics,ICU,Available
+B00455,F00569,Oncology,Private,Available
+B00456,F01685,Oncology,General,Occupied
+B00457,F00389,Dermatology,Private,Occupied
+B00458,F00971,General Medicine,Emergency,Available
+B00459,F00747,Cardiology,Emergency,Available
+B00460,F00137,Oncology,Private,Available
+B00461,F01803,Cardiology,Emergency,Available
+B00462,F01765,Cardiology,Private,Available
+B00463,F01385,Orthopedics,Private,Occupied
+B00464,F01857,Cardiology,Private,Occupied
+B00465,F01983,Oncology,Emergency,Occupied
+B00466,F00282,Oncology,Emergency,Occupied
+B00467,F01226,General Medicine,Emergency,Occupied
+B00468,F01019,Cardiology,Private,Occupied
+B00469,F00744,Oncology,ICU,Occupied
+B00470,F00531,Emergency,Emergency,Maintenance
+B00471,F00016,Emergency,ICU,Occupied
+B00472,F01005,Oncology,Emergency,Occupied
+B00473,F00568,Cardiology,General,Available
+B00474,F01893,General Medicine,General,Available
+B00475,F01138,Neurology,General,Occupied
+B00476,F01092,Cardiology,ICU,Occupied
+B00477,F01614,General Medicine,Emergency,Occupied
+B00478,F00030,Pediatrics,Private,Occupied
+B00479,F01543,General Medicine,ICU,Occupied
+B00480,F01932,Orthopedics,Emergency,Available
+B00481,F00664,Pediatrics,General,Available
+B00482,F00999,Emergency,ICU,Available
+B00483,F00875,Emergency,Emergency,Occupied
+B00484,F00022,Neurology,Private,Occupied
+B00485,F01455,Neurology,ICU,Occupied
+B00486,F01054,General Medicine,Private,Occupied
+B00487,F00956,General Medicine,ICU,Available
+B00488,F01703,Cardiology,General,Available
+B00489,F00660,Dermatology,General,Occupied
+B00490,F01434,Dermatology,General,Maintenance
+B00491,F01073,Cardiology,Private,Available
+B00492,F00325,Emergency,General,Occupied
+B00493,F01512,Orthopedics,Private,Occupied
+B00494,F01322,Dermatology,Private,Occupied
+B00495,F01798,Cardiology,Private,Occupied
+B00496,F00181,Emergency,General,Occupied
+B00497,F01826,General Medicine,Emergency,Occupied
+B00498,F00122,Oncology,Private,Available
+B00499,F00124,Dermatology,Emergency,Occupied
+B00500,F01477,General Medicine,Private,Occupied
+B00501,F00266,Cardiology,General,Available
+B00502,F00028,Dermatology,General,Available
+B00503,F01283,Orthopedics,General,Occupied
+B00504,F00077,Emergency,ICU,Occupied
+B00505,F00432,General Medicine,General,Available
+B00506,F00879,Emergency,Emergency,Available
+B00507,F01730,Orthopedics,Private,Maintenance
+B00508,F00894,General Medicine,Emergency,Occupied
+B00509,F01059,Emergency,ICU,Available
+B00510,F00436,Oncology,Emergency,Occupied
+B00511,F01138,Orthopedics,Private,Available
+B00512,F01086,Orthopedics,Private,Occupied
+B00513,F00052,Orthopedics,General,Occupied
+B00514,F00116,Cardiology,ICU,Occupied
+B00515,F00047,Neurology,ICU,Occupied
+B00516,F00438,Emergency,Emergency,Occupied
+B00517,F01436,Orthopedics,General,Occupied
+B00518,F00101,Emergency,General,Occupied
+B00519,F01303,Orthopedics,General,Occupied
+B00520,F00107,Emergency,Private,Available
+B00521,F00983,General Medicine,ICU,Occupied
+B00522,F01059,Emergency,Emergency,Available
+B00523,F01001,Dermatology,Emergency,Available
+B00524,F00359,Neurology,Emergency,Occupied
+B00525,F00887,General Medicine,General,Occupied
+B00526,F00800,Oncology,ICU,Available
+B00527,F01026,General Medicine,ICU,Occupied
+B00528,F01775,Orthopedics,Private,Occupied
+B00529,F01516,Pediatrics,Private,Occupied
+B00530,F01904,Dermatology,Private,Occupied
+B00531,F01914,Oncology,Emergency,Occupied
+B00532,F01296,Neurology,Emergency,Maintenance
+B00533,F01168,General Medicine,ICU,Available
+B00534,F00435,Pediatrics,Private,Available
+B00535,F01475,Pediatrics,Emergency,Occupied
+B00536,F00604,General Medicine,Private,Maintenance
+B00537,F01757,Orthopedics,Private,Available
+B00538,F00566,Cardiology,ICU,Available
+B00539,F00916,General Medicine,ICU,Occupied
+B00540,F00228,Orthopedics,Emergency,Occupied
+B00541,F00545,Neurology,ICU,Available
+B00542,F01238,Orthopedics,Private,Occupied
+B00543,F00648,Pediatrics,ICU,Maintenance
+B00544,F00248,Dermatology,Private,Occupied
+B00545,F01432,Dermatology,Private,Maintenance
+B00546,F01077,Neurology,Emergency,Occupied
+B00547,F01600,Oncology,Emergency,Occupied
+B00548,F00314,Dermatology,Emergency,Occupied
+B00549,F01398,Neurology,Private,Available
+B00550,F00037,Cardiology,ICU,Available
+B00551,F00724,Oncology,Emergency,Occupied
+B00552,F01548,Cardiology,Emergency,Occupied
+B00553,F00980,General Medicine,ICU,Occupied
+B00554,F00084,Dermatology,ICU,Occupied
+B00555,F00900,Orthopedics,Emergency,Available
+B00556,F01118,General Medicine,Private,Occupied
+B00557,F01439,Cardiology,Private,Occupied
+B00558,F01366,Pediatrics,Emergency,Maintenance
+B00559,F00719,Cardiology,ICU,Occupied
+B00560,F00550,Orthopedics,Private,Occupied
+B00561,F01445,Oncology,ICU,Occupied
+B00562,F01372,Oncology,General,Occupied
+B00563,F00715,Pediatrics,ICU,Occupied
+B00564,F01806,Dermatology,ICU,Occupied
+B00565,F00587,General Medicine,General,Occupied
+B00566,F01152,General Medicine,Private,Available
+B00567,F01865,Cardiology,Private,Available
+B00568,F00152,Cardiology,Private,Available
+B00569,F01546,Oncology,Emergency,Occupied
+B00570,F01062,Dermatology,General,Occupied
+B00571,F01451,Emergency,ICU,Occupied
+B00572,F01129,Oncology,General,Available
+B00573,F00165,General Medicine,General,Occupied
+B00574,F00938,Dermatology,General,Occupied
+B00575,F01568,General Medicine,General,Occupied
+B00576,F00212,Neurology,General,Occupied
+B00577,F00526,Orthopedics,General,Occupied
+B00578,F00742,Neurology,Emergency,Occupied
+B00579,F00132,Neurology,General,Available
+B00580,F01176,General Medicine,General,Occupied
+B00581,F00096,Emergency,Private,Occupied
+B00582,F01527,Oncology,General,Available
+B00583,F01013,Oncology,General,Occupied
+B00584,F00522,Dermatology,Private,Occupied
+B00585,F00374,Dermatology,Private,Occupied
+B00586,F01899,Orthopedics,Private,Occupied
+B00587,F01040,General Medicine,ICU,Available
+B00588,F01703,Neurology,General,Occupied
+B00589,F00608,Neurology,General,Occupied
+B00590,F00018,Dermatology,General,Occupied
+B00591,F01433,Dermatology,Private,Available
+B00592,F01031,General Medicine,Emergency,Occupied
+B00593,F01720,Cardiology,General,Available
+B00594,F01918,Cardiology,Private,Available
+B00595,F01269,General Medicine,Private,Occupied
+B00596,F01967,Pediatrics,Private,Occupied
+B00597,F01907,Pediatrics,ICU,Occupied
+B00598,F00978,Cardiology,Private,Occupied
+B00599,F00879,Orthopedics,Emergency,Occupied
+B00600,F00594,Emergency,ICU,Occupied
+B00601,F00643,Neurology,Private,Occupied
+B00602,F00129,Dermatology,Emergency,Available
+B00603,F00801,Orthopedics,Emergency,Available
+B00604,F00455,Dermatology,General,Available
+B00605,F01610,Cardiology,Private,Occupied
+B00606,F00876,Oncology,Private,Maintenance
+B00607,F00571,General Medicine,General,Occupied
+B00608,F01096,Pediatrics,Emergency,Occupied
+B00609,F01014,Cardiology,Private,Occupied
+B00610,F01184,Orthopedics,General,Occupied
+B00611,F01111,Orthopedics,General,Occupied
+B00612,F00401,Emergency,Emergency,Available
+B00613,F00462,Dermatology,Emergency,Occupied
+B00614,F01553,Cardiology,Private,Occupied
+B00615,F00089,Neurology,Private,Occupied
+B00616,F01685,Orthopedics,ICU,Available
+B00617,F00823,Neurology,Emergency,Available
+B00618,F00006,Neurology,ICU,Available
+B00619,F01620,Dermatology,ICU,Occupied
+B00620,F00945,General Medicine,General,Available
+B00621,F00084,Cardiology,General,Occupied
+B00622,F01274,Cardiology,Private,Maintenance
+B00623,F01690,Neurology,Emergency,Available
+B00624,F01440,General Medicine,Emergency,Occupied
+B00625,F01096,Oncology,ICU,Available
+B00626,F00621,Orthopedics,ICU,Occupied
+B00627,F01136,Orthopedics,Private,Occupied
+B00628,F00172,Cardiology,General,Available
+B00629,F00699,Dermatology,Emergency,Occupied
+B00630,F01821,Dermatology,Emergency,Available
+B00631,F00273,Neurology,Emergency,Occupied
+B00632,F00530,General Medicine,Emergency,Available
+B00633,F01704,General Medicine,General,Available
+B00634,F00319,Orthopedics,Private,Available
+B00635,F01106,Orthopedics,Private,Occupied
+B00636,F01099,Dermatology,General,Occupied
+B00637,F00429,Pediatrics,Private,Available
+B00638,F01484,Pediatrics,Private,Occupied
+B00639,F00847,Neurology,ICU,Occupied
+B00640,F01370,Pediatrics,General,Occupied
+B00641,F00249,General Medicine,Private,Maintenance
+B00642,F01667,Pediatrics,ICU,Available
+B00643,F00387,Oncology,General,Occupied
+B00644,F01958,Cardiology,General,Available
+B00645,F01891,Cardiology,Emergency,Occupied
+B00646,F01737,Emergency,ICU,Maintenance
+B00647,F00363,Orthopedics,ICU,Occupied
+B00648,F01320,Orthopedics,ICU,Occupied
+B00649,F00068,Dermatology,General,Occupied
+B00650,F00438,Neurology,Emergency,Occupied
+B00651,F01016,Oncology,General,Occupied
+B00652,F01556,Cardiology,Private,Available
+B00653,F01807,Emergency,Private,Available
+B00654,F01629,Oncology,Private,Available
+B00655,F01157,Neurology,Emergency,Occupied
+B00656,F01319,Neurology,General,Occupied
+B00657,F00296,Oncology,ICU,Available
+B00658,F00647,Dermatology,Private,Occupied
+B00659,F01992,Pediatrics,Private,Occupied
+B00660,F01888,Orthopedics,General,Occupied
+B00661,F01892,Neurology,ICU,Occupied
+B00662,F00033,Oncology,Emergency,Occupied
+B00663,F01398,Neurology,Private,Available
+B00664,F01829,Orthopedics,Private,Occupied
+B00665,F00032,Dermatology,Private,Available
+B00666,F00555,Orthopedics,ICU,Available
+B00667,F01983,Cardiology,Private,Occupied
+B00668,F01828,Orthopedics,ICU,Occupied
+B00669,F01890,Pediatrics,Private,Occupied
+B00670,F00305,Cardiology,Private,Occupied
+B00671,F00793,Dermatology,ICU,Available
+B00672,F01132,Oncology,ICU,Available
+B00673,F00096,Emergency,Emergency,Occupied
+B00674,F01090,Neurology,General,Occupied
+B00675,F00521,Pediatrics,Private,Available
+B00676,F00230,Pediatrics,Private,Occupied
+B00677,F00733,Cardiology,General,Available
+B00678,F00358,Neurology,General,Occupied
+B00679,F00402,Cardiology,General,Occupied
+B00680,F00790,General Medicine,Private,Occupied
+B00681,F00099,General Medicine,Private,Available
+B00682,F00271,Cardiology,Private,Occupied
+B00683,F01799,Neurology,ICU,Occupied
+B00684,F01933,Dermatology,Emergency,Occupied
+B00685,F00362,Neurology,Emergency,Occupied
+B00686,F01188,Orthopedics,General,Available
+B00687,F00528,Dermatology,General,Occupied
+B00688,F01193,Pediatrics,Private,Occupied
+B00689,F01045,Oncology,Emergency,Available
+B00690,F00540,Cardiology,Emergency,Occupied
+B00691,F01866,Dermatology,ICU,Occupied
+B00692,F00595,Pediatrics,Private,Occupied
+B00693,F01809,Dermatology,Private,Available
+B00694,F00833,Pediatrics,Emergency,Available
+B00695,F00397,General Medicine,Emergency,Maintenance
+B00696,F01060,General Medicine,ICU,Available
+B00697,F00495,Emergency,ICU,Available
+B00698,F00314,Dermatology,Private,Occupied
+B00699,F00490,Dermatology,ICU,Available
+B00700,F01300,Cardiology,Emergency,Occupied
+B00701,F00233,Emergency,Private,Available
+B00702,F01640,Oncology,Emergency,Available
+B00703,F01460,Cardiology,Private,Available
+B00704,F01030,Neurology,Private,Occupied
+B00705,F01559,Oncology,Emergency,Occupied
+B00706,F01706,Cardiology,Private,Occupied
+B00707,F00664,Oncology,Private,Occupied
+B00708,F00244,Dermatology,ICU,Maintenance
+B00709,F00241,Neurology,Emergency,Occupied
+B00710,F01797,Oncology,Emergency,Occupied
+B00711,F01952,Neurology,ICU,Occupied
+B00712,F00558,Cardiology,Private,Available
+B00713,F01297,Neurology,General,Available
+B00714,F00075,Pediatrics,General,Occupied
+B00715,F00283,Neurology,Emergency,Occupied
+B00716,F01732,Pediatrics,ICU,Occupied
+B00717,F01559,Pediatrics,Private,Occupied
+B00718,F00087,Pediatrics,ICU,Occupied
+B00719,F00881,Oncology,Private,Available
+B00720,F01657,Orthopedics,Emergency,Occupied
+B00721,F00930,Emergency,Emergency,Occupied
+B00722,F01173,Dermatology,General,Available
+B00723,F01174,Orthopedics,ICU,Occupied
+B00724,F01601,Dermatology,Emergency,Occupied
+B00725,F00160,Dermatology,ICU,Occupied
+B00726,F00446,Neurology,Emergency,Occupied
+B00727,F01820,Emergency,Private,Occupied
+B00728,F00082,Dermatology,Private,Available
+B00729,F01031,Emergency,General,Available
+B00730,F00182,Emergency,Emergency,Occupied
+B00731,F00870,Cardiology,General,Occupied
+B00732,F00966,Neurology,General,Available
+B00733,F01550,Oncology,Emergency,Occupied
+B00734,F00478,Orthopedics,Emergency,Occupied
+B00735,F00183,Emergency,Private,Occupied
+B00736,F01338,Dermatology,General,Available
+B00737,F01580,Emergency,Private,Available
+B00738,F00174,Dermatology,ICU,Maintenance
+B00739,F00014,General Medicine,ICU,Available
+B00740,F01324,Emergency,General,Occupied
+B00741,F01961,Emergency,General,Available
+B00742,F00073,General Medicine,Emergency,Occupied
+B00743,F01759,Neurology,Emergency,Available
+B00744,F00514,Orthopedics,General,Available
+B00745,F01746,Oncology,General,Maintenance
+B00746,F01797,Pediatrics,ICU,Available
+B00747,F00602,Orthopedics,Private,Occupied
+B00748,F00343,Neurology,ICU,Available
+B00749,F01420,Orthopedics,ICU,Maintenance
+B00750,F01870,General Medicine,Private,Occupied
+B00751,F01788,Emergency,General,Available
+B00752,F01919,Emergency,General,Available
+B00753,F00333,Oncology,ICU,Occupied
+B00754,F00355,Pediatrics,ICU,Occupied
+B00755,F01583,Neurology,Private,Occupied
+B00756,F00847,Emergency,Emergency,Occupied
+B00757,F00163,Neurology,Emergency,Occupied
+B00758,F00116,Cardiology,General,Occupied
+B00759,F01427,Dermatology,Emergency,Occupied
+B00760,F01103,Pediatrics,General,Occupied
+B00761,F01471,Dermatology,General,Maintenance
+B00762,F01907,Neurology,General,Occupied
+B00763,F01032,Orthopedics,Private,Available
+B00764,F01047,Orthopedics,ICU,Occupied
+B00765,F01805,Orthopedics,Emergency,Occupied
+B00766,F00791,Orthopedics,Private,Occupied
+B00767,F00543,Neurology,Emergency,Available
+B00768,F00414,General Medicine,Private,Occupied
+B00769,F00682,Pediatrics,Emergency,Occupied
+B00770,F00642,Orthopedics,Emergency,Occupied
+B00771,F01931,Neurology,ICU,Occupied
+B00772,F01433,Emergency,Emergency,Occupied
+B00773,F00669,Emergency,Private,Occupied
+B00774,F00022,Neurology,Emergency,Occupied
+B00775,F01662,Orthopedics,ICU,Available
+B00776,F01427,Cardiology,Emergency,Available
+B00777,F00969,Neurology,Private,Occupied
+B00778,F01705,Pediatrics,Emergency,Occupied
+B00779,F01702,Pediatrics,ICU,Available
+B00780,F01181,Cardiology,ICU,Occupied
+B00781,F00330,Oncology,ICU,Occupied
+B00782,F01046,Emergency,ICU,Occupied
+B00783,F01496,Emergency,General,Available
+B00784,F01288,Neurology,ICU,Available
+B00785,F01327,Cardiology,Emergency,Maintenance
+B00786,F00902,Neurology,Emergency,Available
+B00787,F01799,Neurology,Emergency,Available
+B00788,F00724,Cardiology,Emergency,Available
+B00789,F01489,Emergency,General,Occupied
+B00790,F01188,Dermatology,General,Available
+B00791,F01160,General Medicine,General,Occupied
+B00792,F00252,Orthopedics,Emergency,Available
+B00793,F00205,Orthopedics,Private,Occupied
+B00794,F01880,Orthopedics,Private,Occupied
+B00795,F01326,Cardiology,Emergency,Occupied
+B00796,F01266,Neurology,ICU,Occupied
+B00797,F00832,Dermatology,ICU,Occupied
+B00798,F01951,Dermatology,Emergency,Occupied
+B00799,F00791,Neurology,ICU,Available
+B00800,F01085,Pediatrics,ICU,Available
+B00801,F00465,Dermatology,Private,Available
+B00802,F01842,Neurology,Emergency,Available
+B00803,F01326,Emergency,General,Available
+B00804,F01496,General Medicine,Private,Available
+B00805,F01835,Orthopedics,Emergency,Occupied
+B00806,F00394,Dermatology,Emergency,Occupied
+B00807,F01631,Oncology,Private,Available
+B00808,F01021,Emergency,ICU,Occupied
+B00809,F00660,Emergency,ICU,Occupied
+B00810,F00912,Dermatology,Private,Available
+B00811,F01998,Dermatology,Emergency,Occupied
+B00812,F01283,General Medicine,General,Occupied
+B00813,F01566,Orthopedics,Emergency,Occupied
+B00814,F00530,Dermatology,General,Available
+B00815,F01211,Cardiology,General,Maintenance
+B00816,F01990,General Medicine,Emergency,Occupied
+B00817,F01236,Emergency,Emergency,Occupied
+B00818,F01059,Dermatology,Emergency,Occupied
+B00819,F01171,Neurology,General,Available
+B00820,F01306,Orthopedics,ICU,Occupied
+B00821,F01571,Pediatrics,General,Occupied
+B00822,F01612,Oncology,General,Occupied
+B00823,F01608,General Medicine,General,Occupied
+B00824,F01273,Emergency,Private,Occupied
+B00825,F00057,Cardiology,ICU,Occupied
+B00826,F01893,Emergency,General,Occupied
+B00827,F01329,Pediatrics,General,Occupied
+B00828,F00522,Dermatology,Private,Occupied
+B00829,F01749,Dermatology,General,Occupied
+B00830,F00361,Cardiology,ICU,Occupied
+B00831,F01261,Orthopedics,General,Available
+B00832,F00234,General Medicine,ICU,Occupied
+B00833,F01949,Cardiology,ICU,Available
+B00834,F00223,Pediatrics,Emergency,Occupied
+B00835,F01640,Emergency,Private,Occupied
+B00836,F00327,Pediatrics,Private,Occupied
+B00837,F01122,Neurology,Private,Occupied
+B00838,F01250,Cardiology,Emergency,Occupied
+B00839,F01758,Oncology,Emergency,Occupied
+B00840,F00836,General Medicine,ICU,Occupied
+B00841,F00489,General Medicine,Private,Available
+B00842,F00478,Emergency,Emergency,Available
+B00843,F00985,Emergency,Emergency,Occupied
+B00844,F01358,Dermatology,Emergency,Occupied
+B00845,F00792,Emergency,ICU,Available
+B00846,F01579,Neurology,General,Occupied
+B00847,F01887,Oncology,Emergency,Available
+B00848,F00512,Pediatrics,Emergency,Maintenance
+B00849,F01013,Emergency,Emergency,Available
+B00850,F00382,Dermatology,Private,Occupied
+B00851,F01447,Cardiology,Private,Occupied
+B00852,F01372,Emergency,Emergency,Available
+B00853,F01177,Pediatrics,ICU,Occupied
+B00854,F01875,Cardiology,General,Available
+B00855,F00452,Cardiology,Private,Occupied
+B00856,F01314,Cardiology,General,Available
+B00857,F01760,Pediatrics,Emergency,Occupied
+B00858,F01143,Emergency,Private,Occupied
+B00859,F00214,Pediatrics,General,Occupied
+B00860,F00565,Pediatrics,Emergency,Occupied
+B00861,F00732,Orthopedics,Private,Occupied
+B00862,F00439,Dermatology,Emergency,Occupied
+B00863,F00755,Pediatrics,Private,Occupied
+B00864,F01589,Neurology,General,Occupied
+B00865,F01938,Dermatology,General,Occupied
+B00866,F00629,Orthopedics,Private,Occupied
+B00867,F00903,Cardiology,ICU,Occupied
+B00868,F01471,Emergency,Emergency,Occupied
+B00869,F01867,General Medicine,General,Available
+B00870,F01066,Emergency,ICU,Occupied
+B00871,F00395,Orthopedics,Private,Available
+B00872,F00247,Dermatology,General,Occupied
+B00873,F00905,Orthopedics,General,Occupied
+B00874,F01315,Dermatology,Emergency,Occupied
+B00875,F00248,Dermatology,ICU,Occupied
+B00876,F01637,Cardiology,Emergency,Occupied
+B00877,F00599,Pediatrics,Private,Occupied
+B00878,F00865,Pediatrics,General,Occupied
+B00879,F01473,Orthopedics,ICU,Occupied
+B00880,F00084,Pediatrics,Emergency,Occupied
+B00881,F00773,Orthopedics,ICU,Occupied
+B00882,F01245,Emergency,Private,Occupied
+B00883,F01690,General Medicine,General,Maintenance
+B00884,F00051,Emergency,ICU,Available
+B00885,F00550,General Medicine,Private,Occupied
+B00886,F00771,Cardiology,Private,Occupied
+B00887,F00981,Oncology,General,Occupied
+B00888,F01211,Neurology,Emergency,Occupied
+B00889,F01549,Neurology,General,Occupied
+B00890,F01247,Oncology,General,Occupied
+B00891,F00465,Emergency,ICU,Occupied
+B00892,F00419,Pediatrics,ICU,Occupied
+B00893,F00087,Neurology,Emergency,Occupied
+B00894,F00259,General Medicine,Private,Occupied
+B00895,F01205,Cardiology,ICU,Occupied
+B00896,F00311,General Medicine,Emergency,Occupied
+B00897,F00173,Dermatology,General,Occupied
+B00898,F01346,Orthopedics,Private,Maintenance
+B00899,F01731,Pediatrics,General,Maintenance
+B00900,F01364,Pediatrics,Private,Occupied
+B00901,F01520,Neurology,ICU,Available
+B00902,F01269,Oncology,General,Occupied
+B00903,F00940,Orthopedics,General,Occupied
+B00904,F00505,Neurology,Private,Available
+B00905,F00329,Dermatology,Emergency,Occupied
+B00906,F01904,Neurology,Private,Occupied
+B00907,F00196,Neurology,ICU,Occupied
+B00908,F00062,Orthopedics,Emergency,Occupied
+B00909,F01049,Neurology,General,Occupied
+B00910,F01588,Dermatology,General,Maintenance
+B00911,F00562,Pediatrics,General,Occupied
+B00912,F01402,Oncology,ICU,Available
+B00913,F00897,Neurology,General,Occupied
+B00914,F01319,Orthopedics,General,Available
+B00915,F01076,Orthopedics,Emergency,Available
+B00916,F00844,Oncology,ICU,Occupied
+B00917,F00040,Oncology,General,Occupied
+B00918,F01768,General Medicine,Emergency,Occupied
+B00919,F01596,Neurology,General,Maintenance
+B00920,F00728,Orthopedics,Emergency,Occupied
+B00921,F00457,Emergency,General,Available
+B00922,F00878,Neurology,ICU,Occupied
+B00923,F01876,Cardiology,Private,Available
+B00924,F01733,Oncology,ICU,Occupied
+B00925,F00788,Pediatrics,Emergency,Occupied
+B00926,F01877,Pediatrics,General,Occupied
+B00927,F00002,Emergency,ICU,Occupied
+B00928,F01493,Neurology,General,Occupied
+B00929,F01130,Dermatology,ICU,Occupied
+B00930,F00216,Pediatrics,Emergency,Occupied
+B00931,F00777,Oncology,Private,Occupied
+B00932,F00679,Pediatrics,ICU,Occupied
+B00933,F01783,Dermatology,General,Occupied
+B00934,F00414,Cardiology,General,Occupied
+B00935,F01974,Pediatrics,General,Available
+B00936,F00210,Pediatrics,Emergency,Occupied
+B00937,F01082,Orthopedics,Emergency,Occupied
+B00938,F01964,Pediatrics,Private,Available
+B00939,F00043,Neurology,General,Occupied
+B00940,F00138,Pediatrics,Private,Occupied
+B00941,F01645,Neurology,General,Occupied
+B00942,F01513,Pediatrics,ICU,Occupied
+B00943,F01584,Neurology,ICU,Available
+B00944,F00638,Pediatrics,ICU,Occupied
+B00945,F00469,Oncology,General,Occupied
+B00946,F00726,Emergency,ICU,Available
+B00947,F01937,Oncology,General,Occupied
+B00948,F01664,Neurology,Private,Occupied
+B00949,F01413,Pediatrics,Emergency,Available
+B00950,F01222,Dermatology,ICU,Occupied
+B00951,F00202,Cardiology,General,Occupied
+B00952,F00192,Orthopedics,General,Occupied
+B00953,F00107,Oncology,Private,Occupied
+B00954,F01730,Orthopedics,Private,Occupied
+B00955,F00327,Orthopedics,Emergency,Available
+B00956,F00750,Dermatology,Private,Occupied
+B00957,F00644,Orthopedics,Emergency,Occupied
+B00958,F00357,Oncology,Emergency,Occupied
+B00959,F00595,Dermatology,Private,Maintenance
+B00960,F00501,Cardiology,Emergency,Occupied
+B00961,F01308,Emergency,ICU,Occupied
+B00962,F00468,Emergency,Emergency,Occupied
+B00963,F00508,Cardiology,General,Occupied
+B00964,F01758,Oncology,General,Occupied
+B00965,F00106,Pediatrics,General,Available
+B00966,F01318,Cardiology,Private,Occupied
+B00967,F01090,Orthopedics,General,Occupied
+B00968,F00195,Dermatology,Private,Occupied
+B00969,F01212,Oncology,General,Available
+B00970,F00047,Oncology,Emergency,Occupied
+B00971,F01386,Emergency,Private,Available
+B00972,F01009,General Medicine,General,Maintenance
+B00973,F01895,Pediatrics,Emergency,Occupied
+B00974,F00537,Neurology,Private,Maintenance
+B00975,F01602,Emergency,Emergency,Occupied
+B00976,F01511,Orthopedics,Emergency,Occupied
+B00977,F00847,Dermatology,Emergency,Available
+B00978,F01603,Emergency,Private,Available
+B00979,F00709,Dermatology,Private,Available
+B00980,F01270,Orthopedics,ICU,Occupied
+B00981,F00808,Orthopedics,ICU,Available
+B00982,F00612,Emergency,ICU,Available
+B00983,F01202,Emergency,ICU,Occupied
+B00984,F00115,Emergency,Private,Available
+B00985,F00680,Cardiology,ICU,Maintenance
+B00986,F00631,Emergency,General,Occupied
+B00987,F01189,Dermatology,ICU,Available
+B00988,F00219,Neurology,General,Available
+B00989,F00197,Pediatrics,General,Available
+B00990,F00401,Orthopedics,Emergency,Occupied
+B00991,F01854,Oncology,Emergency,Occupied
+B00992,F00749,Emergency,Emergency,Maintenance
+B00993,F00681,Neurology,ICU,Occupied
+B00994,F00076,General Medicine,Private,Available
+B00995,F01450,Dermatology,General,Occupied
+B00996,F00287,Emergency,Private,Occupied
+B00997,F01569,Cardiology,Private,Occupied
+B00998,F01323,Orthopedics,ICU,Available
+B00999,F00861,Neurology,Private,Occupied
+B01000,F00742,Dermatology,Private,Occupied
+B01001,F01731,Emergency,Emergency,Occupied
+B01002,F00294,Oncology,Emergency,Occupied
+B01003,F00809,Neurology,General,Occupied
+B01004,F00886,Orthopedics,General,Available
+B01005,F01471,Neurology,Emergency,Available
+B01006,F01960,Neurology,ICU,Occupied
+B01007,F00414,Dermatology,ICU,Occupied
+B01008,F00431,Emergency,General,Occupied
+B01009,F01814,Emergency,Emergency,Occupied
+B01010,F01254,Dermatology,ICU,Available
+B01011,F01120,Oncology,Private,Occupied
+B01012,F01919,Pediatrics,General,Occupied
+B01013,F01463,Cardiology,General,Occupied
+B01014,F00171,Pediatrics,Private,Occupied
+B01015,F01341,Cardiology,Private,Occupied
+B01016,F01866,Cardiology,General,Occupied
+B01017,F00544,Pediatrics,Private,Occupied
+B01018,F01515,Dermatology,ICU,Occupied
+B01019,F01412,Orthopedics,General,Occupied
+B01020,F00989,Dermatology,ICU,Available
+B01021,F01581,Neurology,General,Occupied
+B01022,F00072,Oncology,ICU,Available
+B01023,F01023,General Medicine,Emergency,Available
+B01024,F00532,Pediatrics,ICU,Occupied
+B01025,F00239,Pediatrics,Private,Available
+B01026,F00711,Orthopedics,Emergency,Occupied
+B01027,F00577,Oncology,General,Occupied
+B01028,F01724,Neurology,ICU,Occupied
+B01029,F01113,Emergency,General,Available
+B01030,F01946,Dermatology,Emergency,Occupied
+B01031,F00713,Pediatrics,Private,Occupied
+B01032,F01559,General Medicine,Private,Occupied
+B01033,F01832,Neurology,Private,Occupied
+B01034,F00642,Pediatrics,General,Occupied
+B01035,F01178,Oncology,Private,Maintenance
+B01036,F00590,Emergency,Private,Occupied
+B01037,F00190,Pediatrics,General,Occupied
+B01038,F00812,Emergency,General,Occupied
+B01039,F01439,Cardiology,Emergency,Occupied
+B01040,F01178,Cardiology,Private,Occupied
+B01041,F01015,Pediatrics,Emergency,Available
+B01042,F00625,Oncology,ICU,Available
+B01043,F01363,Orthopedics,ICU,Maintenance
+B01044,F00629,Cardiology,ICU,Available
+B01045,F01541,Pediatrics,ICU,Occupied
+B01046,F00889,Emergency,General,Available
+B01047,F01862,Neurology,Emergency,Available
+B01048,F01059,Oncology,Emergency,Available
+B01049,F00784,Dermatology,General,Available
+B01050,F00671,Emergency,ICU,Available
+B01051,F00722,Oncology,Emergency,Occupied
+B01052,F00526,Oncology,Private,Occupied
+B01053,F00537,General Medicine,General,Occupied
+B01054,F00847,Cardiology,General,Occupied
+B01055,F01242,Dermatology,Private,Available
+B01056,F01278,Dermatology,ICU,Available
+B01057,F00996,Dermatology,ICU,Occupied
+B01058,F01227,Pediatrics,Emergency,Occupied
+B01059,F01125,Cardiology,Private,Occupied
+B01060,F01385,Emergency,Emergency,Occupied
+B01061,F01765,Emergency,ICU,Occupied
+B01062,F01735,Neurology,Emergency,Occupied
+B01063,F00914,Oncology,Private,Occupied
+B01064,F00178,Orthopedics,Private,Occupied
+B01065,F00276,Pediatrics,Private,Occupied
+B01066,F00312,Neurology,ICU,Available
+B01067,F01666,General Medicine,General,Occupied
+B01068,F01434,Pediatrics,General,Available
+B01069,F00791,Oncology,General,Occupied
+B01070,F01312,General Medicine,Emergency,Occupied
+B01071,F01677,Oncology,Private,Occupied
+B01072,F01549,Orthopedics,ICU,Maintenance
+B01073,F01425,Pediatrics,General,Occupied
+B01074,F01241,Pediatrics,General,Available
+B01075,F00698,Oncology,Emergency,Available
+B01076,F01494,Dermatology,Emergency,Available
+B01077,F00027,Oncology,General,Occupied
+B01078,F00913,Neurology,Private,Available
+B01079,F01754,Cardiology,Private,Available
+B01080,F00422,Pediatrics,Emergency,Available
+B01081,F01038,Orthopedics,Emergency,Available
+B01082,F00501,Pediatrics,Private,Occupied
+B01083,F01678,Pediatrics,Emergency,Occupied
+B01084,F00908,Pediatrics,Emergency,Available
+B01085,F00325,Dermatology,Private,Occupied
+B01086,F01348,Oncology,Private,Available
+B01087,F01591,Pediatrics,ICU,Maintenance
+B01088,F01727,Oncology,Emergency,Available
+B01089,F00285,Orthopedics,Emergency,Maintenance
+B01090,F01113,Oncology,ICU,Occupied
+B01091,F01069,Neurology,Emergency,Available
+B01092,F01668,Cardiology,Emergency,Occupied
+B01093,F00498,Orthopedics,General,Occupied
+B01094,F00912,Orthopedics,General,Occupied
+B01095,F01522,General Medicine,General,Occupied
+B01096,F01602,Cardiology,ICU,Available
+B01097,F01815,Dermatology,Emergency,Occupied
+B01098,F01860,Neurology,ICU,Available
+B01099,F01684,Oncology,ICU,Occupied
+B01100,F00145,Emergency,Emergency,Available
+B01101,F00948,Neurology,Private,Available
+B01102,F01542,Oncology,Private,Available
+B01103,F00082,Emergency,Emergency,Occupied
+B01104,F00980,General Medicine,Private,Available
+B01105,F01659,General Medicine,General,Occupied
+B01106,F01191,Dermatology,Emergency,Available
+B01107,F01773,Orthopedics,ICU,Occupied
+B01108,F01129,Neurology,General,Occupied
+B01109,F01826,Emergency,ICU,Occupied
+B01110,F00488,Neurology,Private,Occupied
+B01111,F01774,Emergency,Emergency,Available
+B01112,F01334,Neurology,General,Occupied
+B01113,F00082,Orthopedics,Emergency,Available
+B01114,F00094,Emergency,General,Occupied
+B01115,F01345,Neurology,General,Maintenance
+B01116,F00343,Pediatrics,General,Occupied
+B01117,F00797,Oncology,Emergency,Occupied
+B01118,F01833,General Medicine,General,Available
+B01119,F00361,Dermatology,General,Available
+B01120,F01855,General Medicine,Emergency,Occupied
+B01121,F01952,Emergency,ICU,Occupied
+B01122,F01090,General Medicine,Private,Occupied
+B01123,F00624,Dermatology,Emergency,Occupied
+B01124,F00868,Oncology,Emergency,Available
+B01125,F00429,General Medicine,General,Occupied
+B01126,F01425,Pediatrics,Emergency,Occupied
+B01127,F00171,Cardiology,Emergency,Occupied
+B01128,F01783,Neurology,Private,Occupied
+B01129,F00578,Oncology,Emergency,Available
+B01130,F00068,Emergency,General,Available
+B01131,F01516,General Medicine,Private,Occupied
+B01132,F01058,Neurology,Emergency,Occupied
+B01133,F00001,Neurology,General,Occupied
+B01134,F00151,Oncology,Private,Maintenance
+B01135,F00902,Pediatrics,Emergency,Occupied
+B01136,F01808,Dermatology,General,Occupied
+B01137,F00258,Neurology,Private,Occupied
+B01138,F00750,Dermatology,General,Maintenance
+B01139,F00628,General Medicine,Private,Available
+B01140,F01612,Emergency,Emergency,Occupied
+B01141,F00795,Oncology,ICU,Occupied
+B01142,F00019,Neurology,Private,Available
+B01143,F01820,Pediatrics,Emergency,Occupied
+B01144,F00035,Emergency,Private,Occupied
+B01145,F00371,Emergency,ICU,Maintenance
+B01146,F00491,Emergency,General,Available
+B01147,F01860,General Medicine,ICU,Available
+B01148,F00817,Pediatrics,ICU,Occupied
+B01149,F01265,Oncology,General,Occupied
+B01150,F00007,Orthopedics,ICU,Occupied
+B01151,F00549,Cardiology,Emergency,Available
+B01152,F00371,Neurology,Private,Available
+B01153,F01689,Neurology,ICU,Available
+B01154,F00757,Neurology,Private,Available
+B01155,F01274,Dermatology,Private,Available
+B01156,F01139,Orthopedics,General,Occupied
+B01157,F01577,Emergency,ICU,Occupied
+B01158,F01361,Emergency,General,Occupied
+B01159,F00574,Dermatology,General,Occupied
+B01160,F00681,Oncology,Private,Occupied
+B01161,F01166,Cardiology,Emergency,Available
+B01162,F01509,Pediatrics,Private,Occupied
+B01163,F01462,Orthopedics,General,Available
+B01164,F01794,Orthopedics,ICU,Available
+B01165,F00088,General Medicine,Emergency,Occupied
+B01166,F00463,Emergency,Emergency,Occupied
+B01167,F01072,Orthopedics,ICU,Occupied
+B01168,F01971,Oncology,ICU,Occupied
+B01169,F00481,Orthopedics,Emergency,Occupied
+B01170,F00823,Neurology,General,Available
+B01171,F00524,Dermatology,Emergency,Occupied
+B01172,F00211,Emergency,Emergency,Occupied
+B01173,F00244,General Medicine,Emergency,Occupied
+B01174,F00239,Pediatrics,General,Occupied
+B01175,F01221,Oncology,ICU,Occupied
+B01176,F00769,Cardiology,ICU,Occupied
+B01177,F00235,Oncology,ICU,Available
+B01178,F00187,Pediatrics,General,Occupied
+B01179,F00713,General Medicine,General,Available
+B01180,F01639,Neurology,ICU,Occupied
+B01181,F01314,Cardiology,Private,Occupied
+B01182,F01245,Pediatrics,Private,Occupied
+B01183,F00497,Emergency,ICU,Available
+B01184,F01520,Emergency,Private,Available
+B01185,F01904,Cardiology,Private,Occupied
+B01186,F01326,Cardiology,ICU,Available
+B01187,F00187,Cardiology,ICU,Occupied
+B01188,F01474,Orthopedics,General,Occupied
+B01189,F01939,General Medicine,Private,Occupied
+B01190,F01436,Emergency,Private,Occupied
+B01191,F01635,Emergency,ICU,Occupied
+B01192,F00936,General Medicine,Emergency,Occupied
+B01193,F01269,Neurology,ICU,Available
+B01194,F00313,Emergency,General,Available
+B01195,F00819,Pediatrics,Emergency,Available
+B01196,F01520,Neurology,Emergency,Occupied
+B01197,F00022,Dermatology,Emergency,Available
+B01198,F00068,Dermatology,General,Occupied
+B01199,F00392,Pediatrics,Private,Available
+B01200,F01340,Cardiology,ICU,Maintenance
+B01201,F01089,Emergency,General,Occupied
+B01202,F01828,Pediatrics,General,Occupied
+B01203,F01991,Pediatrics,Emergency,Occupied
+B01204,F00729,Oncology,Emergency,Maintenance
+B01205,F00541,Cardiology,General,Occupied
+B01206,F01729,Dermatology,Private,Available
+B01207,F00568,Neurology,Emergency,Occupied
+B01208,F01874,Pediatrics,General,Occupied
+B01209,F00900,Oncology,Emergency,Available
+B01210,F00212,Emergency,ICU,Occupied
+B01211,F01774,Neurology,ICU,Occupied
+B01212,F00200,Neurology,ICU,Occupied
+B01213,F00987,General Medicine,Emergency,Available
+B01214,F00178,Dermatology,Emergency,Occupied
+B01215,F01447,Oncology,Private,Occupied
+B01216,F00931,Oncology,ICU,Available
+B01217,F01689,Emergency,Private,Occupied
+B01218,F01486,Oncology,General,Occupied
+B01219,F00044,Emergency,General,Occupied
+B01220,F01455,Cardiology,ICU,Occupied
+B01221,F00168,Cardiology,Private,Occupied
+B01222,F00287,Oncology,Emergency,Available
+B01223,F00709,Orthopedics,Private,Available
+B01224,F00337,Emergency,General,Occupied
+B01225,F00586,Oncology,Private,Occupied
+B01226,F01195,Oncology,General,Occupied
+B01227,F01916,Dermatology,General,Occupied
+B01228,F00183,Neurology,Private,Available
+B01229,F00016,Oncology,Emergency,Occupied
+B01230,F01520,Orthopedics,General,Available
+B01231,F01604,Emergency,Private,Occupied
+B01232,F00887,Cardiology,General,Occupied
+B01233,F00837,Dermatology,ICU,Occupied
+B01234,F01578,Oncology,Emergency,Occupied
+B01235,F00110,Cardiology,ICU,Available
+B01236,F01577,Emergency,General,Occupied
+B01237,F00306,Orthopedics,Emergency,Occupied
+B01238,F00980,Cardiology,Private,Occupied
+B01239,F00006,Cardiology,Private,Available
+B01240,F00843,General Medicine,Emergency,Available
+B01241,F01717,Pediatrics,ICU,Occupied
+B01242,F01297,Oncology,ICU,Available
+B01243,F00361,Emergency,Emergency,Occupied
+B01244,F01209,General Medicine,Private,Available
+B01245,F01859,Dermatology,Emergency,Available
+B01246,F00656,Pediatrics,ICU,Occupied
+B01247,F01972,Emergency,General,Occupied
+B01248,F01124,General Medicine,Private,Maintenance
+B01249,F01114,Oncology,Emergency,Occupied
+B01250,F00984,General Medicine,General,Available
+B01251,F01270,Emergency,ICU,Occupied
+B01252,F01263,Neurology,Private,Occupied
+B01253,F01954,Orthopedics,Emergency,Available
+B01254,F00724,Emergency,ICU,Occupied
+B01255,F01105,General Medicine,Emergency,Occupied
+B01256,F00115,Neurology,Emergency,Occupied
+B01257,F00276,General Medicine,Private,Occupied
+B01258,F00080,Orthopedics,ICU,Occupied
+B01259,F01592,Dermatology,ICU,Available
+B01260,F00179,Oncology,General,Available
+B01261,F01333,Neurology,ICU,Available
+B01262,F00561,Emergency,ICU,Available
+B01263,F00509,Pediatrics,Private,Available
+B01264,F00260,Dermatology,General,Available
+B01265,F01810,Orthopedics,Private,Available
+B01266,F00292,Oncology,ICU,Occupied
+B01267,F00885,Cardiology,General,Occupied
+B01268,F00291,Emergency,Private,Occupied
+B01269,F00542,Oncology,General,Available
+B01270,F01910,Emergency,ICU,Occupied
+B01271,F00764,Emergency,General,Occupied
+B01272,F01087,Neurology,General,Occupied
+B01273,F00594,Cardiology,General,Maintenance
+B01274,F01429,Dermatology,ICU,Available
+B01275,F00948,Dermatology,ICU,Occupied
+B01276,F00480,Neurology,General,Available
+B01277,F01349,Pediatrics,Private,Available
+B01278,F00381,Neurology,Private,Occupied
+B01279,F01705,Emergency,ICU,Occupied
+B01280,F00310,General Medicine,Emergency,Occupied
+B01281,F01367,Cardiology,Private,Occupied
+B01282,F01694,Cardiology,General,Available
+B01283,F01499,Dermatology,Emergency,Available
+B01284,F01080,Dermatology,ICU,Available
+B01285,F00847,Neurology,Private,Occupied
+B01286,F00425,General Medicine,Emergency,Maintenance
+B01287,F01166,General Medicine,ICU,Occupied
+B01288,F00661,Oncology,ICU,Occupied
+B01289,F01400,Neurology,General,Occupied
+B01290,F00226,Orthopedics,Private,Available
+B01291,F01498,Pediatrics,Emergency,Available
+B01292,F00025,Neurology,General,Occupied
+B01293,F01714,Oncology,Private,Available
+B01294,F01389,Oncology,Emergency,Occupied
+B01295,F00095,Emergency,ICU,Occupied
+B01296,F00508,General Medicine,ICU,Occupied
+B01297,F00565,Pediatrics,Private,Occupied
+B01298,F01840,Neurology,General,Available
+B01299,F01606,Pediatrics,Emergency,Available
+B01300,F01200,Orthopedics,Emergency,Occupied
+B01301,F00644,Oncology,ICU,Occupied
+B01302,F01432,General Medicine,Private,Available
+B01303,F00490,Orthopedics,General,Occupied
+B01304,F01951,Dermatology,ICU,Occupied
+B01305,F01875,Orthopedics,ICU,Occupied
+B01306,F00459,General Medicine,General,Occupied
+B01307,F01437,Dermatology,Emergency,Occupied
+B01308,F00901,Emergency,Emergency,Occupied
+B01309,F00338,Orthopedics,Private,Occupied
+B01310,F00963,Neurology,ICU,Occupied
+B01311,F01896,Neurology,Private,Occupied
+B01312,F01355,Pediatrics,Emergency,Available
+B01313,F01237,Neurology,General,Available
+B01314,F01747,Neurology,Emergency,Occupied
+B01315,F01973,Dermatology,Emergency,Occupied
+B01316,F00345,Oncology,ICU,Occupied
+B01317,F00576,Dermatology,Emergency,Occupied
+B01318,F01571,Pediatrics,Private,Available
+B01319,F01548,Cardiology,General,Occupied
+B01320,F00943,General Medicine,ICU,Occupied
+B01321,F00346,Neurology,General,Occupied
+B01322,F01847,Pediatrics,Private,Occupied
+B01323,F01272,Oncology,Private,Occupied
+B01324,F01648,Orthopedics,Emergency,Available
+B01325,F00325,Orthopedics,Private,Available
+B01326,F00467,Dermatology,Emergency,Occupied
+B01327,F00091,Emergency,ICU,Available
+B01328,F00294,Neurology,General,Occupied
+B01329,F01565,General Medicine,Emergency,Occupied
+B01330,F00524,Pediatrics,Emergency,Available
+B01331,F01683,Dermatology,ICU,Occupied
+B01332,F01673,Emergency,Private,Available
+B01333,F00850,Emergency,Emergency,Occupied
+B01334,F01693,Pediatrics,Private,Maintenance
+B01335,F00259,Dermatology,Emergency,Available
+B01336,F01111,Dermatology,Private,Occupied
+B01337,F01182,Pediatrics,Emergency,Available
+B01338,F01518,Oncology,General,Occupied
+B01339,F00186,Oncology,General,Available
+B01340,F00344,Pediatrics,General,Occupied
+B01341,F00821,Pediatrics,Emergency,Available
+B01342,F01893,General Medicine,Private,Available
+B01343,F00741,Pediatrics,ICU,Available
+B01344,F01540,Dermatology,ICU,Available
+B01345,F00569,General Medicine,ICU,Available
+B01346,F00950,General Medicine,General,Occupied
+B01347,F00509,General Medicine,General,Available
+B01348,F01564,Orthopedics,General,Available
+B01349,F00016,Cardiology,Private,Available
+B01350,F00525,Emergency,General,Maintenance
+B01351,F00200,Neurology,Private,Occupied
+B01352,F01208,Orthopedics,Private,Occupied
+B01353,F00309,Dermatology,Private,Available
+B01354,F01840,Cardiology,Emergency,Occupied
+B01355,F01532,Emergency,ICU,Occupied
+B01356,F01305,Oncology,Private,Available
+B01357,F01858,Orthopedics,ICU,Occupied
+B01358,F01182,Emergency,Private,Available
+B01359,F01384,General Medicine,Private,Maintenance
+B01360,F00259,General Medicine,General,Occupied
+B01361,F01943,Pediatrics,ICU,Available
+B01362,F01181,Dermatology,Private,Occupied
+B01363,F00425,General Medicine,ICU,Available
+B01364,F01630,Orthopedics,General,Occupied
+B01365,F00779,Emergency,Private,Available
+B01366,F01045,Neurology,General,Occupied
+B01367,F00639,Dermatology,Private,Available
+B01368,F01371,Oncology,General,Available
+B01369,F00920,Oncology,General,Occupied
+B01370,F01012,Emergency,Emergency,Available
+B01371,F01887,General Medicine,Private,Maintenance
+B01372,F00350,Oncology,Private,Occupied
+B01373,F00961,Emergency,Private,Available
+B01374,F01409,Cardiology,ICU,Occupied
+B01375,F00438,Emergency,Emergency,Occupied
+B01376,F00456,Orthopedics,ICU,Occupied
+B01377,F00624,Cardiology,Private,Occupied
+B01378,F01770,Dermatology,Emergency,Occupied
+B01379,F01570,Pediatrics,General,Available
+B01380,F01104,Pediatrics,Emergency,Occupied
+B01381,F01476,Emergency,General,Occupied
+B01382,F01619,Neurology,Private,Available
+B01383,F01565,Orthopedics,Private,Occupied
+B01384,F01513,Neurology,General,Occupied
+B01385,F00643,Cardiology,Emergency,Occupied
+B01386,F01547,Neurology,ICU,Occupied
+B01387,F00392,Dermatology,Emergency,Maintenance
+B01388,F00574,Cardiology,General,Available
+B01389,F01383,Dermatology,General,Occupied
+B01390,F00033,Oncology,ICU,Occupied
+B01391,F01160,Neurology,ICU,Available
+B01392,F00921,Pediatrics,ICU,Available
+B01393,F01624,Orthopedics,General,Occupied
+B01394,F01946,Neurology,Private,Available
+B01395,F00410,Emergency,Emergency,Occupied
+B01396,F01553,Dermatology,ICU,Occupied
+B01397,F01023,Cardiology,General,Occupied
+B01398,F01115,Dermatology,Emergency,Maintenance
+B01399,F00413,Emergency,ICU,Available
+B01400,F00299,Orthopedics,Private,Occupied
+B01401,F01511,Oncology,Emergency,Available
+B01402,F01789,Emergency,Emergency,Occupied
+B01403,F00073,Pediatrics,General,Occupied
+B01404,F01742,Oncology,General,Occupied
+B01405,F00261,Dermatology,General,Occupied
+B01406,F00690,Pediatrics,Private,Occupied
+B01407,F01336,General Medicine,Emergency,Occupied
+B01408,F00959,Orthopedics,ICU,Occupied
+B01409,F01849,Oncology,Private,Occupied
+B01410,F00732,Neurology,ICU,Occupied
+B01411,F00685,Pediatrics,ICU,Occupied
+B01412,F01189,Oncology,General,Occupied
+B01413,F00840,Neurology,ICU,Occupied
+B01414,F00335,Dermatology,ICU,Occupied
+B01415,F01526,Neurology,Private,Available
+B01416,F00732,Dermatology,General,Occupied
+B01417,F00804,Cardiology,ICU,Available
+B01418,F01185,Emergency,ICU,Occupied
+B01419,F00390,Neurology,ICU,Occupied
+B01420,F00760,Dermatology,Emergency,Occupied
+B01421,F00883,General Medicine,Emergency,Available
+B01422,F00972,Orthopedics,General,Available
+B01423,F01095,Oncology,Private,Available
+B01424,F00941,Orthopedics,General,Occupied
+B01425,F01116,Cardiology,Emergency,Available
+B01426,F00903,General Medicine,General,Available
+B01427,F01385,Emergency,Private,Occupied
+B01428,F01345,General Medicine,General,Maintenance
+B01429,F01269,Dermatology,ICU,Occupied
+B01430,F00024,Orthopedics,Private,Available
+B01431,F00557,General Medicine,Private,Occupied
+B01432,F00701,Emergency,Private,Available
+B01433,F00403,Pediatrics,General,Available
+B01434,F01397,Neurology,General,Occupied
+B01435,F01952,Oncology,ICU,Maintenance
+B01436,F01310,Dermatology,Private,Occupied
+B01437,F01857,Neurology,ICU,Occupied
+B01438,F01952,Orthopedics,Private,Available
+B01439,F00441,Orthopedics,Emergency,Occupied
+B01440,F01940,Emergency,General,Occupied
+B01441,F01877,General Medicine,ICU,Available
+B01442,F01619,Emergency,General,Available
+B01443,F01758,Cardiology,General,Maintenance
+B01444,F00882,Orthopedics,Emergency,Available
+B01445,F01376,Dermatology,Emergency,Available
+B01446,F00926,Oncology,Private,Available
+B01447,F01879,Dermatology,Emergency,Occupied
+B01448,F01243,Orthopedics,Private,Occupied
+B01449,F00485,Orthopedics,Emergency,Available
+B01450,F01467,Emergency,Emergency,Occupied
+B01451,F01242,Dermatology,ICU,Occupied
+B01452,F01726,Emergency,Emergency,Available
+B01453,F01091,General Medicine,ICU,Maintenance
+B01454,F00031,Pediatrics,Emergency,Occupied
+B01455,F00322,Orthopedics,ICU,Occupied
+B01456,F01274,Pediatrics,General,Occupied
+B01457,F00566,Emergency,Private,Occupied
+B01458,F00010,Oncology,Emergency,Occupied
+B01459,F00678,General Medicine,ICU,Occupied
+B01460,F00851,Emergency,Emergency,Occupied
+B01461,F00927,Cardiology,ICU,Occupied
+B01462,F00285,Dermatology,ICU,Available
+B01463,F00153,Neurology,Emergency,Available
+B01464,F01568,Neurology,Private,Occupied
+B01465,F01553,Emergency,ICU,Occupied
+B01466,F00371,Neurology,General,Occupied
+B01467,F00301,Neurology,Emergency,Maintenance
+B01468,F01841,General Medicine,General,Occupied
+B01469,F01879,Neurology,ICU,Available
+B01470,F00146,General Medicine,ICU,Available
+B01471,F01611,Cardiology,Emergency,Occupied
+B01472,F01915,Orthopedics,Private,Occupied
+B01473,F01660,Oncology,General,Available
+B01474,F01076,Orthopedics,Private,Occupied
+B01475,F01428,Orthopedics,General,Occupied
+B01476,F00702,Dermatology,Private,Occupied
+B01477,F00141,General Medicine,Emergency,Occupied
+B01478,F01112,General Medicine,General,Occupied
+B01479,F01451,General Medicine,Emergency,Maintenance
+B01480,F00084,Cardiology,Private,Occupied
+B01481,F01267,Oncology,Private,Available
+B01482,F01130,Pediatrics,Private,Occupied
+B01483,F01628,General Medicine,Emergency,Occupied
+B01484,F01379,General Medicine,ICU,Occupied
+B01485,F00021,Orthopedics,ICU,Maintenance
+B01486,F01030,Emergency,General,Occupied
+B01487,F00967,Dermatology,Emergency,Available
+B01488,F01245,Oncology,Emergency,Occupied
+B01489,F01845,Neurology,Emergency,Available
+B01490,F01111,Neurology,Private,Occupied
+B01491,F01716,Cardiology,Emergency,Occupied
+B01492,F00453,Neurology,ICU,Available
+B01493,F00342,Pediatrics,General,Occupied
+B01494,F00393,Orthopedics,ICU,Occupied
+B01495,F01376,Cardiology,Emergency,Occupied
+B01496,F01270,Oncology,General,Available
+B01497,F01994,Neurology,General,Occupied
+B01498,F01710,Oncology,Emergency,Occupied
+B01499,F01003,Neurology,Emergency,Available
+B01500,F01137,Emergency,ICU,Occupied
+B01501,F00971,Orthopedics,ICU,Occupied
+B01502,F01607,Cardiology,Private,Occupied
+B01503,F00158,Orthopedics,Private,Available
+B01504,F00811,Cardiology,Private,Occupied
+B01505,F01261,Dermatology,Emergency,Available
+B01506,F00699,Dermatology,Emergency,Occupied
+B01507,F01267,Neurology,Private,Occupied
+B01508,F00166,Orthopedics,Private,Occupied
+B01509,F00034,Orthopedics,ICU,Occupied
+B01510,F00255,Pediatrics,Private,Occupied
+B01511,F00302,Dermatology,Private,Available
+B01512,F00220,Emergency,General,Occupied
+B01513,F01056,Orthopedics,Private,Occupied
+B01514,F01936,Oncology,General,Occupied
+B01515,F00935,Oncology,Private,Occupied
+B01516,F01793,Cardiology,General,Occupied
+B01517,F00509,Pediatrics,Private,Occupied
+B01518,F01506,Oncology,ICU,Occupied
+B01519,F01257,Orthopedics,Emergency,Available
+B01520,F00953,Orthopedics,General,Occupied
+B01521,F00215,Pediatrics,Emergency,Available
+B01522,F01266,Neurology,ICU,Maintenance
+B01523,F00245,Orthopedics,Private,Occupied
+B01524,F00020,General Medicine,Private,Occupied
+B01525,F00210,Emergency,ICU,Occupied
+B01526,F01746,Neurology,Emergency,Occupied
+B01527,F00426,Orthopedics,Emergency,Available
+B01528,F01000,Neurology,Emergency,Occupied
+B01529,F00981,Cardiology,Emergency,Occupied
+B01530,F00072,Neurology,General,Occupied
+B01531,F01698,Pediatrics,Emergency,Occupied
+B01532,F00178,Orthopedics,General,Occupied
+B01533,F01547,Neurology,ICU,Occupied
+B01534,F01899,Oncology,Private,Occupied
+B01535,F00299,General Medicine,General,Occupied
+B01536,F00266,Cardiology,Emergency,Occupied
+B01537,F00520,Cardiology,Private,Available
+B01538,F01519,Dermatology,General,Occupied
+B01539,F01992,Neurology,Private,Occupied
+B01540,F00275,Pediatrics,ICU,Occupied
+B01541,F01729,Cardiology,Emergency,Available
+B01542,F01847,Dermatology,ICU,Occupied
+B01543,F00948,Neurology,Private,Occupied
+B01544,F01795,Neurology,ICU,Occupied
+B01545,F00053,Cardiology,Emergency,Maintenance
+B01546,F00812,Neurology,General,Available
+B01547,F01632,Neurology,ICU,Occupied
+B01548,F01840,Emergency,Emergency,Occupied
+B01549,F01846,General Medicine,Private,Occupied
+B01550,F01424,Neurology,ICU,Occupied
+B01551,F01438,Oncology,General,Available
+B01552,F01628,Emergency,ICU,Available
+B01553,F01948,Emergency,Private,Occupied
+B01554,F01680,Neurology,Private,Available
+B01555,F00489,Pediatrics,Private,Occupied
+B01556,F00502,Cardiology,ICU,Occupied
+B01557,F00307,Oncology,ICU,Occupied
+B01558,F00417,Emergency,ICU,Occupied
+B01559,F00509,Oncology,General,Occupied
+B01560,F00921,Emergency,Emergency,Occupied
+B01561,F01554,Dermatology,ICU,Occupied
+B01562,F00638,Oncology,General,Occupied
+B01563,F00666,Pediatrics,Private,Available
+B01564,F00006,Orthopedics,ICU,Maintenance
+B01565,F00422,Pediatrics,ICU,Occupied
+B01566,F01964,Dermatology,ICU,Occupied
+B01567,F01475,Orthopedics,General,Available
+B01568,F01451,Orthopedics,ICU,Available
+B01569,F00390,Oncology,ICU,Occupied
+B01570,F00334,Oncology,Emergency,Occupied
+B01571,F01472,Pediatrics,General,Occupied
+B01572,F00338,General Medicine,Emergency,Occupied
+B01573,F00848,Pediatrics,Emergency,Occupied
+B01574,F01112,Emergency,Emergency,Available
+B01575,F00269,Cardiology,Emergency,Occupied
+B01576,F00065,Pediatrics,Private,Occupied
+B01577,F00678,General Medicine,ICU,Occupied
+B01578,F01088,Pediatrics,Emergency,Occupied
+B01579,F01294,General Medicine,General,Available
+B01580,F00657,Cardiology,ICU,Occupied
+B01581,F01401,Neurology,Emergency,Available
+B01582,F01869,General Medicine,Emergency,Occupied
+B01583,F00781,General Medicine,General,Occupied
+B01584,F00329,Emergency,Private,Occupied
+B01585,F01926,General Medicine,General,Occupied
+B01586,F00518,Cardiology,Private,Occupied
+B01587,F01657,Orthopedics,Private,Occupied
+B01588,F00862,General Medicine,Private,Maintenance
+B01589,F00421,Dermatology,Emergency,Available
+B01590,F01337,Cardiology,Emergency,Occupied
+B01591,F00309,Emergency,Private,Occupied
+B01592,F00814,Oncology,Private,Available
+B01593,F00846,Dermatology,Emergency,Occupied
+B01594,F01668,Emergency,Private,Occupied
+B01595,F01826,Neurology,Emergency,Occupied
+B01596,F00962,General Medicine,Private,Occupied
+B01597,F01983,Orthopedics,Emergency,Occupied
+B01598,F01213,Oncology,General,Occupied
+B01599,F00721,Cardiology,Private,Maintenance
+B01600,F01066,Neurology,Private,Occupied
+B01601,F00590,Orthopedics,General,Occupied
+B01602,F00320,Oncology,ICU,Occupied
+B01603,F01011,Neurology,Private,Occupied
+B01604,F01681,Oncology,ICU,Available
+B01605,F00445,Orthopedics,General,Occupied
+B01606,F01398,Pediatrics,Private,Maintenance
+B01607,F00286,Pediatrics,ICU,Occupied
+B01608,F00171,Pediatrics,Private,Available
+B01609,F01629,Oncology,Private,Occupied
+B01610,F00263,Neurology,Emergency,Available
+B01611,F01993,Pediatrics,ICU,Occupied
+B01612,F00942,Cardiology,Emergency,Occupied
+B01613,F01559,Cardiology,Emergency,Available
+B01614,F01828,Pediatrics,ICU,Available
+B01615,F00142,Orthopedics,ICU,Available
+B01616,F01172,Orthopedics,Emergency,Occupied
+B01617,F01464,Neurology,Private,Occupied
+B01618,F00628,Orthopedics,Private,Occupied
+B01619,F00593,Dermatology,General,Occupied
+B01620,F00416,Dermatology,Private,Available
+B01621,F00025,Oncology,ICU,Occupied
+B01622,F00627,Dermatology,ICU,Occupied
+B01623,F00094,General Medicine,General,Available
+B01624,F00305,Oncology,ICU,Available
+B01625,F00185,Orthopedics,Emergency,Occupied
+B01626,F00283,Oncology,General,Occupied
+B01627,F01179,Cardiology,General,Maintenance
+B01628,F00686,Emergency,Private,Occupied
+B01629,F00863,Orthopedics,Private,Available
+B01630,F00685,Dermatology,Emergency,Occupied
+B01631,F00666,Neurology,Emergency,Occupied
+B01632,F01038,Orthopedics,Private,Available
+B01633,F00890,Dermatology,Private,Available
+B01634,F00816,Neurology,Emergency,Occupied
+B01635,F01664,General Medicine,Private,Occupied
+B01636,F00341,Pediatrics,General,Occupied
+B01637,F00604,General Medicine,Emergency,Occupied
+B01638,F01807,Cardiology,Private,Available
+B01639,F00734,Emergency,ICU,Available
+B01640,F01497,General Medicine,ICU,Available
+B01641,F00819,General Medicine,Emergency,Occupied
+B01642,F01846,Cardiology,ICU,Available
+B01643,F00907,Cardiology,ICU,Occupied
+B01644,F01132,Pediatrics,General,Occupied
+B01645,F01355,Pediatrics,Emergency,Occupied
+B01646,F00540,Orthopedics,ICU,Available
+B01647,F00439,Neurology,Private,Occupied
+B01648,F01733,Cardiology,Emergency,Occupied
+B01649,F00988,Oncology,Emergency,Occupied
+B01650,F01736,General Medicine,ICU,Occupied
+B01651,F00666,General Medicine,ICU,Available
+B01652,F00384,Pediatrics,General,Occupied
+B01653,F00582,Neurology,Private,Available
+B01654,F00160,Dermatology,General,Occupied
+B01655,F00432,Cardiology,General,Occupied
+B01656,F01888,Pediatrics,Private,Available
+B01657,F01420,Dermatology,ICU,Occupied
+B01658,F01990,Neurology,General,Occupied
+B01659,F01997,Cardiology,Emergency,Occupied
+B01660,F00615,General Medicine,General,Occupied
+B01661,F00488,General Medicine,Private,Occupied
+B01662,F01772,Pediatrics,General,Occupied
+B01663,F01213,Neurology,General,Occupied
+B01664,F01442,General Medicine,Emergency,Occupied
+B01665,F00343,Oncology,Private,Occupied
+B01666,F01385,Dermatology,Emergency,Occupied
+B01667,F00109,Neurology,ICU,Occupied
+B01668,F00849,Pediatrics,Private,Occupied
+B01669,F00301,Dermatology,General,Occupied
+B01670,F01392,Dermatology,Emergency,Occupied
+B01671,F01279,Orthopedics,Emergency,Occupied
+B01672,F01340,Neurology,Private,Occupied
+B01673,F00705,Emergency,Emergency,Occupied
+B01674,F01095,Neurology,Private,Occupied
+B01675,F00269,Pediatrics,ICU,Occupied
+B01676,F01870,Emergency,Private,Maintenance
+B01677,F01525,Orthopedics,Private,Occupied
+B01678,F01233,General Medicine,ICU,Available
+B01679,F00478,Cardiology,ICU,Occupied
+B01680,F00176,Pediatrics,General,Occupied
+B01681,F00239,Cardiology,Emergency,Occupied
+B01682,F00893,Orthopedics,ICU,Occupied
+B01683,F01969,Emergency,ICU,Occupied
+B01684,F00610,Orthopedics,Emergency,Occupied
+B01685,F00859,Oncology,Emergency,Available
+B01686,F01466,Neurology,General,Occupied
+B01687,F01625,Oncology,General,Occupied
+B01688,F01788,Cardiology,Private,Occupied
+B01689,F00492,Cardiology,General,Occupied
+B01690,F00099,Orthopedics,ICU,Available
+B01691,F00329,Emergency,ICU,Available
+B01692,F01350,Cardiology,Emergency,Occupied
+B01693,F00445,Dermatology,General,Occupied
+B01694,F01690,General Medicine,Private,Occupied
+B01695,F00998,Orthopedics,Private,Occupied
+B01696,F00295,Neurology,Private,Maintenance
+B01697,F00442,Neurology,Private,Occupied
+B01698,F00795,Neurology,Emergency,Available
+B01699,F01832,Cardiology,General,Available
+B01700,F00891,Orthopedics,General,Occupied
+B01701,F00031,Oncology,General,Occupied
+B01702,F01155,Neurology,General,Available
+B01703,F01752,Orthopedics,Private,Occupied
+B01704,F01551,Cardiology,Private,Occupied
+B01705,F00438,General Medicine,Emergency,Occupied
+B01706,F01350,General Medicine,Emergency,Occupied
+B01707,F01291,General Medicine,Private,Occupied
+B01708,F00286,Cardiology,ICU,Occupied
+B01709,F00291,Neurology,General,Available
+B01710,F00368,Cardiology,Emergency,Maintenance
+B01711,F00486,Oncology,Private,Occupied
+B01712,F00555,Orthopedics,General,Occupied
+B01713,F01981,General Medicine,General,Occupied
+B01714,F00168,Orthopedics,Private,Occupied
+B01715,F01885,Cardiology,ICU,Occupied
+B01716,F01495,Pediatrics,ICU,Available
+B01717,F01962,Pediatrics,Emergency,Occupied
+B01718,F01791,Dermatology,Private,Available
+B01719,F01194,Cardiology,Emergency,Available
+B01720,F01911,Neurology,ICU,Occupied
+B01721,F00771,Oncology,Emergency,Occupied
+B01722,F01370,Emergency,Emergency,Occupied
+B01723,F00078,Orthopedics,ICU,Available
+B01724,F00851,Cardiology,General,Occupied
+B01725,F01109,Oncology,General,Occupied
+B01726,F00892,Cardiology,ICU,Available
+B01727,F00661,Pediatrics,General,Occupied
+B01728,F01225,General Medicine,Private,Available
+B01729,F00589,General Medicine,General,Occupied
+B01730,F01385,Emergency,ICU,Available
+B01731,F00762,Neurology,Private,Occupied
+B01732,F00565,Neurology,Emergency,Available
+B01733,F00812,Emergency,ICU,Occupied
+B01734,F00302,Neurology,ICU,Occupied
+B01735,F00293,Dermatology,General,Occupied
+B01736,F00294,Dermatology,Private,Available
+B01737,F00109,Pediatrics,ICU,Occupied
+B01738,F00365,Cardiology,Private,Maintenance
+B01739,F00600,Neurology,Private,Occupied
+B01740,F00678,Pediatrics,General,Available
+B01741,F01518,Dermatology,ICU,Occupied
+B01742,F01291,Orthopedics,Private,Occupied
+B01743,F00093,Cardiology,Private,Available
+B01744,F01709,Emergency,Emergency,Occupied
+B01745,F01088,Orthopedics,General,Occupied
+B01746,F00428,General Medicine,ICU,Occupied
+B01747,F00638,General Medicine,Private,Occupied
+B01748,F00368,Cardiology,General,Occupied
+B01749,F01766,Neurology,ICU,Occupied
+B01750,F00105,Cardiology,Private,Occupied
+B01751,F00209,Neurology,ICU,Occupied
+B01752,F01598,Emergency,ICU,Available
+B01753,F01012,General Medicine,General,Occupied
+B01754,F01776,Dermatology,General,Occupied
+B01755,F00474,Dermatology,Emergency,Available
+B01756,F01085,Cardiology,Emergency,Occupied
+B01757,F01370,Cardiology,Emergency,Occupied
+B01758,F00012,Emergency,Private,Occupied
+B01759,F00466,Dermatology,Emergency,Available
+B01760,F00649,Neurology,ICU,Occupied
+B01761,F01219,General Medicine,General,Occupied
+B01762,F01098,General Medicine,ICU,Occupied
+B01763,F00875,Neurology,General,Occupied
+B01764,F00386,Emergency,General,Available
+B01765,F01160,Neurology,ICU,Available
+B01766,F00884,Emergency,ICU,Available
+B01767,F00555,Neurology,Private,Occupied
+B01768,F01938,General Medicine,General,Available
+B01769,F01460,Oncology,Emergency,Occupied
+B01770,F01063,General Medicine,Private,Occupied
+B01771,F01567,Cardiology,Emergency,Occupied
+B01772,F00654,Oncology,Private,Available
+B01773,F01344,Dermatology,General,Available
+B01774,F01895,Dermatology,ICU,Occupied
+B01775,F00865,Emergency,ICU,Available
+B01776,F00989,General Medicine,General,Available
+B01777,F01580,Emergency,ICU,Occupied
+B01778,F01724,Emergency,General,Available
+B01779,F00353,Orthopedics,General,Occupied
+B01780,F00514,Orthopedics,General,Available
+B01781,F01507,Neurology,Private,Available
+B01782,F01440,Dermatology,ICU,Occupied
+B01783,F00804,Emergency,Private,Available
+B01784,F01847,Neurology,Emergency,Occupied
+B01785,F01394,Neurology,General,Available
+B01786,F00343,Cardiology,ICU,Occupied
+B01787,F01983,Orthopedics,Emergency,Available
+B01788,F01349,Orthopedics,General,Occupied
+B01789,F01391,General Medicine,Emergency,Available
+B01790,F00336,Orthopedics,Private,Occupied
+B01791,F01320,General Medicine,Private,Available
+B01792,F00024,Emergency,ICU,Occupied
+B01793,F00885,Cardiology,Emergency,Occupied
+B01794,F01466,Neurology,Emergency,Occupied
+B01795,F00104,Neurology,Private,Available
+B01796,F01436,Emergency,Private,Occupied
+B01797,F00574,General Medicine,ICU,Occupied
+B01798,F01689,Pediatrics,General,Available
+B01799,F00775,Emergency,ICU,Available
+B01800,F01318,General Medicine,Private,Occupied
+B01801,F01991,Emergency,ICU,Occupied
+B01802,F00887,Cardiology,General,Occupied
+B01803,F00243,Emergency,Private,Available
+B01804,F00342,Emergency,General,Available
+B01805,F01878,Orthopedics,ICU,Available
+B01806,F01883,General Medicine,General,Available
+B01807,F00633,Cardiology,Private,Occupied
+B01808,F00865,Oncology,Private,Occupied
+B01809,F00173,Dermatology,General,Occupied
+B01810,F01440,Neurology,ICU,Occupied
+B01811,F00103,Pediatrics,ICU,Available
+B01812,F00160,Pediatrics,ICU,Occupied
+B01813,F01281,General Medicine,ICU,Available
+B01814,F00714,Emergency,Emergency,Available
+B01815,F00557,Orthopedics,Emergency,Available
+B01816,F00576,Emergency,General,Occupied
+B01817,F00196,General Medicine,Emergency,Occupied
+B01818,F00989,Pediatrics,Emergency,Occupied
+B01819,F01415,Pediatrics,Emergency,Occupied
+B01820,F00934,Emergency,General,Occupied
+B01821,F00070,Emergency,Emergency,Occupied
+B01822,F01717,Emergency,ICU,Available
+B01823,F00843,Neurology,ICU,Available
+B01824,F00247,Orthopedics,General,Available
+B01825,F00329,Orthopedics,General,Occupied
+B01826,F00158,Dermatology,General,Available
+B01827,F00918,Dermatology,Private,Available
+B01828,F00698,Oncology,Emergency,Available
+B01829,F00743,Pediatrics,General,Occupied
+B01830,F00585,Pediatrics,General,Available
+B01831,F00055,General Medicine,General,Available
+B01832,F00486,General Medicine,ICU,Occupied
+B01833,F01267,Dermatology,General,Occupied
+B01834,F01838,Neurology,ICU,Available
+B01835,F01377,Pediatrics,ICU,Available
+B01836,F00410,General Medicine,Private,Available
+B01837,F00960,Neurology,General,Occupied
+B01838,F02000,Orthopedics,Private,Occupied
+B01839,F00905,Oncology,General,Occupied
+B01840,F00727,Pediatrics,Emergency,Available
+B01841,F01039,Cardiology,General,Available
+B01842,F00147,Pediatrics,General,Occupied
+B01843,F01514,General Medicine,General,Available
+B01844,F01680,Pediatrics,General,Available
+B01845,F01049,Dermatology,General,Occupied
+B01846,F01635,Cardiology,General,Occupied
+B01847,F01715,Dermatology,Private,Occupied
+B01848,F00333,Pediatrics,Emergency,Occupied
+B01849,F01198,Dermatology,Private,Occupied
+B01850,F01799,General Medicine,Emergency,Available
+B01851,F00290,Orthopedics,Private,Available
+B01852,F00570,General Medicine,Private,Occupied
+B01853,F01870,Neurology,General,Occupied
+B01854,F00791,Dermatology,Private,Occupied
+B01855,F01943,General Medicine,Emergency,Occupied
+B01856,F01169,Neurology,ICU,Available
+B01857,F00909,Pediatrics,Emergency,Occupied
+B01858,F01146,Neurology,Private,Occupied
+B01859,F00027,Dermatology,ICU,Occupied
+B01860,F01090,Emergency,General,Available
+B01861,F01125,Pediatrics,ICU,Occupied
+B01862,F00926,Neurology,General,Occupied
+B01863,F00388,Dermatology,Emergency,Available
+B01864,F01118,Dermatology,ICU,Occupied
+B01865,F01091,General Medicine,ICU,Occupied
+B01866,F00250,Cardiology,ICU,Available
+B01867,F00142,Pediatrics,General,Available
+B01868,F00267,Neurology,General,Available
+B01869,F01576,Cardiology,Emergency,Occupied
+B01870,F00215,Dermatology,Emergency,Occupied
+B01871,F00489,Neurology,Private,Occupied
+B01872,F00496,Oncology,General,Available
+B01873,F00480,Neurology,Emergency,Occupied
+B01874,F00643,Neurology,ICU,Occupied
+B01875,F01514,General Medicine,ICU,Occupied
+B01876,F00001,Neurology,ICU,Available
+B01877,F01033,Cardiology,Emergency,Occupied
+B01878,F01904,Emergency,ICU,Occupied
+B01879,F00841,Neurology,ICU,Occupied
+B01880,F00380,Emergency,General,Available
+B01881,F00844,Orthopedics,General,Maintenance
+B01882,F01921,Dermatology,Emergency,Occupied
+B01883,F01168,Pediatrics,General,Occupied
+B01884,F01886,General Medicine,Private,Occupied
+B01885,F01864,Orthopedics,Emergency,Occupied
+B01886,F00302,Orthopedics,Private,Occupied
+B01887,F00650,Cardiology,Private,Occupied
+B01888,F01441,Cardiology,Emergency,Available
+B01889,F01894,Oncology,General,Occupied
+B01890,F00809,Emergency,General,Available
+B01891,F01203,Emergency,Emergency,Available
+B01892,F01302,General Medicine,Private,Occupied
+B01893,F01168,General Medicine,Emergency,Occupied
+B01894,F00339,Oncology,Emergency,Available
+B01895,F01483,Pediatrics,ICU,Available
+B01896,F01726,Neurology,ICU,Occupied
+B01897,F01973,General Medicine,Private,Occupied
+B01898,F01355,General Medicine,General,Available
+B01899,F01294,Emergency,ICU,Occupied
+B01900,F00999,Neurology,ICU,Occupied
+B01901,F01211,Pediatrics,Private,Available
+B01902,F00666,Dermatology,Emergency,Available
+B01903,F01196,Dermatology,ICU,Available
+B01904,F00404,Cardiology,General,Occupied
+B01905,F01492,Pediatrics,Private,Occupied
+B01906,F00247,Neurology,ICU,Available
+B01907,F01925,Cardiology,Private,Available
+B01908,F01985,Cardiology,ICU,Occupied
+B01909,F01547,Oncology,ICU,Maintenance
+B01910,F00559,Cardiology,Private,Occupied
+B01911,F00778,Pediatrics,General,Occupied
+B01912,F01853,Oncology,General,Occupied
+B01913,F00111,Emergency,Emergency,Available
+B01914,F00988,Neurology,ICU,Available
+B01915,F00813,Pediatrics,Emergency,Available
+B01916,F01327,Pediatrics,Private,Occupied
+B01917,F00930,Orthopedics,Emergency,Available
+B01918,F00886,General Medicine,Private,Occupied
+B01919,F00909,Dermatology,General,Occupied
+B01920,F01497,Pediatrics,Private,Occupied
+B01921,F00791,Orthopedics,Private,Occupied
+B01922,F00292,Dermatology,Emergency,Occupied
+B01923,F01983,Emergency,ICU,Occupied
+B01924,F01276,Oncology,Emergency,Occupied
+B01925,F01612,Emergency,General,Occupied
+B01926,F00175,Neurology,General,Occupied
+B01927,F00109,Orthopedics,General,Occupied
+B01928,F00962,Oncology,ICU,Occupied
+B01929,F01364,Pediatrics,Emergency,Available
+B01930,F00848,Oncology,Private,Occupied
+B01931,F01038,Neurology,Private,Occupied
+B01932,F00693,Orthopedics,ICU,Available
+B01933,F01346,Pediatrics,General,Available
+B01934,F01969,Neurology,ICU,Available
+B01935,F01808,Dermatology,Private,Occupied
+B01936,F00964,Neurology,General,Occupied
+B01937,F00043,Dermatology,ICU,Occupied
+B01938,F00461,General Medicine,Private,Available
+B01939,F01126,Emergency,Private,Occupied
+B01940,F01649,Oncology,ICU,Occupied
+B01941,F00705,Oncology,Private,Available
+B01942,F01033,Dermatology,Emergency,Available
+B01943,F00149,Pediatrics,Emergency,Available
+B01944,F00338,General Medicine,General,Occupied
+B01945,F01003,Neurology,Emergency,Occupied
+B01946,F00224,Neurology,Emergency,Occupied
+B01947,F01134,Orthopedics,ICU,Occupied
+B01948,F00354,General Medicine,General,Available
+B01949,F01108,Cardiology,ICU,Occupied
+B01950,F00555,Pediatrics,ICU,Occupied
+B01951,F00066,Emergency,Emergency,Occupied
+B01952,F01412,Dermatology,Emergency,Occupied
+B01953,F01915,General Medicine,Private,Occupied
+B01954,F00621,Neurology,Private,Available
+B01955,F01638,Orthopedics,General,Available
+B01956,F01159,Pediatrics,Emergency,Occupied
+B01957,F01110,Emergency,Private,Occupied
+B01958,F00084,Dermatology,ICU,Available
+B01959,F01978,Pediatrics,Emergency,Available
+B01960,F00227,Orthopedics,General,Occupied
+B01961,F01284,Neurology,General,Occupied
+B01962,F00892,Oncology,ICU,Available
+B01963,F01013,Dermatology,Private,Occupied
+B01964,F00020,Oncology,ICU,Occupied
+B01965,F01059,Emergency,Private,Available
+B01966,F01889,Cardiology,Emergency,Occupied
+B01967,F00755,Orthopedics,General,Available
+B01968,F01467,Cardiology,Private,Occupied
+B01969,F00941,General Medicine,ICU,Occupied
+B01970,F00270,Oncology,Emergency,Available
+B01971,F01759,Pediatrics,Private,Occupied
+B01972,F00406,Emergency,Emergency,Available
+B01973,F01532,Oncology,Emergency,Occupied
+B01974,F00304,Neurology,ICU,Occupied
+B01975,F01694,Cardiology,ICU,Occupied
+B01976,F01309,Neurology,Emergency,Available
+B01977,F01572,General Medicine,Emergency,Occupied
+B01978,F01009,Cardiology,Private,Occupied
+B01979,F00810,Neurology,ICU,Occupied
+B01980,F01053,Neurology,Private,Occupied
+B01981,F00391,Dermatology,General,Occupied
+B01982,F01440,General Medicine,Private,Available
+B01983,F01933,Orthopedics,Emergency,Maintenance
+B01984,F01791,Emergency,General,Occupied
+B01985,F00909,General Medicine,Private,Occupied
+B01986,F01974,Cardiology,General,Available
+B01987,F00142,Cardiology,ICU,Occupied
+B01988,F00646,Pediatrics,Private,Available
+B01989,F01680,Neurology,Private,Occupied
+B01990,F00809,Emergency,ICU,Occupied
+B01991,F00948,Cardiology,Private,Maintenance
+B01992,F01904,Orthopedics,General,Occupied
+B01993,F01365,Orthopedics,ICU,Occupied
+B01994,F00245,General Medicine,General,Occupied
+B01995,F00766,Oncology,Private,Available
+B01996,F00876,Cardiology,Private,Occupied
+B01997,F00912,Emergency,Private,Available
+B01998,F01029,Emergency,Private,Available
+B01999,F00920,Oncology,General,Maintenance
+B02000,F00939,Cardiology,Private,Available

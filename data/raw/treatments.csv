@@ -1,0 +1,2001 @@
+treatment_id,patient_id,department,treatment_type,treatment_date,treatment_status
+T00001,P00419,Orthopedics,Therapy,2025-03-12,Completed
+T00002,P00450,Neurology,Therapy,2025-03-25,Completed
+T00003,P00995,Pediatrics,Medication,2025-07-28,Completed
+T00004,P01609,General Medicine,Therapy,2025-09-16,Completed
+T00005,P01139,Emergency,Consultation,2025-08-27,Completed
+T00006,P00051,Emergency,Consultation,2025-10-29,Completed
+T00007,P01393,Cardiology,Therapy,2025-08-20,Completed
+T00008,P01938,Dermatology,Medication,2025-10-09,Completed
+T00009,P01707,General Medicine,Consultation,2026-01-29,Completed
+T00010,P01804,Emergency,Diagnostics,2026-02-22,Completed
+T00011,P01539,Emergency,Medication,2025-07-25,Pending
+T00012,P00210,General Medicine,Surgery,2025-09-21,Completed
+T00013,P00888,Pediatrics,Surgery,2025-11-07,Completed
+T00014,P00998,Orthopedics,Medication,2025-03-20,Completed
+T00015,P01927,General Medicine,Therapy,2025-12-08,Completed
+T00016,P00993,Orthopedics,Consultation,2025-04-05,Completed
+T00017,P01926,Pediatrics,Consultation,2025-12-17,Completed
+T00018,P00850,Pediatrics,Medication,2025-03-03,Completed
+T00019,P01837,Oncology,Diagnostics,2025-05-22,Pending
+T00020,P01919,Neurology,Therapy,2025-04-21,Completed
+T00021,P01878,Cardiology,Diagnostics,2026-06-11,Completed
+T00022,P00627,Pediatrics,Medication,2025-06-06,Pending
+T00023,P00679,Oncology,Medication,2026-06-23,Completed
+T00024,P01459,Oncology,Diagnostics,2025-01-09,Completed
+T00025,P00777,Oncology,Surgery,2025-10-03,Completed
+T00026,P01251,Pediatrics,Medication,2025-08-15,Completed
+T00027,P00663,Orthopedics,Therapy,2025-07-05,Completed
+T00028,P00268,Pediatrics,Diagnostics,2025-08-04,Cancelled
+T00029,P00116,General Medicine,Surgery,2026-03-09,Completed
+T00030,P01624,Neurology,Diagnostics,2025-12-22,Completed
+T00031,P01854,Neurology,Surgery,2026-01-27,Completed
+T00032,P00754,General Medicine,Surgery,2025-10-02,Completed
+T00033,P01384,Emergency,Therapy,2026-05-09,Pending
+T00034,P01353,Pediatrics,Medication,2026-03-27,Completed
+T00035,P01869,Dermatology,Surgery,2026-02-24,Pending
+T00036,P01064,Cardiology,Medication,2025-06-13,Completed
+T00037,P00182,Oncology,Therapy,2025-07-02,Pending
+T00038,P01514,Pediatrics,Medication,2025-11-06,Completed
+T00039,P01233,Neurology,Consultation,2025-01-17,Pending
+T00040,P00903,Cardiology,Surgery,2026-03-22,Completed
+T00041,P01297,Dermatology,Therapy,2025-06-19,Pending
+T00042,P01143,Emergency,Diagnostics,2025-10-07,Completed
+T00043,P01406,Orthopedics,Therapy,2025-12-06,Completed
+T00044,P00946,Orthopedics,Surgery,2026-06-03,Pending
+T00045,P01560,Dermatology,Therapy,2025-01-11,Completed
+T00046,P00258,Pediatrics,Diagnostics,2026-06-08,Pending
+T00047,P01507,Pediatrics,Consultation,2025-05-13,Completed
+T00048,P00509,Cardiology,Surgery,2025-05-28,Completed
+T00049,P00092,Cardiology,Surgery,2025-03-20,Pending
+T00050,P01185,Emergency,Therapy,2025-12-12,Completed
+T00051,P00149,Pediatrics,Medication,2025-09-06,Completed
+T00052,P00117,Neurology,Medication,2026-06-26,Cancelled
+T00053,P00458,Orthopedics,Diagnostics,2025-01-24,Completed
+T00054,P00565,Emergency,Consultation,2026-04-16,Completed
+T00055,P00814,Oncology,Consultation,2025-07-20,Completed
+T00056,P00045,Cardiology,Therapy,2025-05-11,Pending
+T00057,P01801,Oncology,Therapy,2025-12-22,Cancelled
+T00058,P00774,Neurology,Medication,2025-05-30,Cancelled
+T00059,P01843,Pediatrics,Consultation,2026-06-10,Completed
+T00060,P00234,General Medicine,Consultation,2025-10-31,Completed
+T00061,P01399,Cardiology,Consultation,2026-06-25,Completed
+T00062,P01571,Emergency,Diagnostics,2025-02-19,Completed
+T00063,P01874,General Medicine,Diagnostics,2026-04-09,Completed
+T00064,P01973,Neurology,Therapy,2025-08-28,Completed
+T00065,P01939,Oncology,Medication,2026-04-27,Pending
+T00066,P00197,Dermatology,Surgery,2026-03-31,Pending
+T00067,P00025,Orthopedics,Medication,2025-10-10,Completed
+T00068,P00395,Dermatology,Diagnostics,2025-12-01,Cancelled
+T00069,P00714,Dermatology,Diagnostics,2025-12-18,Cancelled
+T00070,P01809,Dermatology,Therapy,2025-11-23,Completed
+T00071,P01060,Neurology,Surgery,2025-12-02,Completed
+T00072,P01498,Orthopedics,Consultation,2025-03-22,Completed
+T00073,P00223,Neurology,Surgery,2025-03-28,Completed
+T00074,P00864,Dermatology,Surgery,2025-09-15,Completed
+T00075,P01813,Cardiology,Surgery,2025-07-04,Completed
+T00076,P00530,Dermatology,Therapy,2025-05-03,Pending
+T00077,P01212,Cardiology,Diagnostics,2025-04-06,Completed
+T00078,P01426,Emergency,Consultation,2026-05-30,Completed
+T00079,P00257,Dermatology,Surgery,2026-03-19,Completed
+T00080,P00654,General Medicine,Consultation,2026-05-29,Completed
+T00081,P01160,Neurology,Surgery,2026-01-06,Completed
+T00082,P01986,Dermatology,Diagnostics,2025-11-01,Completed
+T00083,P01843,Neurology,Consultation,2025-12-23,Cancelled
+T00084,P00591,Oncology,Medication,2025-05-28,Completed
+T00085,P00444,Dermatology,Diagnostics,2025-10-12,Pending
+T00086,P00418,General Medicine,Consultation,2025-09-19,Completed
+T00087,P01316,Dermatology,Surgery,2026-05-06,Completed
+T00088,P00574,Pediatrics,Surgery,2025-01-31,Completed
+T00089,P00129,Emergency,Diagnostics,2025-09-25,Pending
+T00090,P01011,Oncology,Diagnostics,2025-01-12,Pending
+T00091,P00341,Neurology,Surgery,2025-07-10,Completed
+T00092,P00810,Oncology,Consultation,2026-02-04,Completed
+T00093,P01281,Emergency,Medication,2026-06-21,Completed
+T00094,P00992,Neurology,Therapy,2025-04-01,Pending
+T00095,P01748,Neurology,Diagnostics,2026-05-16,Completed
+T00096,P01590,Pediatrics,Surgery,2025-10-28,Completed
+T00097,P01711,Dermatology,Consultation,2025-04-21,Completed
+T00098,P00100,Cardiology,Diagnostics,2025-03-21,Completed
+T00099,P00039,Emergency,Consultation,2026-03-09,Pending
+T00100,P01950,General Medicine,Diagnostics,2026-02-21,Completed
+T00101,P00263,Emergency,Surgery,2025-08-02,Completed
+T00102,P00150,Dermatology,Consultation,2026-03-23,Completed
+T00103,P01657,Pediatrics,Surgery,2025-01-18,Completed
+T00104,P00690,Orthopedics,Consultation,2025-02-23,Completed
+T00105,P00813,Oncology,Diagnostics,2025-08-28,Pending
+T00106,P01354,Orthopedics,Therapy,2026-02-22,Completed
+T00107,P01144,Pediatrics,Therapy,2026-05-01,Completed
+T00108,P01608,Oncology,Medication,2026-03-20,Completed
+T00109,P00219,Dermatology,Medication,2025-05-03,Completed
+T00110,P00906,Pediatrics,Surgery,2026-02-24,Completed
+T00111,P01934,Cardiology,Consultation,2025-08-04,Pending
+T00112,P01838,Emergency,Medication,2026-02-24,Completed
+T00113,P01147,Dermatology,Diagnostics,2025-08-16,Pending
+T00114,P00244,Oncology,Therapy,2025-08-25,Completed
+T00115,P00886,Emergency,Consultation,2025-11-26,Completed
+T00116,P00587,Orthopedics,Therapy,2026-04-14,Completed
+T00117,P00518,Dermatology,Consultation,2026-05-02,Pending
+T00118,P01045,General Medicine,Medication,2026-02-19,Pending
+T00119,P00190,Emergency,Medication,2025-08-07,Completed
+T00120,P01249,Neurology,Surgery,2026-01-16,Completed
+T00121,P00915,Oncology,Consultation,2025-03-28,Completed
+T00122,P00615,Neurology,Diagnostics,2026-04-06,Completed
+T00123,P00856,Cardiology,Medication,2026-02-15,Cancelled
+T00124,P00466,Oncology,Surgery,2026-06-09,Pending
+T00125,P00099,Dermatology,Medication,2026-03-23,Completed
+T00126,P00830,Oncology,Therapy,2025-10-27,Completed
+T00127,P01387,Cardiology,Medication,2026-02-12,Completed
+T00128,P00997,Oncology,Consultation,2026-01-10,Completed
+T00129,P01107,Dermatology,Surgery,2025-08-21,Completed
+T00130,P01717,Orthopedics,Consultation,2025-02-18,Completed
+T00131,P01688,General Medicine,Diagnostics,2025-07-05,Completed
+T00132,P00056,General Medicine,Diagnostics,2025-07-24,Pending
+T00133,P01726,Pediatrics,Medication,2025-03-19,Completed
+T00134,P01954,Cardiology,Surgery,2026-04-26,Pending
+T00135,P01046,Dermatology,Surgery,2026-01-21,Pending
+T00136,P00580,Emergency,Surgery,2025-07-13,Completed
+T00137,P00185,Neurology,Surgery,2025-04-13,Pending
+T00138,P00522,Emergency,Medication,2026-01-11,Completed
+T00139,P01602,Neurology,Consultation,2025-10-14,Cancelled
+T00140,P00264,Orthopedics,Medication,2026-04-27,Completed
+T00141,P01249,Neurology,Consultation,2025-09-07,Pending
+T00142,P01659,Emergency,Therapy,2025-07-20,Completed
+T00143,P01062,Oncology,Therapy,2026-06-20,Completed
+T00144,P01003,Emergency,Consultation,2026-04-06,Completed
+T00145,P00123,General Medicine,Medication,2025-10-27,Completed
+T00146,P01854,Dermatology,Diagnostics,2026-04-23,Completed
+T00147,P01180,General Medicine,Medication,2025-03-24,Completed
+T00148,P01930,Cardiology,Diagnostics,2026-04-03,Pending
+T00149,P00301,Oncology,Medication,2025-10-25,Completed
+T00150,P00833,Emergency,Surgery,2025-12-30,Completed
+T00151,P01091,Oncology,Surgery,2025-02-09,Completed
+T00152,P01929,Oncology,Therapy,2025-12-06,Completed
+T00153,P00645,Dermatology,Therapy,2026-05-31,Completed
+T00154,P00874,Orthopedics,Consultation,2025-04-18,Completed
+T00155,P00394,Neurology,Diagnostics,2025-11-12,Cancelled
+T00156,P01676,Cardiology,Surgery,2025-04-24,Completed
+T00157,P01618,Pediatrics,Medication,2025-06-16,Pending
+T00158,P01594,Oncology,Consultation,2025-09-18,Completed
+T00159,P00661,Pediatrics,Medication,2025-08-12,Pending
+T00160,P01429,Dermatology,Surgery,2025-09-19,Completed
+T00161,P01473,Neurology,Surgery,2025-09-08,Completed
+T00162,P01155,Neurology,Surgery,2026-06-10,Completed
+T00163,P00069,Dermatology,Surgery,2025-05-06,Pending
+T00164,P01369,Neurology,Medication,2025-07-25,Completed
+T00165,P00762,General Medicine,Consultation,2025-05-20,Cancelled
+T00166,P00320,Neurology,Surgery,2025-03-03,Completed
+T00167,P00177,Pediatrics,Therapy,2025-10-10,Completed
+T00168,P00584,Neurology,Consultation,2025-02-23,Completed
+T00169,P01553,Emergency,Therapy,2025-12-12,Completed
+T00170,P01865,Dermatology,Medication,2026-06-08,Pending
+T00171,P01184,Orthopedics,Surgery,2025-05-16,Completed
+T00172,P00582,Pediatrics,Consultation,2025-11-26,Completed
+T00173,P01649,Orthopedics,Surgery,2025-05-24,Completed
+T00174,P01768,Pediatrics,Surgery,2026-03-12,Completed
+T00175,P01557,Oncology,Consultation,2025-10-09,Completed
+T00176,P01159,Cardiology,Surgery,2025-05-16,Completed
+T00177,P01799,Emergency,Surgery,2026-05-04,Completed
+T00178,P00111,Pediatrics,Diagnostics,2026-02-05,Completed
+T00179,P00999,Oncology,Diagnostics,2026-03-25,Completed
+T00180,P00758,Emergency,Consultation,2025-09-27,Completed
+T00181,P00283,Pediatrics,Consultation,2025-01-17,Completed
+T00182,P01544,Orthopedics,Surgery,2025-09-26,Pending
+T00183,P01993,Orthopedics,Therapy,2026-04-27,Pending
+T00184,P01820,Dermatology,Consultation,2025-08-07,Pending
+T00185,P01743,Pediatrics,Surgery,2025-11-15,Cancelled
+T00186,P00194,Pediatrics,Therapy,2025-08-26,Completed
+T00187,P00967,General Medicine,Diagnostics,2026-06-29,Completed
+T00188,P01071,Emergency,Consultation,2025-10-12,Completed
+T00189,P00978,Emergency,Surgery,2025-02-06,Completed
+T00190,P00342,Emergency,Diagnostics,2025-04-13,Completed
+T00191,P01266,Emergency,Medication,2026-03-06,Pending
+T00192,P00522,Cardiology,Diagnostics,2025-08-27,Completed
+T00193,P01394,Cardiology,Surgery,2025-05-05,Completed
+T00194,P00801,Oncology,Therapy,2025-07-07,Completed
+T00195,P00903,Neurology,Medication,2025-09-13,Completed
+T00196,P00131,Pediatrics,Medication,2026-06-14,Completed
+T00197,P01294,Pediatrics,Medication,2026-01-27,Pending
+T00198,P01964,Pediatrics,Consultation,2026-04-13,Completed
+T00199,P00814,Pediatrics,Surgery,2025-09-10,Pending
+T00200,P00061,Emergency,Medication,2025-06-25,Cancelled
+T00201,P00164,Emergency,Diagnostics,2026-04-11,Completed
+T00202,P01549,Cardiology,Therapy,2025-10-16,Completed
+T00203,P00272,Orthopedics,Surgery,2025-02-19,Completed
+T00204,P01744,General Medicine,Diagnostics,2025-01-04,Completed
+T00205,P01782,Emergency,Consultation,2026-05-15,Completed
+T00206,P00133,Emergency,Medication,2025-08-11,Pending
+T00207,P01268,Dermatology,Diagnostics,2025-09-19,Completed
+T00208,P01830,Emergency,Surgery,2026-06-19,Completed
+T00209,P00998,Orthopedics,Diagnostics,2026-01-11,Completed
+T00210,P01458,Orthopedics,Consultation,2025-03-02,Completed
+T00211,P00038,Cardiology,Therapy,2025-12-22,Completed
+T00212,P01895,Emergency,Medication,2025-01-24,Completed
+T00213,P01592,Oncology,Surgery,2025-10-20,Completed
+T00214,P01343,Dermatology,Medication,2025-12-22,Completed
+T00215,P01534,General Medicine,Medication,2025-01-29,Cancelled
+T00216,P01400,Pediatrics,Medication,2025-12-23,Pending
+T00217,P01584,Emergency,Diagnostics,2025-12-31,Completed
+T00218,P00617,Cardiology,Diagnostics,2026-02-13,Completed
+T00219,P00474,Cardiology,Therapy,2025-09-23,Completed
+T00220,P00059,Oncology,Consultation,2025-10-18,Completed
+T00221,P00589,General Medicine,Surgery,2025-06-02,Pending
+T00222,P01964,Dermatology,Diagnostics,2025-08-07,Completed
+T00223,P00499,Neurology,Medication,2025-06-22,Completed
+T00224,P01242,Cardiology,Consultation,2025-01-12,Completed
+T00225,P01919,Orthopedics,Surgery,2026-05-31,Pending
+T00226,P00567,Orthopedics,Surgery,2025-12-28,Pending
+T00227,P00567,Pediatrics,Surgery,2026-04-22,Completed
+T00228,P01153,Cardiology,Surgery,2025-03-23,Completed
+T00229,P00904,Dermatology,Therapy,2025-12-06,Completed
+T00230,P00383,Pediatrics,Surgery,2026-03-17,Completed
+T00231,P01412,Cardiology,Consultation,2025-08-14,Completed
+T00232,P00085,General Medicine,Diagnostics,2026-01-06,Pending
+T00233,P01534,Emergency,Consultation,2025-01-28,Completed
+T00234,P01750,Dermatology,Medication,2025-01-16,Pending
+T00235,P00627,Cardiology,Therapy,2025-10-04,Cancelled
+T00236,P01461,Dermatology,Therapy,2025-11-29,Completed
+T00237,P00826,Neurology,Medication,2026-04-28,Completed
+T00238,P00293,Dermatology,Consultation,2025-10-15,Pending
+T00239,P01073,Dermatology,Consultation,2025-04-24,Completed
+T00240,P01091,Orthopedics,Medication,2025-02-07,Completed
+T00241,P00787,General Medicine,Surgery,2026-03-30,Completed
+T00242,P00129,Emergency,Surgery,2025-06-15,Completed
+T00243,P00029,Emergency,Diagnostics,2025-07-24,Completed
+T00244,P01367,Orthopedics,Consultation,2025-09-02,Completed
+T00245,P01569,Dermatology,Consultation,2025-11-29,Completed
+T00246,P01143,Emergency,Medication,2026-01-31,Completed
+T00247,P00692,Pediatrics,Medication,2026-05-22,Completed
+T00248,P01961,General Medicine,Surgery,2025-05-01,Completed
+T00249,P01687,Neurology,Consultation,2025-09-16,Completed
+T00250,P00133,Orthopedics,Consultation,2026-02-14,Completed
+T00251,P01351,Cardiology,Therapy,2025-11-06,Completed
+T00252,P01209,Cardiology,Diagnostics,2025-03-09,Pending
+T00253,P01530,Cardiology,Diagnostics,2025-04-24,Pending
+T00254,P00646,Oncology,Surgery,2025-08-08,Pending
+T00255,P00689,General Medicine,Consultation,2025-08-08,Pending
+T00256,P00534,Neurology,Therapy,2026-04-18,Completed
+T00257,P01265,Emergency,Consultation,2026-01-21,Completed
+T00258,P01613,Neurology,Medication,2025-10-25,Completed
+T00259,P01740,Neurology,Surgery,2025-09-10,Pending
+T00260,P00516,Orthopedics,Diagnostics,2026-02-09,Pending
+T00261,P01864,General Medicine,Consultation,2026-05-07,Completed
+T00262,P00960,Cardiology,Surgery,2025-12-23,Completed
+T00263,P00165,Orthopedics,Diagnostics,2026-03-04,Completed
+T00264,P00927,Emergency,Consultation,2025-08-03,Completed
+T00265,P00933,Neurology,Therapy,2026-01-15,Completed
+T00266,P01664,Dermatology,Surgery,2025-08-02,Pending
+T00267,P00557,Cardiology,Consultation,2025-04-08,Completed
+T00268,P01242,Oncology,Diagnostics,2026-06-12,Pending
+T00269,P01771,General Medicine,Diagnostics,2026-06-12,Completed
+T00270,P01672,Pediatrics,Therapy,2026-06-19,Completed
+T00271,P00680,Oncology,Surgery,2025-11-24,Pending
+T00272,P00993,Neurology,Surgery,2025-06-14,Completed
+T00273,P01773,Neurology,Consultation,2025-04-26,Completed
+T00274,P01629,Neurology,Diagnostics,2025-05-30,Completed
+T00275,P01029,Neurology,Diagnostics,2026-06-02,Pending
+T00276,P01692,Cardiology,Therapy,2025-02-01,Completed
+T00277,P00757,General Medicine,Therapy,2025-10-20,Completed
+T00278,P01896,Oncology,Surgery,2025-06-26,Completed
+T00279,P01105,Orthopedics,Diagnostics,2025-03-02,Pending
+T00280,P01271,Cardiology,Consultation,2026-02-20,Cancelled
+T00281,P00855,General Medicine,Medication,2026-01-18,Completed
+T00282,P00493,Oncology,Consultation,2025-01-07,Completed
+T00283,P00649,Orthopedics,Therapy,2025-03-26,Pending
+T00284,P01410,Neurology,Consultation,2026-02-02,Completed
+T00285,P01599,General Medicine,Diagnostics,2026-01-28,Completed
+T00286,P00992,Neurology,Surgery,2025-02-16,Completed
+T00287,P01331,Dermatology,Medication,2025-12-07,Completed
+T00288,P00628,General Medicine,Surgery,2026-05-13,Completed
+T00289,P00625,Emergency,Medication,2026-04-23,Completed
+T00290,P00543,Pediatrics,Medication,2026-03-02,Completed
+T00291,P00007,Neurology,Diagnostics,2026-03-02,Pending
+T00292,P01950,Neurology,Diagnostics,2026-05-30,Completed
+T00293,P00954,Neurology,Therapy,2025-05-09,Completed
+T00294,P00515,Emergency,Therapy,2025-09-06,Pending
+T00295,P01843,Cardiology,Medication,2025-05-11,Pending
+T00296,P00755,Orthopedics,Therapy,2025-11-19,Completed
+T00297,P01592,Neurology,Diagnostics,2026-06-27,Completed
+T00298,P00073,Neurology,Therapy,2025-03-07,Completed
+T00299,P00010,Oncology,Medication,2025-04-11,Completed
+T00300,P01597,Oncology,Surgery,2025-01-31,Completed
+T00301,P00562,Cardiology,Consultation,2025-07-10,Completed
+T00302,P00122,Cardiology,Therapy,2026-02-19,Completed
+T00303,P00687,Pediatrics,Diagnostics,2026-05-15,Pending
+T00304,P00513,General Medicine,Surgery,2025-02-15,Completed
+T00305,P00990,Neurology,Diagnostics,2025-03-30,Completed
+T00306,P00441,General Medicine,Therapy,2026-01-10,Completed
+T00307,P01062,Dermatology,Medication,2025-09-03,Completed
+T00308,P00702,Cardiology,Consultation,2025-09-14,Completed
+T00309,P00591,Cardiology,Consultation,2025-12-18,Pending
+T00310,P01369,Pediatrics,Surgery,2025-04-15,Completed
+T00311,P01990,Orthopedics,Consultation,2025-12-03,Completed
+T00312,P01362,Emergency,Medication,2026-06-10,Completed
+T00313,P01985,Emergency,Diagnostics,2025-10-28,Completed
+T00314,P01726,Emergency,Medication,2025-03-18,Completed
+T00315,P01208,Cardiology,Surgery,2026-05-26,Completed
+T00316,P00067,Neurology,Surgery,2025-08-18,Pending
+T00317,P00017,Oncology,Consultation,2025-02-01,Pending
+T00318,P01407,Pediatrics,Medication,2025-02-27,Completed
+T00319,P00368,Orthopedics,Diagnostics,2025-04-14,Pending
+T00320,P00904,Dermatology,Medication,2025-11-08,Cancelled
+T00321,P01340,Emergency,Diagnostics,2025-03-08,Completed
+T00322,P01521,Pediatrics,Diagnostics,2026-01-09,Cancelled
+T00323,P01832,Oncology,Medication,2025-08-23,Completed
+T00324,P00721,Oncology,Therapy,2025-04-22,Pending
+T00325,P01369,Cardiology,Medication,2026-01-24,Completed
+T00326,P00958,Emergency,Diagnostics,2026-02-12,Completed
+T00327,P01577,Orthopedics,Surgery,2025-02-23,Completed
+T00328,P00908,Dermatology,Surgery,2025-08-27,Completed
+T00329,P00989,General Medicine,Consultation,2025-10-22,Pending
+T00330,P00473,Oncology,Surgery,2025-04-22,Completed
+T00331,P00115,Oncology,Therapy,2025-03-29,Completed
+T00332,P00100,Dermatology,Diagnostics,2026-04-21,Completed
+T00333,P01909,Oncology,Medication,2025-10-31,Completed
+T00334,P00438,Orthopedics,Medication,2025-11-01,Completed
+T00335,P01369,Dermatology,Therapy,2025-10-17,Completed
+T00336,P00349,Neurology,Surgery,2025-07-27,Completed
+T00337,P00139,Emergency,Diagnostics,2026-01-05,Completed
+T00338,P00828,Emergency,Surgery,2025-08-08,Completed
+T00339,P00324,General Medicine,Consultation,2025-08-19,Completed
+T00340,P00846,Dermatology,Surgery,2025-12-15,Cancelled
+T00341,P01326,General Medicine,Consultation,2025-09-12,Completed
+T00342,P00294,Dermatology,Medication,2026-03-28,Completed
+T00343,P01981,Emergency,Diagnostics,2025-05-22,Completed
+T00344,P01553,Neurology,Consultation,2025-03-10,Completed
+T00345,P01858,Oncology,Surgery,2025-03-30,Completed
+T00346,P00968,Dermatology,Surgery,2025-05-16,Completed
+T00347,P01316,General Medicine,Medication,2026-06-07,Completed
+T00348,P00074,Cardiology,Therapy,2026-03-18,Completed
+T00349,P01799,Oncology,Therapy,2025-02-07,Completed
+T00350,P00484,Emergency,Surgery,2025-07-27,Pending
+T00351,P00016,Orthopedics,Therapy,2025-07-29,Completed
+T00352,P01550,Orthopedics,Diagnostics,2026-05-28,Completed
+T00353,P01360,Oncology,Therapy,2025-12-26,Completed
+T00354,P00793,Neurology,Diagnostics,2025-01-01,Completed
+T00355,P01897,Cardiology,Surgery,2026-01-16,Completed
+T00356,P00516,General Medicine,Surgery,2026-06-21,Completed
+T00357,P00925,Dermatology,Surgery,2026-01-29,Completed
+T00358,P01151,Emergency,Medication,2025-02-19,Completed
+T00359,P00824,Orthopedics,Therapy,2026-01-31,Completed
+T00360,P00518,Orthopedics,Consultation,2025-02-01,Completed
+T00361,P00129,Orthopedics,Consultation,2026-06-29,Completed
+T00362,P00511,Orthopedics,Surgery,2025-08-22,Completed
+T00363,P00423,Pediatrics,Therapy,2025-01-26,Completed
+T00364,P00385,Neurology,Diagnostics,2026-03-10,Completed
+T00365,P01907,General Medicine,Consultation,2025-03-02,Completed
+T00366,P00232,Emergency,Surgery,2026-03-17,Completed
+T00367,P00959,Emergency,Consultation,2025-05-10,Completed
+T00368,P00825,Emergency,Consultation,2025-12-20,Pending
+T00369,P01219,General Medicine,Consultation,2025-07-17,Completed
+T00370,P00065,Neurology,Surgery,2026-01-06,Completed
+T00371,P00833,Oncology,Surgery,2025-05-27,Completed
+T00372,P00615,Oncology,Medication,2026-05-13,Completed
+T00373,P01301,Cardiology,Medication,2025-02-17,Completed
+T00374,P01694,Dermatology,Medication,2025-06-21,Completed
+T00375,P01248,Oncology,Consultation,2025-11-11,Completed
+T00376,P00801,Dermatology,Therapy,2026-01-11,Pending
+T00377,P01968,Neurology,Surgery,2026-06-17,Completed
+T00378,P00278,Orthopedics,Medication,2026-02-24,Cancelled
+T00379,P01718,Dermatology,Therapy,2026-01-31,Completed
+T00380,P00366,Orthopedics,Medication,2026-06-06,Completed
+T00381,P00516,Neurology,Medication,2025-07-06,Completed
+T00382,P01239,Neurology,Therapy,2025-02-02,Completed
+T00383,P00439,General Medicine,Medication,2025-03-10,Completed
+T00384,P00428,General Medicine,Consultation,2025-07-10,Completed
+T00385,P00729,Pediatrics,Consultation,2025-04-11,Completed
+T00386,P00396,Emergency,Consultation,2026-04-30,Completed
+T00387,P01233,Pediatrics,Diagnostics,2025-10-12,Completed
+T00388,P01525,Emergency,Medication,2026-01-25,Completed
+T00389,P01487,Orthopedics,Diagnostics,2025-06-09,Cancelled
+T00390,P00586,Pediatrics,Surgery,2025-02-16,Completed
+T00391,P01251,Pediatrics,Therapy,2025-06-08,Pending
+T00392,P00375,Cardiology,Surgery,2026-03-22,Completed
+T00393,P01524,Neurology,Diagnostics,2026-06-07,Completed
+T00394,P00948,General Medicine,Consultation,2025-06-04,Completed
+T00395,P00093,Pediatrics,Medication,2025-12-05,Completed
+T00396,P01484,General Medicine,Medication,2025-12-31,Cancelled
+T00397,P01601,Emergency,Consultation,2025-05-28,Completed
+T00398,P00321,Pediatrics,Medication,2025-05-24,Pending
+T00399,P01034,Emergency,Therapy,2025-04-13,Pending
+T00400,P00914,Oncology,Therapy,2025-04-03,Completed
+T00401,P01327,Oncology,Therapy,2025-10-13,Completed
+T00402,P01346,Pediatrics,Surgery,2026-02-28,Completed
+T00403,P01841,Oncology,Consultation,2025-04-29,Completed
+T00404,P01480,Dermatology,Therapy,2025-01-29,Completed
+T00405,P01302,Orthopedics,Diagnostics,2026-05-26,Completed
+T00406,P01622,Cardiology,Therapy,2025-01-30,Completed
+T00407,P01562,Emergency,Surgery,2026-01-01,Completed
+T00408,P01754,Neurology,Diagnostics,2025-05-18,Completed
+T00409,P01417,Neurology,Consultation,2026-04-20,Pending
+T00410,P00917,Orthopedics,Consultation,2026-01-27,Completed
+T00411,P00095,Oncology,Therapy,2026-03-11,Completed
+T00412,P01780,Orthopedics,Diagnostics,2025-08-22,Completed
+T00413,P00959,Oncology,Diagnostics,2025-02-24,Pending
+T00414,P01131,Dermatology,Therapy,2025-10-19,Completed
+T00415,P01414,Neurology,Therapy,2025-11-08,Cancelled
+T00416,P01784,Emergency,Medication,2025-03-30,Cancelled
+T00417,P01550,Neurology,Medication,2025-07-31,Pending
+T00418,P01697,Cardiology,Therapy,2025-11-14,Completed
+T00419,P00071,Pediatrics,Surgery,2026-04-10,Completed
+T00420,P00664,Oncology,Medication,2025-03-28,Pending
+T00421,P00969,Cardiology,Therapy,2026-02-13,Pending
+T00422,P00587,Dermatology,Diagnostics,2025-08-28,Pending
+T00423,P01400,Dermatology,Medication,2025-02-26,Completed
+T00424,P00727,Oncology,Surgery,2025-04-23,Completed
+T00425,P00368,Oncology,Consultation,2025-03-11,Completed
+T00426,P00051,Neurology,Diagnostics,2025-07-03,Pending
+T00427,P01922,Pediatrics,Surgery,2025-10-03,Completed
+T00428,P01167,Neurology,Surgery,2025-08-21,Completed
+T00429,P01443,Cardiology,Surgery,2025-02-23,Completed
+T00430,P01572,Cardiology,Diagnostics,2025-09-14,Completed
+T00431,P01524,Oncology,Surgery,2025-03-31,Completed
+T00432,P01910,Emergency,Consultation,2026-03-11,Completed
+T00433,P00988,Emergency,Medication,2026-02-12,Completed
+T00434,P01191,Cardiology,Diagnostics,2025-09-26,Completed
+T00435,P01772,Pediatrics,Surgery,2026-01-01,Completed
+T00436,P00260,Oncology,Therapy,2025-12-17,Pending
+T00437,P01216,Dermatology,Medication,2025-10-26,Completed
+T00438,P01226,Emergency,Diagnostics,2025-06-08,Completed
+T00439,P01798,Emergency,Therapy,2026-05-02,Pending
+T00440,P01209,General Medicine,Therapy,2026-06-10,Completed
+T00441,P00158,General Medicine,Surgery,2025-12-21,Pending
+T00442,P01782,Emergency,Diagnostics,2026-02-05,Cancelled
+T00443,P01646,Neurology,Surgery,2026-02-09,Completed
+T00444,P00099,Pediatrics,Consultation,2025-04-06,Completed
+T00445,P00241,Orthopedics,Therapy,2026-01-27,Completed
+T00446,P01515,Emergency,Consultation,2025-12-18,Pending
+T00447,P00202,General Medicine,Surgery,2025-10-15,Completed
+T00448,P00634,Pediatrics,Medication,2026-06-07,Completed
+T00449,P01533,Pediatrics,Therapy,2025-06-11,Pending
+T00450,P01653,General Medicine,Medication,2025-07-01,Pending
+T00451,P01120,Oncology,Diagnostics,2025-03-23,Completed
+T00452,P00746,Pediatrics,Therapy,2026-06-08,Completed
+T00453,P00490,Oncology,Consultation,2025-01-04,Completed
+T00454,P00579,Pediatrics,Medication,2026-05-10,Completed
+T00455,P01912,General Medicine,Diagnostics,2025-02-20,Pending
+T00456,P01242,Cardiology,Therapy,2025-09-18,Completed
+T00457,P00527,Emergency,Diagnostics,2025-05-14,Completed
+T00458,P00273,Neurology,Consultation,2025-12-28,Pending
+T00459,P01243,Oncology,Therapy,2025-08-05,Completed
+T00460,P00786,Orthopedics,Diagnostics,2025-03-09,Pending
+T00461,P01907,Neurology,Surgery,2025-05-23,Completed
+T00462,P01683,Cardiology,Therapy,2025-12-12,Pending
+T00463,P01356,Dermatology,Therapy,2025-07-13,Cancelled
+T00464,P01880,Cardiology,Therapy,2025-09-03,Completed
+T00465,P00453,Pediatrics,Therapy,2025-11-10,Pending
+T00466,P01176,Neurology,Surgery,2026-01-19,Cancelled
+T00467,P00347,Oncology,Consultation,2025-10-04,Cancelled
+T00468,P00816,Oncology,Surgery,2025-03-13,Completed
+T00469,P00414,Cardiology,Surgery,2025-05-09,Completed
+T00470,P01551,Neurology,Diagnostics,2025-12-24,Completed
+T00471,P00431,Cardiology,Medication,2026-06-09,Completed
+T00472,P00379,Orthopedics,Medication,2025-08-08,Completed
+T00473,P00998,Cardiology,Diagnostics,2025-01-06,Completed
+T00474,P00895,Neurology,Surgery,2025-08-16,Completed
+T00475,P00428,Pediatrics,Diagnostics,2025-01-17,Completed
+T00476,P01890,Neurology,Therapy,2025-01-12,Pending
+T00477,P01947,General Medicine,Diagnostics,2026-05-14,Pending
+T00478,P01108,Neurology,Diagnostics,2026-05-17,Completed
+T00479,P00192,Orthopedics,Therapy,2025-03-11,Completed
+T00480,P00041,Emergency,Medication,2025-04-18,Pending
+T00481,P01888,Orthopedics,Therapy,2025-07-20,Completed
+T00482,P01860,Orthopedics,Consultation,2025-02-21,Completed
+T00483,P01797,Cardiology,Diagnostics,2025-09-16,Pending
+T00484,P01333,Orthopedics,Diagnostics,2026-04-27,Completed
+T00485,P01402,Neurology,Medication,2025-09-21,Pending
+T00486,P00136,Oncology,Surgery,2025-10-30,Pending
+T00487,P01814,Emergency,Therapy,2025-05-05,Completed
+T00488,P00106,Oncology,Surgery,2025-09-27,Pending
+T00489,P00519,Dermatology,Consultation,2026-04-25,Completed
+T00490,P01942,Pediatrics,Therapy,2025-05-12,Pending
+T00491,P00814,Dermatology,Consultation,2025-01-02,Pending
+T00492,P01566,Orthopedics,Consultation,2025-04-25,Completed
+T00493,P00126,Oncology,Consultation,2026-04-26,Completed
+T00494,P01381,Neurology,Therapy,2025-01-01,Completed
+T00495,P00400,Cardiology,Therapy,2025-11-27,Completed
+T00496,P00079,Cardiology,Medication,2026-01-26,Cancelled
+T00497,P00389,Pediatrics,Diagnostics,2025-05-23,Completed
+T00498,P01603,Pediatrics,Surgery,2025-11-24,Completed
+T00499,P01559,Neurology,Surgery,2026-01-12,Completed
+T00500,P01725,Pediatrics,Consultation,2025-03-31,Completed
+T00501,P00074,Oncology,Therapy,2025-02-11,Pending
+T00502,P01029,Oncology,Therapy,2025-02-04,Completed
+T00503,P01943,Pediatrics,Consultation,2026-05-09,Pending
+T00504,P01487,Cardiology,Diagnostics,2025-05-04,Completed
+T00505,P00082,Neurology,Surgery,2025-02-26,Completed
+T00506,P01561,Emergency,Medication,2026-04-01,Completed
+T00507,P00776,Pediatrics,Diagnostics,2025-08-23,Completed
+T00508,P00991,Neurology,Therapy,2026-01-27,Completed
+T00509,P01429,Orthopedics,Consultation,2026-05-07,Completed
+T00510,P01538,Cardiology,Surgery,2025-12-09,Pending
+T00511,P00278,Emergency,Consultation,2025-06-25,Cancelled
+T00512,P00840,Oncology,Therapy,2025-02-21,Completed
+T00513,P01879,Cardiology,Consultation,2026-04-23,Completed
+T00514,P00224,Cardiology,Surgery,2026-05-04,Completed
+T00515,P01608,Oncology,Consultation,2025-01-05,Pending
+T00516,P01092,General Medicine,Surgery,2025-07-28,Completed
+T00517,P01344,Neurology,Consultation,2025-08-05,Completed
+T00518,P00606,Oncology,Consultation,2026-06-20,Completed
+T00519,P00019,Orthopedics,Surgery,2025-12-08,Completed
+T00520,P00640,Pediatrics,Consultation,2026-02-05,Completed
+T00521,P01367,Orthopedics,Diagnostics,2026-04-07,Completed
+T00522,P01618,Neurology,Medication,2025-07-30,Completed
+T00523,P01790,Oncology,Diagnostics,2025-01-26,Completed
+T00524,P01973,Cardiology,Medication,2025-09-09,Pending
+T00525,P01757,Oncology,Diagnostics,2025-01-03,Completed
+T00526,P01367,General Medicine,Medication,2025-01-02,Completed
+T00527,P00097,Neurology,Consultation,2025-01-02,Pending
+T00528,P01076,Emergency,Surgery,2025-05-30,Completed
+T00529,P00175,Emergency,Surgery,2025-01-04,Completed
+T00530,P01362,Neurology,Therapy,2026-05-12,Pending
+T00531,P01718,Pediatrics,Medication,2026-04-13,Completed
+T00532,P01964,Orthopedics,Therapy,2025-03-11,Completed
+T00533,P01377,Orthopedics,Therapy,2025-07-20,Pending
+T00534,P01415,Pediatrics,Medication,2025-11-04,Completed
+T00535,P01139,General Medicine,Surgery,2025-09-09,Completed
+T00536,P00348,Cardiology,Medication,2025-10-14,Completed
+T00537,P00001,Dermatology,Consultation,2025-10-19,Completed
+T00538,P00063,Dermatology,Therapy,2025-06-03,Cancelled
+T00539,P01784,Cardiology,Therapy,2025-05-13,Cancelled
+T00540,P01767,Emergency,Medication,2025-10-01,Completed
+T00541,P00226,General Medicine,Therapy,2026-05-24,Completed
+T00542,P00423,Pediatrics,Surgery,2025-12-19,Completed
+T00543,P01043,Dermatology,Therapy,2025-01-05,Completed
+T00544,P00031,Neurology,Medication,2025-10-20,Completed
+T00545,P00845,Oncology,Surgery,2025-12-26,Completed
+T00546,P00633,Orthopedics,Surgery,2025-08-02,Completed
+T00547,P00024,Oncology,Therapy,2026-02-10,Completed
+T00548,P00837,Neurology,Medication,2026-03-12,Pending
+T00549,P00983,Orthopedics,Therapy,2025-01-15,Pending
+T00550,P01235,Neurology,Consultation,2025-09-30,Completed
+T00551,P01985,Pediatrics,Consultation,2025-02-14,Completed
+T00552,P00161,Pediatrics,Surgery,2026-02-16,Pending
+T00553,P01279,General Medicine,Therapy,2025-07-06,Pending
+T00554,P01595,Neurology,Consultation,2025-06-19,Completed
+T00555,P00114,Neurology,Diagnostics,2026-02-05,Completed
+T00556,P00504,General Medicine,Consultation,2025-09-03,Cancelled
+T00557,P01953,General Medicine,Therapy,2025-02-12,Completed
+T00558,P01696,Oncology,Therapy,2025-06-28,Completed
+T00559,P00955,Pediatrics,Consultation,2026-04-02,Completed
+T00560,P01244,Oncology,Therapy,2026-06-19,Completed
+T00561,P00357,Pediatrics,Therapy,2025-09-01,Completed
+T00562,P00169,Oncology,Diagnostics,2025-01-17,Completed
+T00563,P01548,Emergency,Surgery,2025-04-22,Completed
+T00564,P00969,Neurology,Therapy,2025-01-30,Completed
+T00565,P00242,Oncology,Medication,2025-07-11,Completed
+T00566,P01399,Oncology,Surgery,2026-03-13,Cancelled
+T00567,P00139,Pediatrics,Surgery,2025-06-28,Completed
+T00568,P00097,Dermatology,Medication,2026-04-19,Completed
+T00569,P00147,Pediatrics,Consultation,2025-05-14,Completed
+T00570,P01206,Neurology,Diagnostics,2025-11-08,Completed
+T00571,P01081,General Medicine,Therapy,2025-01-25,Cancelled
+T00572,P01066,Neurology,Consultation,2026-01-06,Completed
+T00573,P00866,Dermatology,Medication,2026-06-09,Completed
+T00574,P01735,Cardiology,Diagnostics,2025-11-15,Completed
+T00575,P00543,Neurology,Diagnostics,2025-08-18,Completed
+T00576,P00692,Cardiology,Diagnostics,2025-04-12,Completed
+T00577,P01026,Oncology,Medication,2026-03-26,Completed
+T00578,P01958,Neurology,Consultation,2026-01-13,Pending
+T00579,P01312,Dermatology,Therapy,2025-07-22,Completed
+T00580,P01162,Cardiology,Diagnostics,2025-09-24,Completed
+T00581,P01641,Cardiology,Diagnostics,2026-04-07,Completed
+T00582,P01536,Dermatology,Consultation,2025-12-31,Completed
+T00583,P00904,Neurology,Diagnostics,2025-04-14,Completed
+T00584,P00730,Emergency,Diagnostics,2025-04-21,Completed
+T00585,P01246,Pediatrics,Medication,2026-03-04,Pending
+T00586,P00331,Orthopedics,Surgery,2026-04-14,Completed
+T00587,P00617,Pediatrics,Consultation,2025-09-07,Completed
+T00588,P00404,Cardiology,Consultation,2026-04-27,Completed
+T00589,P00508,Oncology,Consultation,2025-11-27,Completed
+T00590,P01940,Neurology,Medication,2025-07-20,Completed
+T00591,P01151,Neurology,Medication,2026-03-30,Completed
+T00592,P01289,Oncology,Therapy,2026-05-19,Completed
+T00593,P01736,Neurology,Medication,2026-06-30,Completed
+T00594,P01788,Neurology,Consultation,2025-04-21,Completed
+T00595,P01039,Emergency,Therapy,2026-06-28,Completed
+T00596,P00226,Orthopedics,Surgery,2025-07-28,Completed
+T00597,P00984,General Medicine,Diagnostics,2025-02-02,Completed
+T00598,P00865,Cardiology,Diagnostics,2025-04-17,Completed
+T00599,P01129,Orthopedics,Therapy,2025-09-22,Completed
+T00600,P00745,Pediatrics,Surgery,2025-08-14,Completed
+T00601,P00493,General Medicine,Diagnostics,2026-05-02,Completed
+T00602,P00319,General Medicine,Therapy,2025-06-28,Completed
+T00603,P01243,Oncology,Medication,2025-08-10,Pending
+T00604,P01301,Neurology,Consultation,2026-01-05,Cancelled
+T00605,P00773,Orthopedics,Surgery,2025-06-16,Completed
+T00606,P01917,Oncology,Diagnostics,2025-10-27,Completed
+T00607,P01955,Pediatrics,Consultation,2026-01-16,Completed
+T00608,P01365,Neurology,Therapy,2025-02-04,Completed
+T00609,P00452,Neurology,Diagnostics,2026-02-11,Completed
+T00610,P01393,Dermatology,Consultation,2026-05-17,Pending
+T00611,P00944,Dermatology,Medication,2025-11-10,Completed
+T00612,P00848,Dermatology,Surgery,2025-04-11,Cancelled
+T00613,P01017,Emergency,Therapy,2025-08-03,Completed
+T00614,P01498,Oncology,Diagnostics,2025-03-03,Completed
+T00615,P01214,Cardiology,Medication,2026-01-04,Pending
+T00616,P00884,General Medicine,Surgery,2026-01-03,Pending
+T00617,P00419,Pediatrics,Surgery,2025-04-04,Pending
+T00618,P01734,General Medicine,Medication,2026-04-14,Completed
+T00619,P00865,Orthopedics,Diagnostics,2025-01-26,Completed
+T00620,P00789,Cardiology,Surgery,2026-03-11,Completed
+T00621,P01872,Neurology,Therapy,2025-05-01,Completed
+T00622,P00495,Cardiology,Consultation,2025-02-19,Completed
+T00623,P01063,Neurology,Therapy,2025-02-05,Cancelled
+T00624,P00162,Oncology,Surgery,2026-02-14,Completed
+T00625,P00121,Dermatology,Consultation,2025-10-16,Pending
+T00626,P01916,Cardiology,Medication,2026-01-14,Completed
+T00627,P00399,Neurology,Consultation,2025-04-10,Completed
+T00628,P01286,General Medicine,Consultation,2025-11-20,Pending
+T00629,P01986,Dermatology,Consultation,2025-11-25,Completed
+T00630,P00728,Dermatology,Surgery,2025-08-09,Completed
+T00631,P01848,Dermatology,Diagnostics,2025-04-20,Completed
+T00632,P00561,General Medicine,Surgery,2025-05-29,Completed
+T00633,P00604,General Medicine,Diagnostics,2026-02-10,Cancelled
+T00634,P01153,General Medicine,Medication,2026-02-14,Completed
+T00635,P01857,Dermatology,Medication,2025-05-09,Completed
+T00636,P00540,Cardiology,Medication,2026-04-29,Completed
+T00637,P00356,Neurology,Medication,2025-04-18,Completed
+T00638,P00660,General Medicine,Medication,2026-01-24,Completed
+T00639,P00432,Cardiology,Therapy,2026-03-01,Completed
+T00640,P01864,Neurology,Surgery,2026-03-23,Pending
+T00641,P01089,Dermatology,Diagnostics,2025-03-09,Pending
+T00642,P01242,Cardiology,Medication,2025-03-07,Completed
+T00643,P00563,Dermatology,Therapy,2026-05-19,Completed
+T00644,P01451,Emergency,Therapy,2026-05-19,Completed
+T00645,P00817,General Medicine,Therapy,2025-11-17,Pending
+T00646,P01945,Orthopedics,Surgery,2026-03-23,Completed
+T00647,P01098,Cardiology,Medication,2025-07-29,Completed
+T00648,P01484,General Medicine,Therapy,2026-01-05,Completed
+T00649,P01449,Pediatrics,Therapy,2026-04-03,Completed
+T00650,P00711,Neurology,Medication,2025-06-12,Completed
+T00651,P01216,Emergency,Surgery,2025-11-28,Completed
+T00652,P01213,General Medicine,Therapy,2025-12-16,Cancelled
+T00653,P00012,Pediatrics,Diagnostics,2026-04-13,Completed
+T00654,P00239,Cardiology,Consultation,2026-03-02,Completed
+T00655,P01896,Cardiology,Consultation,2025-11-23,Completed
+T00656,P01617,Pediatrics,Consultation,2025-04-16,Completed
+T00657,P00453,Emergency,Surgery,2025-09-12,Completed
+T00658,P00383,Pediatrics,Therapy,2025-12-24,Completed
+T00659,P00782,Neurology,Consultation,2026-03-20,Pending
+T00660,P01826,Cardiology,Consultation,2025-04-23,Completed
+T00661,P00048,Pediatrics,Medication,2025-01-30,Completed
+T00662,P00317,Orthopedics,Therapy,2026-06-08,Completed
+T00663,P00209,Orthopedics,Therapy,2025-02-15,Completed
+T00664,P01571,Pediatrics,Medication,2025-06-20,Completed
+T00665,P01143,Neurology,Therapy,2025-05-10,Completed
+T00666,P00577,Cardiology,Diagnostics,2025-12-19,Completed
+T00667,P00315,Orthopedics,Surgery,2025-07-22,Pending
+T00668,P00754,Pediatrics,Medication,2025-08-14,Completed
+T00669,P01060,Dermatology,Consultation,2025-03-21,Completed
+T00670,P01487,Pediatrics,Therapy,2025-11-06,Completed
+T00671,P01788,General Medicine,Diagnostics,2025-02-04,Completed
+T00672,P00915,Pediatrics,Diagnostics,2025-06-10,Completed
+T00673,P00755,Neurology,Surgery,2026-03-11,Pending
+T00674,P00554,Orthopedics,Diagnostics,2026-06-22,Completed
+T00675,P01605,General Medicine,Therapy,2025-08-13,Completed
+T00676,P00403,Orthopedics,Therapy,2026-03-22,Completed
+T00677,P01131,Orthopedics,Diagnostics,2025-11-13,Completed
+T00678,P00039,Neurology,Therapy,2026-02-18,Completed
+T00679,P00581,Pediatrics,Therapy,2025-04-05,Pending
+T00680,P00180,Neurology,Consultation,2025-08-13,Completed
+T00681,P00012,Pediatrics,Medication,2025-03-07,Completed
+T00682,P01363,General Medicine,Therapy,2026-02-01,Completed
+T00683,P00943,Neurology,Therapy,2025-07-29,Completed
+T00684,P01740,Neurology,Surgery,2026-04-19,Completed
+T00685,P00548,Dermatology,Medication,2026-05-05,Completed
+T00686,P01150,Emergency,Medication,2025-06-29,Completed
+T00687,P00063,Cardiology,Medication,2026-06-08,Pending
+T00688,P00844,Neurology,Diagnostics,2026-04-04,Completed
+T00689,P01106,Emergency,Consultation,2025-03-09,Completed
+T00690,P01009,Oncology,Consultation,2025-11-25,Pending
+T00691,P01843,Cardiology,Surgery,2025-07-21,Completed
+T00692,P01323,Dermatology,Medication,2026-04-20,Pending
+T00693,P00034,Pediatrics,Medication,2026-06-02,Completed
+T00694,P00752,Oncology,Therapy,2025-01-15,Completed
+T00695,P01633,Pediatrics,Diagnostics,2025-02-11,Completed
+T00696,P00049,Pediatrics,Diagnostics,2026-06-27,Completed
+T00697,P00658,Emergency,Surgery,2025-10-16,Completed
+T00698,P01661,Emergency,Consultation,2026-06-17,Pending
+T00699,P00701,Cardiology,Medication,2025-09-01,Completed
+T00700,P01081,Pediatrics,Surgery,2025-06-23,Completed
+T00701,P01885,Orthopedics,Diagnostics,2026-06-18,Completed
+T00702,P00109,Oncology,Diagnostics,2026-05-24,Completed
+T00703,P01541,Neurology,Diagnostics,2025-09-01,Completed
+T00704,P00985,Emergency,Medication,2025-03-01,Completed
+T00705,P00024,Emergency,Medication,2025-04-14,Completed
+T00706,P00221,Emergency,Medication,2025-10-30,Completed
+T00707,P01984,Cardiology,Therapy,2025-03-18,Cancelled
+T00708,P00315,Pediatrics,Consultation,2025-01-18,Completed
+T00709,P00294,Orthopedics,Diagnostics,2026-06-18,Cancelled
+T00710,P01953,Neurology,Diagnostics,2025-07-03,Completed
+T00711,P01034,Neurology,Therapy,2025-10-08,Completed
+T00712,P01701,Pediatrics,Diagnostics,2025-10-15,Pending
+T00713,P01020,Orthopedics,Diagnostics,2026-06-09,Completed
+T00714,P01505,Cardiology,Medication,2026-04-19,Pending
+T00715,P01751,Emergency,Medication,2025-09-24,Completed
+T00716,P01018,Emergency,Consultation,2025-12-23,Pending
+T00717,P00638,Oncology,Diagnostics,2025-01-01,Completed
+T00718,P00267,Oncology,Surgery,2025-01-27,Completed
+T00719,P01816,Oncology,Diagnostics,2025-06-09,Completed
+T00720,P00088,Dermatology,Diagnostics,2026-02-03,Pending
+T00721,P00455,Pediatrics,Consultation,2026-06-27,Completed
+T00722,P01650,Neurology,Surgery,2025-05-07,Completed
+T00723,P01557,Emergency,Diagnostics,2025-07-29,Completed
+T00724,P01172,Dermatology,Surgery,2025-05-30,Completed
+T00725,P00757,Neurology,Medication,2025-01-31,Completed
+T00726,P01802,Neurology,Medication,2025-10-29,Completed
+T00727,P01753,Pediatrics,Surgery,2025-09-14,Completed
+T00728,P00431,General Medicine,Diagnostics,2025-02-26,Completed
+T00729,P01776,Oncology,Surgery,2025-01-09,Pending
+T00730,P01967,Dermatology,Surgery,2025-01-05,Completed
+T00731,P00911,General Medicine,Medication,2025-04-24,Completed
+T00732,P01964,General Medicine,Surgery,2025-07-24,Completed
+T00733,P01768,Dermatology,Therapy,2025-01-24,Completed
+T00734,P01768,Orthopedics,Therapy,2026-05-08,Completed
+T00735,P00242,Oncology,Medication,2026-02-10,Pending
+T00736,P00702,Pediatrics,Diagnostics,2025-04-13,Completed
+T00737,P00902,Dermatology,Diagnostics,2025-03-01,Completed
+T00738,P00741,Neurology,Medication,2025-03-27,Completed
+T00739,P00066,Dermatology,Diagnostics,2026-01-07,Pending
+T00740,P00972,Emergency,Consultation,2025-07-21,Completed
+T00741,P00378,Dermatology,Therapy,2025-03-30,Completed
+T00742,P00388,Orthopedics,Consultation,2026-03-13,Completed
+T00743,P01815,Oncology,Consultation,2025-04-30,Completed
+T00744,P00781,Oncology,Consultation,2025-06-05,Completed
+T00745,P00209,General Medicine,Medication,2026-02-03,Completed
+T00746,P01439,Cardiology,Consultation,2025-07-07,Completed
+T00747,P00016,Oncology,Surgery,2025-02-21,Completed
+T00748,P01321,Oncology,Diagnostics,2026-06-15,Pending
+T00749,P00986,Orthopedics,Medication,2026-04-25,Completed
+T00750,P01244,Orthopedics,Surgery,2025-08-18,Completed
+T00751,P01793,Pediatrics,Surgery,2026-04-26,Completed
+T00752,P00367,Emergency,Therapy,2025-05-10,Completed
+T00753,P00780,Orthopedics,Therapy,2025-02-24,Completed
+T00754,P01253,Dermatology,Surgery,2025-09-28,Completed
+T00755,P01655,Emergency,Therapy,2025-04-10,Completed
+T00756,P00440,Pediatrics,Diagnostics,2025-03-10,Completed
+T00757,P00690,Dermatology,Diagnostics,2025-10-26,Completed
+T00758,P01556,Oncology,Therapy,2026-06-13,Completed
+T00759,P01474,Cardiology,Consultation,2025-12-20,Pending
+T00760,P01060,Neurology,Surgery,2025-06-01,Completed
+T00761,P00847,Neurology,Diagnostics,2025-11-26,Completed
+T00762,P00422,General Medicine,Therapy,2025-04-26,Completed
+T00763,P01942,Oncology,Therapy,2026-06-26,Pending
+T00764,P01644,General Medicine,Diagnostics,2025-11-19,Completed
+T00765,P01213,Cardiology,Diagnostics,2025-08-17,Completed
+T00766,P01202,Neurology,Consultation,2025-12-26,Completed
+T00767,P00608,General Medicine,Therapy,2025-01-05,Completed
+T00768,P01339,Oncology,Therapy,2025-01-28,Completed
+T00769,P00020,Emergency,Medication,2025-12-30,Completed
+T00770,P00676,Orthopedics,Consultation,2026-04-07,Completed
+T00771,P00382,Pediatrics,Diagnostics,2025-08-19,Completed
+T00772,P00609,Dermatology,Diagnostics,2026-01-30,Completed
+T00773,P00143,General Medicine,Surgery,2025-09-28,Completed
+T00774,P00062,Cardiology,Diagnostics,2025-10-31,Completed
+T00775,P01266,Dermatology,Therapy,2026-01-18,Completed
+T00776,P00238,Neurology,Diagnostics,2025-01-28,Pending
+T00777,P01155,Oncology,Therapy,2026-06-03,Completed
+T00778,P01629,Cardiology,Therapy,2025-07-18,Completed
+T00779,P01627,Pediatrics,Consultation,2025-03-23,Completed
+T00780,P01669,Pediatrics,Diagnostics,2025-03-29,Completed
+T00781,P01147,Cardiology,Consultation,2026-01-25,Completed
+T00782,P01464,General Medicine,Therapy,2026-03-27,Pending
+T00783,P00927,General Medicine,Diagnostics,2026-03-09,Completed
+T00784,P00342,Neurology,Diagnostics,2026-01-09,Completed
+T00785,P01443,Emergency,Consultation,2026-03-11,Pending
+T00786,P01654,Neurology,Consultation,2025-07-06,Completed
+T00787,P00455,Orthopedics,Therapy,2026-01-25,Pending
+T00788,P01222,Emergency,Therapy,2025-08-06,Completed
+T00789,P00282,Oncology,Diagnostics,2025-04-18,Completed
+T00790,P00886,Dermatology,Diagnostics,2025-12-15,Completed
+T00791,P01025,Oncology,Medication,2026-06-06,Completed
+T00792,P00723,Orthopedics,Medication,2025-01-26,Pending
+T00793,P01799,Neurology,Surgery,2025-02-17,Completed
+T00794,P01956,Emergency,Therapy,2026-01-05,Completed
+T00795,P01356,Emergency,Surgery,2025-01-14,Pending
+T00796,P01236,Orthopedics,Surgery,2025-07-06,Completed
+T00797,P00087,Oncology,Consultation,2026-06-08,Pending
+T00798,P00665,Cardiology,Consultation,2025-10-06,Pending
+T00799,P00862,General Medicine,Medication,2025-12-07,Completed
+T00800,P01723,Emergency,Surgery,2025-11-24,Completed
+T00801,P00061,Dermatology,Medication,2025-01-25,Completed
+T00802,P00797,Dermatology,Therapy,2026-06-13,Completed
+T00803,P00095,Emergency,Diagnostics,2026-03-02,Pending
+T00804,P00786,Orthopedics,Consultation,2025-01-29,Completed
+T00805,P01577,Emergency,Therapy,2025-11-19,Completed
+T00806,P01171,Oncology,Therapy,2025-11-09,Completed
+T00807,P01270,Orthopedics,Consultation,2025-09-27,Completed
+T00808,P01668,Cardiology,Consultation,2025-10-22,Completed
+T00809,P00961,Dermatology,Surgery,2025-08-11,Completed
+T00810,P00297,Emergency,Medication,2025-03-16,Completed
+T00811,P01147,Pediatrics,Therapy,2025-04-12,Pending
+T00812,P01679,Neurology,Surgery,2026-06-16,Completed
+T00813,P00694,Dermatology,Surgery,2025-06-22,Pending
+T00814,P01728,Cardiology,Therapy,2025-01-04,Completed
+T00815,P01480,Pediatrics,Therapy,2026-04-24,Completed
+T00816,P00399,Dermatology,Diagnostics,2026-01-30,Pending
+T00817,P01743,Cardiology,Medication,2025-06-16,Completed
+T00818,P00946,General Medicine,Therapy,2025-10-27,Pending
+T00819,P01255,Cardiology,Consultation,2025-04-28,Completed
+T00820,P00534,Cardiology,Diagnostics,2026-05-27,Completed
+T00821,P00402,General Medicine,Medication,2025-06-24,Pending
+T00822,P01616,Emergency,Consultation,2025-06-08,Completed
+T00823,P00130,Neurology,Consultation,2026-01-19,Completed
+T00824,P00292,Oncology,Medication,2025-08-15,Completed
+T00825,P00276,Pediatrics,Diagnostics,2025-02-07,Pending
+T00826,P00912,Dermatology,Consultation,2026-04-08,Pending
+T00827,P01859,Oncology,Surgery,2026-03-07,Completed
+T00828,P01400,Orthopedics,Medication,2025-04-14,Cancelled
+T00829,P00926,Neurology,Medication,2025-07-12,Completed
+T00830,P00055,Oncology,Therapy,2025-09-07,Pending
+T00831,P01602,Dermatology,Diagnostics,2025-01-13,Completed
+T00832,P00739,Cardiology,Surgery,2026-01-23,Completed
+T00833,P01050,Oncology,Surgery,2025-03-12,Pending
+T00834,P01465,Orthopedics,Therapy,2026-03-14,Completed
+T00835,P00765,General Medicine,Consultation,2025-02-13,Cancelled
+T00836,P01221,Oncology,Consultation,2025-09-29,Completed
+T00837,P00642,Neurology,Surgery,2025-01-14,Completed
+T00838,P01267,Emergency,Diagnostics,2026-01-06,Pending
+T00839,P01848,Pediatrics,Consultation,2025-04-22,Cancelled
+T00840,P00724,Neurology,Medication,2026-01-14,Completed
+T00841,P01214,Neurology,Therapy,2025-11-10,Completed
+T00842,P00802,Emergency,Diagnostics,2026-02-19,Pending
+T00843,P00738,Orthopedics,Consultation,2026-04-30,Pending
+T00844,P00758,General Medicine,Surgery,2025-06-18,Completed
+T00845,P01592,Emergency,Therapy,2025-09-03,Completed
+T00846,P00567,Dermatology,Consultation,2025-09-23,Pending
+T00847,P01300,General Medicine,Surgery,2025-08-31,Completed
+T00848,P01842,Emergency,Consultation,2025-10-27,Cancelled
+T00849,P01433,Neurology,Therapy,2025-11-23,Completed
+T00850,P00340,General Medicine,Medication,2026-06-14,Completed
+T00851,P00153,Orthopedics,Medication,2025-12-08,Completed
+T00852,P01589,Orthopedics,Surgery,2025-09-06,Completed
+T00853,P01422,Pediatrics,Medication,2026-01-15,Completed
+T00854,P01468,General Medicine,Therapy,2026-06-16,Cancelled
+T00855,P01647,Pediatrics,Surgery,2026-01-16,Completed
+T00856,P01004,Dermatology,Consultation,2025-02-11,Pending
+T00857,P00427,Emergency,Diagnostics,2025-12-11,Completed
+T00858,P01003,Cardiology,Consultation,2025-09-18,Pending
+T00859,P01982,Dermatology,Therapy,2025-11-02,Completed
+T00860,P01511,Orthopedics,Surgery,2025-08-28,Completed
+T00861,P00204,Neurology,Consultation,2025-11-09,Completed
+T00862,P01136,Oncology,Surgery,2026-03-17,Completed
+T00863,P00325,Orthopedics,Medication,2025-05-13,Cancelled
+T00864,P01983,Cardiology,Diagnostics,2025-02-20,Completed
+T00865,P01282,Neurology,Therapy,2026-01-27,Completed
+T00866,P00950,General Medicine,Consultation,2026-06-07,Completed
+T00867,P01552,Oncology,Diagnostics,2026-05-23,Completed
+T00868,P00951,General Medicine,Therapy,2025-12-20,Completed
+T00869,P01374,Dermatology,Therapy,2026-01-30,Completed
+T00870,P00939,Oncology,Medication,2025-04-06,Completed
+T00871,P00957,Orthopedics,Surgery,2025-04-16,Cancelled
+T00872,P01702,Neurology,Surgery,2026-05-28,Completed
+T00873,P01837,Emergency,Diagnostics,2025-08-30,Completed
+T00874,P00894,Oncology,Medication,2026-05-03,Pending
+T00875,P00435,Neurology,Therapy,2026-05-30,Completed
+T00876,P01450,Pediatrics,Medication,2025-03-02,Pending
+T00877,P01304,Cardiology,Medication,2026-02-20,Completed
+T00878,P00371,Dermatology,Diagnostics,2025-10-21,Completed
+T00879,P01694,General Medicine,Surgery,2025-10-29,Cancelled
+T00880,P00933,Orthopedics,Medication,2025-06-19,Completed
+T00881,P00249,Neurology,Medication,2025-02-10,Completed
+T00882,P00891,General Medicine,Medication,2025-08-19,Completed
+T00883,P00181,Orthopedics,Consultation,2026-02-13,Completed
+T00884,P00703,Oncology,Medication,2025-10-24,Pending
+T00885,P00999,General Medicine,Medication,2026-03-31,Completed
+T00886,P01675,Orthopedics,Therapy,2025-02-26,Pending
+T00887,P00078,General Medicine,Consultation,2025-08-28,Completed
+T00888,P00919,Emergency,Medication,2025-06-25,Cancelled
+T00889,P00885,Pediatrics,Medication,2025-03-04,Completed
+T00890,P00336,Cardiology,Diagnostics,2025-05-18,Completed
+T00891,P00050,General Medicine,Diagnostics,2026-03-30,Completed
+T00892,P00085,Cardiology,Consultation,2026-03-25,Completed
+T00893,P01719,General Medicine,Therapy,2025-08-14,Pending
+T00894,P00695,Dermatology,Consultation,2026-03-19,Completed
+T00895,P00004,Neurology,Consultation,2025-07-25,Completed
+T00896,P00993,Pediatrics,Diagnostics,2025-01-27,Pending
+T00897,P01974,Dermatology,Diagnostics,2026-04-02,Pending
+T00898,P00317,Emergency,Therapy,2025-04-17,Completed
+T00899,P01135,Pediatrics,Medication,2026-03-20,Pending
+T00900,P01358,Cardiology,Therapy,2025-02-05,Completed
+T00901,P01875,Neurology,Medication,2025-06-04,Completed
+T00902,P00763,Orthopedics,Surgery,2025-06-18,Completed
+T00903,P01157,Dermatology,Diagnostics,2025-09-29,Cancelled
+T00904,P00612,Pediatrics,Surgery,2026-02-24,Completed
+T00905,P01005,Emergency,Surgery,2025-07-03,Completed
+T00906,P00914,Dermatology,Diagnostics,2025-08-25,Pending
+T00907,P01708,Neurology,Surgery,2026-05-24,Completed
+T00908,P00799,Neurology,Consultation,2026-03-17,Pending
+T00909,P00119,Cardiology,Medication,2025-05-02,Pending
+T00910,P00350,Emergency,Therapy,2026-02-21,Cancelled
+T00911,P00917,Neurology,Diagnostics,2026-06-19,Completed
+T00912,P00687,Oncology,Consultation,2026-01-10,Completed
+T00913,P00542,Neurology,Therapy,2025-11-22,Pending
+T00914,P01079,Orthopedics,Therapy,2026-04-25,Completed
+T00915,P00361,Cardiology,Therapy,2025-05-30,Completed
+T00916,P00708,Cardiology,Surgery,2026-05-05,Completed
+T00917,P01477,Emergency,Surgery,2025-06-02,Completed
+T00918,P01577,Neurology,Surgery,2025-01-17,Pending
+T00919,P00685,Orthopedics,Surgery,2025-12-14,Completed
+T00920,P00330,General Medicine,Consultation,2026-04-04,Completed
+T00921,P00219,Pediatrics,Surgery,2025-07-21,Completed
+T00922,P00208,Oncology,Diagnostics,2026-02-27,Completed
+T00923,P01694,Dermatology,Therapy,2025-10-07,Completed
+T00924,P00845,Cardiology,Consultation,2026-02-26,Completed
+T00925,P01764,Orthopedics,Surgery,2026-04-10,Completed
+T00926,P00085,Emergency,Therapy,2025-12-21,Completed
+T00927,P00685,Orthopedics,Consultation,2026-01-13,Pending
+T00928,P00245,Neurology,Therapy,2025-05-04,Completed
+T00929,P00872,Oncology,Consultation,2025-03-21,Completed
+T00930,P01023,Pediatrics,Medication,2025-08-21,Cancelled
+T00931,P01709,Cardiology,Consultation,2026-04-25,Completed
+T00932,P01359,General Medicine,Surgery,2025-06-03,Pending
+T00933,P01236,Neurology,Therapy,2026-02-13,Completed
+T00934,P00596,Cardiology,Therapy,2025-01-31,Completed
+T00935,P00685,Dermatology,Therapy,2026-05-18,Pending
+T00936,P01207,Emergency,Diagnostics,2026-01-06,Completed
+T00937,P01979,Cardiology,Diagnostics,2025-11-19,Pending
+T00938,P01157,Orthopedics,Surgery,2025-11-28,Pending
+T00939,P01014,Dermatology,Medication,2025-08-31,Completed
+T00940,P01014,Pediatrics,Diagnostics,2026-03-06,Completed
+T00941,P01916,Oncology,Consultation,2025-07-01,Pending
+T00942,P01824,General Medicine,Surgery,2026-04-18,Completed
+T00943,P01798,Pediatrics,Medication,2026-01-11,Pending
+T00944,P00350,Orthopedics,Consultation,2025-03-22,Completed
+T00945,P00282,General Medicine,Therapy,2026-02-24,Completed
+T00946,P00293,General Medicine,Diagnostics,2026-04-12,Completed
+T00947,P01293,Oncology,Consultation,2026-03-04,Completed
+T00948,P01885,Neurology,Medication,2025-02-26,Completed
+T00949,P01221,General Medicine,Surgery,2025-11-18,Completed
+T00950,P01561,Cardiology,Consultation,2026-06-26,Completed
+T00951,P01677,Pediatrics,Surgery,2026-05-10,Completed
+T00952,P00984,Emergency,Therapy,2025-09-23,Completed
+T00953,P01759,Emergency,Medication,2025-08-15,Pending
+T00954,P00020,Pediatrics,Medication,2025-02-23,Completed
+T00955,P00759,Neurology,Diagnostics,2025-01-04,Completed
+T00956,P01864,General Medicine,Medication,2026-03-15,Completed
+T00957,P01980,Orthopedics,Consultation,2025-11-06,Completed
+T00958,P01737,Dermatology,Consultation,2025-03-30,Completed
+T00959,P00405,Dermatology,Consultation,2025-11-16,Completed
+T00960,P01139,Cardiology,Therapy,2026-01-10,Completed
+T00961,P01919,Neurology,Medication,2026-05-16,Completed
+T00962,P00701,Dermatology,Medication,2025-08-22,Completed
+T00963,P00980,Oncology,Consultation,2025-12-03,Cancelled
+T00964,P01999,Oncology,Diagnostics,2025-07-04,Completed
+T00965,P00026,General Medicine,Diagnostics,2026-03-14,Completed
+T00966,P00566,Emergency,Medication,2025-06-29,Completed
+T00967,P01706,Orthopedics,Medication,2025-03-17,Completed
+T00968,P00395,General Medicine,Surgery,2025-09-29,Completed
+T00969,P01957,Neurology,Medication,2025-02-24,Completed
+T00970,P01001,Oncology,Consultation,2025-03-18,Pending
+T00971,P01405,Orthopedics,Therapy,2025-10-23,Completed
+T00972,P00523,Dermatology,Medication,2025-08-07,Completed
+T00973,P01563,Orthopedics,Medication,2025-10-04,Completed
+T00974,P00862,Orthopedics,Consultation,2025-09-23,Completed
+T00975,P01107,Orthopedics,Surgery,2025-02-12,Completed
+T00976,P00802,Oncology,Medication,2025-12-27,Completed
+T00977,P00550,Dermatology,Diagnostics,2025-08-16,Completed
+T00978,P01469,General Medicine,Diagnostics,2025-08-15,Completed
+T00979,P00087,Orthopedics,Diagnostics,2025-03-04,Completed
+T00980,P01973,General Medicine,Therapy,2025-06-20,Completed
+T00981,P00833,Orthopedics,Therapy,2025-11-03,Completed
+T00982,P00387,Oncology,Medication,2025-02-03,Completed
+T00983,P00963,Orthopedics,Medication,2025-05-10,Completed
+T00984,P00668,Neurology,Medication,2026-01-29,Completed
+T00985,P01422,General Medicine,Therapy,2025-05-31,Completed
+T00986,P01844,Emergency,Medication,2026-01-19,Completed
+T00987,P00286,Oncology,Consultation,2025-01-17,Completed
+T00988,P00698,General Medicine,Surgery,2025-01-14,Completed
+T00989,P01718,Oncology,Diagnostics,2025-03-22,Completed
+T00990,P00965,Pediatrics,Diagnostics,2025-07-26,Pending
+T00991,P00369,Dermatology,Consultation,2025-07-23,Completed
+T00992,P00655,Emergency,Medication,2026-01-14,Completed
+T00993,P01446,Neurology,Therapy,2026-06-28,Completed
+T00994,P01742,General Medicine,Medication,2025-01-23,Completed
+T00995,P00654,Neurology,Medication,2025-06-11,Completed
+T00996,P00697,Emergency,Diagnostics,2025-05-24,Completed
+T00997,P01467,Neurology,Diagnostics,2025-04-14,Completed
+T00998,P01777,Neurology,Therapy,2026-01-17,Pending
+T00999,P01544,Cardiology,Diagnostics,2026-03-31,Pending
+T01000,P01024,General Medicine,Medication,2026-02-21,Completed
+T01001,P01608,Neurology,Consultation,2025-11-20,Completed
+T01002,P00915,Cardiology,Therapy,2025-06-20,Completed
+T01003,P00288,Cardiology,Consultation,2025-10-01,Pending
+T01004,P00095,Oncology,Medication,2026-03-28,Completed
+T01005,P00669,Orthopedics,Therapy,2025-05-05,Completed
+T01006,P00041,Orthopedics,Consultation,2026-01-18,Completed
+T01007,P00331,Dermatology,Therapy,2025-11-13,Completed
+T01008,P01837,Emergency,Medication,2025-04-17,Completed
+T01009,P01805,General Medicine,Therapy,2026-04-08,Completed
+T01010,P01179,Orthopedics,Medication,2026-03-06,Completed
+T01011,P00504,Emergency,Therapy,2025-12-03,Completed
+T01012,P00275,General Medicine,Therapy,2026-05-11,Completed
+T01013,P01690,Emergency,Diagnostics,2025-12-28,Completed
+T01014,P01589,Dermatology,Medication,2026-03-08,Completed
+T01015,P00179,Dermatology,Surgery,2026-06-04,Completed
+T01016,P01957,Cardiology,Therapy,2026-02-10,Completed
+T01017,P01776,Cardiology,Consultation,2026-01-12,Pending
+T01018,P00137,General Medicine,Diagnostics,2025-06-01,Completed
+T01019,P00767,Emergency,Diagnostics,2025-11-18,Completed
+T01020,P00988,Emergency,Therapy,2025-08-02,Completed
+T01021,P01760,Orthopedics,Surgery,2025-03-06,Pending
+T01022,P01204,Orthopedics,Diagnostics,2025-09-27,Pending
+T01023,P01206,General Medicine,Medication,2026-06-21,Completed
+T01024,P01283,Pediatrics,Therapy,2025-04-10,Completed
+T01025,P00243,Orthopedics,Therapy,2025-04-15,Completed
+T01026,P01120,Neurology,Surgery,2025-05-11,Completed
+T01027,P00197,Orthopedics,Medication,2026-01-24,Completed
+T01028,P01928,Pediatrics,Medication,2025-11-17,Completed
+T01029,P00526,Emergency,Surgery,2026-03-14,Completed
+T01030,P00632,Cardiology,Consultation,2025-01-19,Completed
+T01031,P01411,Oncology,Medication,2025-08-13,Completed
+T01032,P00408,Oncology,Consultation,2026-04-05,Completed
+T01033,P01293,Cardiology,Consultation,2026-01-29,Pending
+T01034,P01195,Emergency,Therapy,2025-08-14,Completed
+T01035,P01949,Cardiology,Therapy,2025-12-26,Completed
+T01036,P01608,Orthopedics,Diagnostics,2026-03-06,Completed
+T01037,P00691,Dermatology,Therapy,2025-01-15,Completed
+T01038,P00170,Cardiology,Medication,2026-06-30,Completed
+T01039,P00159,Dermatology,Medication,2026-02-18,Completed
+T01040,P01533,Pediatrics,Consultation,2025-12-21,Completed
+T01041,P00447,Dermatology,Medication,2026-04-02,Pending
+T01042,P01690,Pediatrics,Therapy,2026-06-15,Pending
+T01043,P01938,Orthopedics,Therapy,2025-07-15,Pending
+T01044,P01018,Emergency,Therapy,2025-04-25,Completed
+T01045,P01106,Neurology,Surgery,2026-02-21,Completed
+T01046,P01081,Orthopedics,Medication,2025-12-18,Completed
+T01047,P01543,Cardiology,Diagnostics,2025-03-16,Pending
+T01048,P00112,Orthopedics,Medication,2025-02-05,Completed
+T01049,P00048,Oncology,Medication,2025-08-30,Pending
+T01050,P01616,Oncology,Surgery,2025-03-04,Completed
+T01051,P01911,Pediatrics,Medication,2026-05-24,Pending
+T01052,P00376,Orthopedics,Consultation,2025-07-07,Completed
+T01053,P00828,Orthopedics,Therapy,2025-04-03,Completed
+T01054,P00033,Neurology,Therapy,2025-01-05,Pending
+T01055,P00504,Pediatrics,Surgery,2026-03-14,Completed
+T01056,P00627,General Medicine,Therapy,2025-06-15,Cancelled
+T01057,P01920,General Medicine,Consultation,2026-03-22,Pending
+T01058,P01027,Pediatrics,Surgery,2025-01-25,Cancelled
+T01059,P01510,General Medicine,Diagnostics,2026-05-23,Completed
+T01060,P01540,Cardiology,Therapy,2025-04-08,Completed
+T01061,P01892,General Medicine,Medication,2025-09-25,Completed
+T01062,P01796,Oncology,Consultation,2026-01-28,Pending
+T01063,P00042,Cardiology,Consultation,2025-10-12,Completed
+T01064,P00009,Pediatrics,Therapy,2025-04-19,Completed
+T01065,P01000,General Medicine,Diagnostics,2025-01-27,Completed
+T01066,P00819,General Medicine,Medication,2025-02-24,Pending
+T01067,P00657,Emergency,Diagnostics,2025-05-13,Pending
+T01068,P01937,Dermatology,Diagnostics,2025-02-21,Completed
+T01069,P01633,Cardiology,Therapy,2026-05-08,Completed
+T01070,P01812,Cardiology,Medication,2025-10-25,Completed
+T01071,P01166,Orthopedics,Therapy,2026-02-03,Completed
+T01072,P00790,Neurology,Therapy,2025-01-18,Completed
+T01073,P01460,Oncology,Consultation,2025-09-03,Completed
+T01074,P01051,General Medicine,Therapy,2026-05-18,Completed
+T01075,P01067,Emergency,Surgery,2025-03-30,Pending
+T01076,P01155,Neurology,Medication,2025-07-22,Completed
+T01077,P01240,Dermatology,Consultation,2025-08-28,Completed
+T01078,P01630,Dermatology,Medication,2026-05-05,Pending
+T01079,P01544,Oncology,Consultation,2025-01-13,Completed
+T01080,P00598,Emergency,Surgery,2025-11-11,Pending
+T01081,P01369,Neurology,Therapy,2025-07-17,Completed
+T01082,P01532,Oncology,Consultation,2025-08-31,Pending
+T01083,P01674,Oncology,Consultation,2026-05-22,Completed
+T01084,P01905,Oncology,Consultation,2025-02-12,Completed
+T01085,P01437,Oncology,Surgery,2025-11-26,Completed
+T01086,P00936,General Medicine,Medication,2026-03-05,Cancelled
+T01087,P01270,Dermatology,Surgery,2025-06-11,Cancelled
+T01088,P01473,Oncology,Consultation,2026-03-11,Completed
+T01089,P01012,Emergency,Consultation,2025-08-21,Completed
+T01090,P00021,Cardiology,Therapy,2025-04-21,Completed
+T01091,P00999,Orthopedics,Surgery,2025-08-20,Completed
+T01092,P01432,Emergency,Surgery,2025-09-30,Pending
+T01093,P00457,Pediatrics,Diagnostics,2025-02-10,Completed
+T01094,P01468,Dermatology,Medication,2026-04-11,Pending
+T01095,P01014,Oncology,Diagnostics,2025-03-18,Completed
+T01096,P01946,Dermatology,Diagnostics,2026-05-05,Completed
+T01097,P00265,Oncology,Medication,2025-04-27,Pending
+T01098,P01684,General Medicine,Therapy,2026-03-10,Completed
+T01099,P00184,General Medicine,Therapy,2025-01-19,Completed
+T01100,P00227,Pediatrics,Medication,2025-07-15,Pending
+T01101,P01828,Dermatology,Medication,2026-03-27,Completed
+T01102,P01572,Oncology,Surgery,2026-03-01,Completed
+T01103,P01270,Neurology,Surgery,2026-01-29,Pending
+T01104,P01097,Orthopedics,Surgery,2025-10-11,Completed
+T01105,P01174,Neurology,Surgery,2025-02-03,Completed
+T01106,P01537,Pediatrics,Consultation,2025-10-22,Completed
+T01107,P01093,Pediatrics,Consultation,2025-09-08,Completed
+T01108,P00969,Orthopedics,Therapy,2025-12-05,Cancelled
+T01109,P00805,Pediatrics,Consultation,2026-03-16,Completed
+T01110,P01254,Pediatrics,Consultation,2025-06-29,Completed
+T01111,P00723,Dermatology,Surgery,2025-08-16,Pending
+T01112,P01096,Emergency,Surgery,2025-01-23,Completed
+T01113,P01002,Oncology,Medication,2025-11-23,Pending
+T01114,P00875,Dermatology,Surgery,2025-06-03,Pending
+T01115,P01632,Orthopedics,Medication,2025-05-26,Completed
+T01116,P01421,General Medicine,Medication,2025-09-09,Completed
+T01117,P00084,Neurology,Consultation,2025-10-29,Completed
+T01118,P00740,General Medicine,Surgery,2025-03-11,Pending
+T01119,P01323,General Medicine,Consultation,2026-06-27,Completed
+T01120,P01772,Emergency,Surgery,2025-04-03,Completed
+T01121,P01317,Neurology,Consultation,2025-06-12,Completed
+T01122,P01758,General Medicine,Consultation,2025-03-22,Completed
+T01123,P01994,Oncology,Consultation,2025-03-04,Completed
+T01124,P00223,Orthopedics,Therapy,2026-03-12,Cancelled
+T01125,P00793,Neurology,Consultation,2025-02-17,Completed
+T01126,P00733,Cardiology,Diagnostics,2026-03-21,Completed
+T01127,P01240,Emergency,Diagnostics,2025-03-15,Pending
+T01128,P01255,Oncology,Diagnostics,2026-06-26,Completed
+T01129,P00405,General Medicine,Medication,2025-06-06,Pending
+T01130,P01193,Oncology,Consultation,2026-05-02,Completed
+T01131,P00329,Oncology,Diagnostics,2025-09-23,Pending
+T01132,P00426,Pediatrics,Medication,2025-09-13,Completed
+T01133,P01578,Neurology,Diagnostics,2025-02-08,Completed
+T01134,P00770,Cardiology,Surgery,2025-02-24,Completed
+T01135,P01220,Pediatrics,Therapy,2025-01-28,Completed
+T01136,P01928,Oncology,Consultation,2025-04-28,Completed
+T01137,P00608,Cardiology,Therapy,2026-01-05,Pending
+T01138,P01853,Oncology,Therapy,2025-07-28,Completed
+T01139,P00526,General Medicine,Surgery,2025-11-12,Completed
+T01140,P00625,Oncology,Surgery,2026-01-28,Completed
+T01141,P00077,Pediatrics,Surgery,2026-03-20,Completed
+T01142,P01301,General Medicine,Medication,2025-09-16,Completed
+T01143,P00920,Pediatrics,Diagnostics,2025-07-17,Pending
+T01144,P00946,Neurology,Consultation,2026-03-21,Pending
+T01145,P00466,Oncology,Surgery,2025-11-01,Cancelled
+T01146,P01965,Dermatology,Consultation,2025-12-05,Pending
+T01147,P01472,Orthopedics,Consultation,2026-06-13,Completed
+T01148,P01344,Dermatology,Consultation,2025-02-23,Pending
+T01149,P01946,Orthopedics,Surgery,2025-04-22,Completed
+T01150,P01184,Dermatology,Surgery,2026-02-23,Pending
+T01151,P00492,Cardiology,Diagnostics,2025-11-01,Completed
+T01152,P00313,Emergency,Surgery,2026-03-14,Pending
+T01153,P01655,Pediatrics,Surgery,2025-03-26,Completed
+T01154,P01973,General Medicine,Consultation,2026-06-08,Completed
+T01155,P01185,Emergency,Diagnostics,2025-09-09,Completed
+T01156,P00308,Neurology,Therapy,2025-05-06,Completed
+T01157,P01887,Neurology,Surgery,2026-02-09,Completed
+T01158,P01170,Neurology,Surgery,2025-10-31,Pending
+T01159,P01699,Orthopedics,Therapy,2025-01-28,Pending
+T01160,P01420,General Medicine,Consultation,2025-09-23,Completed
+T01161,P00691,Neurology,Diagnostics,2025-02-21,Completed
+T01162,P00089,Neurology,Consultation,2026-05-26,Completed
+T01163,P00735,Dermatology,Medication,2025-07-26,Pending
+T01164,P00778,Cardiology,Surgery,2026-05-26,Completed
+T01165,P00751,Pediatrics,Medication,2025-07-20,Completed
+T01166,P01332,Pediatrics,Surgery,2025-10-11,Completed
+T01167,P01570,Oncology,Medication,2025-12-23,Completed
+T01168,P00371,Pediatrics,Therapy,2025-02-16,Completed
+T01169,P00451,Emergency,Surgery,2025-05-17,Completed
+T01170,P00167,Dermatology,Surgery,2025-05-10,Completed
+T01171,P00392,Dermatology,Medication,2025-07-14,Completed
+T01172,P01661,Cardiology,Diagnostics,2025-12-30,Completed
+T01173,P00736,Orthopedics,Medication,2026-03-08,Completed
+T01174,P00491,Emergency,Surgery,2025-03-10,Completed
+T01175,P00925,Cardiology,Surgery,2026-04-03,Completed
+T01176,P01174,Neurology,Diagnostics,2026-06-24,Completed
+T01177,P01492,General Medicine,Consultation,2025-12-01,Pending
+T01178,P01990,Emergency,Diagnostics,2026-06-10,Completed
+T01179,P01725,Emergency,Consultation,2025-01-16,Completed
+T01180,P01067,Neurology,Surgery,2026-04-01,Completed
+T01181,P00945,Neurology,Therapy,2026-05-25,Completed
+T01182,P00029,General Medicine,Therapy,2025-07-28,Completed
+T01183,P01898,Pediatrics,Medication,2025-06-07,Completed
+T01184,P01656,Emergency,Diagnostics,2025-12-03,Completed
+T01185,P01873,Cardiology,Diagnostics,2025-08-29,Pending
+T01186,P01055,Orthopedics,Therapy,2025-02-27,Pending
+T01187,P00693,Neurology,Consultation,2025-11-01,Completed
+T01188,P01698,Neurology,Diagnostics,2025-12-11,Completed
+T01189,P00128,Orthopedics,Consultation,2025-01-14,Completed
+T01190,P00767,Cardiology,Consultation,2025-12-25,Completed
+T01191,P01318,Oncology,Consultation,2026-01-12,Pending
+T01192,P00441,Neurology,Consultation,2025-08-31,Completed
+T01193,P00869,Orthopedics,Medication,2025-05-25,Cancelled
+T01194,P01412,Dermatology,Medication,2026-02-19,Completed
+T01195,P01790,Neurology,Therapy,2026-01-29,Completed
+T01196,P01666,Pediatrics,Medication,2025-12-24,Completed
+T01197,P00524,Pediatrics,Diagnostics,2025-06-07,Completed
+T01198,P01571,Neurology,Medication,2025-01-18,Completed
+T01199,P01734,Dermatology,Diagnostics,2025-12-13,Completed
+T01200,P00760,Neurology,Diagnostics,2025-02-27,Completed
+T01201,P00110,Oncology,Consultation,2025-06-04,Completed
+T01202,P01352,Oncology,Therapy,2026-05-02,Completed
+T01203,P01429,Pediatrics,Consultation,2026-06-15,Completed
+T01204,P01269,Oncology,Consultation,2026-05-02,Completed
+T01205,P01786,Dermatology,Medication,2025-05-31,Completed
+T01206,P01902,Oncology,Medication,2025-12-25,Completed
+T01207,P01853,Neurology,Diagnostics,2026-01-03,Completed
+T01208,P00163,Dermatology,Medication,2025-02-16,Completed
+T01209,P00560,Cardiology,Medication,2025-07-26,Completed
+T01210,P00399,Cardiology,Surgery,2026-03-26,Completed
+T01211,P00583,General Medicine,Diagnostics,2026-04-28,Completed
+T01212,P00399,Cardiology,Diagnostics,2025-05-23,Completed
+T01213,P01517,Emergency,Surgery,2026-02-04,Pending
+T01214,P01670,Dermatology,Diagnostics,2025-04-07,Completed
+T01215,P00239,Emergency,Therapy,2025-02-16,Completed
+T01216,P01489,Emergency,Therapy,2025-07-10,Completed
+T01217,P01604,Neurology,Surgery,2025-05-20,Completed
+T01218,P01814,Neurology,Medication,2025-08-19,Pending
+T01219,P01056,Orthopedics,Therapy,2025-12-06,Completed
+T01220,P01147,Dermatology,Surgery,2026-05-06,Pending
+T01221,P01558,Emergency,Therapy,2025-02-18,Completed
+T01222,P01691,Emergency,Consultation,2026-03-29,Completed
+T01223,P00110,Cardiology,Surgery,2025-11-12,Completed
+T01224,P01295,Pediatrics,Diagnostics,2025-11-18,Completed
+T01225,P01404,Dermatology,Therapy,2025-03-28,Completed
+T01226,P00300,Pediatrics,Diagnostics,2026-04-19,Completed
+T01227,P01651,Dermatology,Surgery,2025-10-09,Pending
+T01228,P01756,Dermatology,Therapy,2025-03-15,Completed
+T01229,P01002,General Medicine,Diagnostics,2026-03-29,Completed
+T01230,P01766,Orthopedics,Medication,2025-02-16,Completed
+T01231,P00764,Pediatrics,Medication,2025-04-06,Pending
+T01232,P00249,General Medicine,Consultation,2025-01-31,Completed
+T01233,P00521,Cardiology,Surgery,2026-06-18,Completed
+T01234,P00034,Orthopedics,Diagnostics,2025-01-17,Completed
+T01235,P00228,Orthopedics,Consultation,2025-07-31,Cancelled
+T01236,P00585,Emergency,Surgery,2025-08-23,Completed
+T01237,P01423,Dermatology,Medication,2026-01-27,Completed
+T01238,P00958,Oncology,Diagnostics,2025-12-20,Completed
+T01239,P00813,Dermatology,Therapy,2025-11-01,Completed
+T01240,P00724,Neurology,Medication,2026-06-24,Completed
+T01241,P00584,Dermatology,Therapy,2026-05-24,Completed
+T01242,P00570,Dermatology,Therapy,2026-01-30,Completed
+T01243,P00220,Dermatology,Diagnostics,2026-03-07,Completed
+T01244,P01395,Emergency,Diagnostics,2025-06-26,Completed
+T01245,P00787,Cardiology,Therapy,2026-02-10,Pending
+T01246,P01785,Dermatology,Consultation,2025-10-28,Completed
+T01247,P00528,Oncology,Therapy,2026-03-21,Completed
+T01248,P00075,Emergency,Therapy,2025-05-07,Completed
+T01249,P01642,Oncology,Diagnostics,2025-12-15,Completed
+T01250,P00136,Orthopedics,Surgery,2025-01-21,Completed
+T01251,P01953,Emergency,Medication,2026-02-24,Completed
+T01252,P00074,Dermatology,Diagnostics,2025-06-01,Completed
+T01253,P00254,General Medicine,Consultation,2025-06-09,Completed
+T01254,P01042,Emergency,Medication,2026-04-25,Pending
+T01255,P01955,Pediatrics,Diagnostics,2026-03-19,Completed
+T01256,P01022,Cardiology,Diagnostics,2025-04-06,Completed
+T01257,P01067,Cardiology,Surgery,2025-12-18,Pending
+T01258,P00050,Orthopedics,Consultation,2025-03-16,Completed
+T01259,P00515,Emergency,Consultation,2025-12-25,Completed
+T01260,P00744,Oncology,Diagnostics,2025-05-13,Completed
+T01261,P00731,Oncology,Surgery,2026-02-04,Completed
+T01262,P00571,Orthopedics,Diagnostics,2025-05-19,Completed
+T01263,P01820,Orthopedics,Therapy,2025-09-03,Completed
+T01264,P01838,General Medicine,Therapy,2025-10-18,Pending
+T01265,P00576,Neurology,Surgery,2025-04-22,Completed
+T01266,P01606,Orthopedics,Diagnostics,2025-06-19,Completed
+T01267,P01327,Neurology,Surgery,2025-08-28,Completed
+T01268,P01166,Oncology,Diagnostics,2025-12-03,Completed
+T01269,P00903,Neurology,Diagnostics,2025-05-18,Completed
+T01270,P00202,Cardiology,Therapy,2025-08-24,Pending
+T01271,P00207,Oncology,Medication,2025-01-03,Pending
+T01272,P00415,Pediatrics,Consultation,2025-04-26,Completed
+T01273,P00221,Oncology,Consultation,2026-04-17,Completed
+T01274,P01386,Pediatrics,Surgery,2025-05-11,Pending
+T01275,P00758,Emergency,Consultation,2026-04-28,Completed
+T01276,P01105,General Medicine,Therapy,2026-02-05,Completed
+T01277,P00763,General Medicine,Medication,2025-07-20,Completed
+T01278,P00563,Pediatrics,Diagnostics,2025-10-19,Pending
+T01279,P01309,Emergency,Diagnostics,2025-12-08,Completed
+T01280,P00369,Oncology,Therapy,2025-08-04,Pending
+T01281,P01516,Dermatology,Consultation,2026-01-01,Completed
+T01282,P01935,Pediatrics,Diagnostics,2026-04-14,Completed
+T01283,P00896,Oncology,Consultation,2026-02-22,Completed
+T01284,P01370,Emergency,Therapy,2025-01-27,Completed
+T01285,P00204,Emergency,Diagnostics,2026-03-31,Completed
+T01286,P01049,Emergency,Surgery,2025-01-14,Completed
+T01287,P00957,Emergency,Medication,2025-04-08,Completed
+T01288,P01577,Cardiology,Consultation,2025-10-06,Completed
+T01289,P00069,Oncology,Consultation,2026-05-05,Completed
+T01290,P00516,Cardiology,Consultation,2025-07-26,Completed
+T01291,P01516,Pediatrics,Consultation,2025-08-21,Completed
+T01292,P00240,Emergency,Therapy,2025-08-27,Completed
+T01293,P00361,Orthopedics,Therapy,2025-09-07,Pending
+T01294,P01465,Emergency,Therapy,2025-11-02,Completed
+T01295,P01055,Orthopedics,Therapy,2026-04-08,Completed
+T01296,P01923,Cardiology,Diagnostics,2025-08-24,Completed
+T01297,P01653,Emergency,Therapy,2025-10-18,Completed
+T01298,P00707,Neurology,Diagnostics,2025-02-08,Completed
+T01299,P01626,Pediatrics,Surgery,2025-07-02,Pending
+T01300,P00690,Emergency,Therapy,2025-01-30,Completed
+T01301,P00657,General Medicine,Surgery,2026-01-23,Pending
+T01302,P01980,Orthopedics,Therapy,2025-05-23,Completed
+T01303,P01738,Dermatology,Surgery,2026-02-23,Completed
+T01304,P01346,Dermatology,Medication,2025-03-15,Completed
+T01305,P00344,Emergency,Surgery,2025-02-24,Completed
+T01306,P01739,Oncology,Diagnostics,2025-01-24,Completed
+T01307,P00536,Neurology,Consultation,2025-01-22,Pending
+T01308,P00355,Orthopedics,Surgery,2026-03-04,Pending
+T01309,P01495,Neurology,Consultation,2025-02-01,Pending
+T01310,P00928,Dermatology,Medication,2025-12-05,Pending
+T01311,P00983,Pediatrics,Medication,2026-05-30,Pending
+T01312,P00105,Dermatology,Diagnostics,2026-05-27,Pending
+T01313,P01811,Pediatrics,Diagnostics,2025-03-11,Completed
+T01314,P01346,Pediatrics,Surgery,2025-03-29,Completed
+T01315,P01596,Cardiology,Therapy,2025-08-07,Completed
+T01316,P01907,Dermatology,Medication,2025-09-27,Completed
+T01317,P00962,Oncology,Consultation,2025-03-19,Pending
+T01318,P00527,Dermatology,Therapy,2025-01-10,Completed
+T01319,P00504,Neurology,Medication,2026-04-13,Completed
+T01320,P01109,Emergency,Surgery,2025-12-02,Completed
+T01321,P00931,General Medicine,Medication,2025-07-05,Completed
+T01322,P00709,General Medicine,Diagnostics,2026-06-30,Completed
+T01323,P00235,Oncology,Consultation,2025-05-01,Completed
+T01324,P01947,Pediatrics,Consultation,2025-10-01,Completed
+T01325,P01880,Oncology,Diagnostics,2026-02-14,Completed
+T01326,P01287,General Medicine,Therapy,2025-12-24,Completed
+T01327,P01030,Oncology,Diagnostics,2025-04-08,Completed
+T01328,P00494,Orthopedics,Consultation,2025-08-29,Completed
+T01329,P01917,Neurology,Surgery,2025-04-24,Completed
+T01330,P01313,Neurology,Therapy,2026-05-02,Completed
+T01331,P01594,Oncology,Medication,2025-08-29,Pending
+T01332,P01969,Neurology,Surgery,2025-06-05,Completed
+T01333,P01681,Orthopedics,Therapy,2025-12-18,Pending
+T01334,P00878,Emergency,Consultation,2025-02-13,Completed
+T01335,P01578,Cardiology,Consultation,2025-11-08,Pending
+T01336,P01374,Orthopedics,Surgery,2025-05-18,Completed
+T01337,P01224,Neurology,Therapy,2026-03-12,Completed
+T01338,P01960,Neurology,Medication,2025-05-23,Completed
+T01339,P01710,Dermatology,Medication,2025-10-26,Completed
+T01340,P00967,Neurology,Diagnostics,2025-09-19,Pending
+T01341,P00966,Emergency,Surgery,2026-05-27,Completed
+T01342,P00964,General Medicine,Therapy,2025-03-03,Cancelled
+T01343,P00897,Cardiology,Surgery,2026-02-27,Pending
+T01344,P01359,Orthopedics,Medication,2026-01-31,Completed
+T01345,P01631,Oncology,Therapy,2025-01-31,Completed
+T01346,P00217,Neurology,Consultation,2025-11-26,Completed
+T01347,P00623,Dermatology,Consultation,2025-06-18,Completed
+T01348,P00353,Dermatology,Therapy,2025-09-23,Completed
+T01349,P00692,Pediatrics,Surgery,2025-11-04,Pending
+T01350,P00675,Cardiology,Surgery,2026-04-04,Completed
+T01351,P00631,Dermatology,Consultation,2025-07-04,Completed
+T01352,P00325,Pediatrics,Consultation,2025-11-30,Completed
+T01353,P00901,Cardiology,Medication,2026-05-30,Completed
+T01354,P01252,Neurology,Therapy,2026-03-17,Completed
+T01355,P01169,Cardiology,Surgery,2026-01-26,Completed
+T01356,P01973,Cardiology,Medication,2025-09-11,Completed
+T01357,P00308,Oncology,Surgery,2025-12-01,Completed
+T01358,P00654,Neurology,Consultation,2026-02-04,Completed
+T01359,P01658,Emergency,Therapy,2025-06-15,Completed
+T01360,P00285,Dermatology,Diagnostics,2025-09-17,Cancelled
+T01361,P00392,Pediatrics,Therapy,2025-01-04,Completed
+T01362,P01762,Oncology,Diagnostics,2025-04-29,Completed
+T01363,P00360,Oncology,Medication,2026-04-15,Completed
+T01364,P00769,Emergency,Diagnostics,2026-04-15,Completed
+T01365,P00797,Pediatrics,Diagnostics,2026-05-08,Pending
+T01366,P00932,General Medicine,Medication,2026-05-15,Pending
+T01367,P01971,Dermatology,Therapy,2025-03-11,Completed
+T01368,P00165,Pediatrics,Medication,2026-01-05,Pending
+T01369,P00733,Pediatrics,Consultation,2025-06-30,Pending
+T01370,P00581,Cardiology,Consultation,2025-01-05,Completed
+T01371,P00821,General Medicine,Diagnostics,2025-07-16,Pending
+T01372,P01248,Neurology,Medication,2025-02-16,Completed
+T01373,P00124,Neurology,Medication,2025-05-20,Completed
+T01374,P01972,Orthopedics,Medication,2026-06-24,Pending
+T01375,P00344,General Medicine,Therapy,2026-03-03,Completed
+T01376,P01875,Cardiology,Surgery,2025-11-06,Pending
+T01377,P00524,Orthopedics,Surgery,2025-10-01,Completed
+T01378,P01076,Orthopedics,Surgery,2026-06-23,Pending
+T01379,P00129,Neurology,Therapy,2026-01-25,Completed
+T01380,P01159,Pediatrics,Medication,2026-04-04,Completed
+T01381,P00657,Cardiology,Surgery,2025-12-27,Completed
+T01382,P01151,Oncology,Medication,2025-03-10,Pending
+T01383,P00738,Oncology,Diagnostics,2026-03-07,Completed
+T01384,P00939,General Medicine,Surgery,2025-02-01,Completed
+T01385,P00071,Orthopedics,Diagnostics,2026-05-28,Completed
+T01386,P00273,Cardiology,Therapy,2025-07-01,Completed
+T01387,P01211,Neurology,Consultation,2025-09-05,Cancelled
+T01388,P01027,Orthopedics,Therapy,2025-10-24,Completed
+T01389,P01309,Orthopedics,Therapy,2025-01-30,Completed
+T01390,P00022,Emergency,Therapy,2025-10-29,Completed
+T01391,P00166,Neurology,Surgery,2026-04-21,Completed
+T01392,P01334,Oncology,Diagnostics,2025-12-18,Completed
+T01393,P00875,Emergency,Surgery,2026-04-27,Completed
+T01394,P01501,Neurology,Consultation,2025-11-13,Pending
+T01395,P00498,Neurology,Therapy,2026-02-01,Completed
+T01396,P00434,Emergency,Medication,2025-03-30,Completed
+T01397,P00758,Oncology,Consultation,2025-08-22,Cancelled
+T01398,P00234,Dermatology,Diagnostics,2025-06-17,Completed
+T01399,P00837,Cardiology,Consultation,2025-05-06,Completed
+T01400,P01694,Cardiology,Surgery,2025-04-30,Completed
+T01401,P00663,Dermatology,Medication,2026-03-04,Completed
+T01402,P00725,Cardiology,Surgery,2025-07-09,Completed
+T01403,P00376,Pediatrics,Therapy,2026-03-04,Pending
+T01404,P00730,Orthopedics,Therapy,2025-07-21,Completed
+T01405,P01270,Cardiology,Consultation,2025-02-28,Completed
+T01406,P00303,Pediatrics,Therapy,2025-08-11,Completed
+T01407,P00405,Orthopedics,Therapy,2026-05-07,Completed
+T01408,P01812,Cardiology,Diagnostics,2025-01-11,Completed
+T01409,P01687,Neurology,Diagnostics,2026-05-27,Completed
+T01410,P00708,Dermatology,Surgery,2025-11-06,Completed
+T01411,P00917,General Medicine,Surgery,2025-02-03,Completed
+T01412,P00021,Cardiology,Diagnostics,2025-12-06,Pending
+T01413,P00257,General Medicine,Consultation,2026-04-26,Pending
+T01414,P00399,Cardiology,Diagnostics,2025-04-03,Cancelled
+T01415,P01553,Neurology,Surgery,2025-05-13,Completed
+T01416,P00051,Dermatology,Medication,2026-02-23,Pending
+T01417,P00447,Oncology,Therapy,2026-04-13,Completed
+T01418,P01294,Dermatology,Medication,2026-03-20,Cancelled
+T01419,P00827,General Medicine,Medication,2025-01-30,Pending
+T01420,P00595,Pediatrics,Therapy,2025-10-25,Cancelled
+T01421,P00818,Neurology,Diagnostics,2025-03-02,Cancelled
+T01422,P00636,General Medicine,Consultation,2026-04-03,Completed
+T01423,P01826,General Medicine,Medication,2025-10-31,Completed
+T01424,P01286,Emergency,Consultation,2025-12-06,Completed
+T01425,P01389,Emergency,Surgery,2026-03-24,Completed
+T01426,P01073,Neurology,Medication,2025-10-29,Cancelled
+T01427,P01542,Neurology,Surgery,2026-06-24,Completed
+T01428,P01653,Neurology,Diagnostics,2026-04-30,Completed
+T01429,P01142,Orthopedics,Medication,2025-03-18,Completed
+T01430,P01477,Pediatrics,Surgery,2026-05-30,Completed
+T01431,P00775,Cardiology,Surgery,2025-04-02,Completed
+T01432,P01889,Oncology,Diagnostics,2026-04-11,Completed
+T01433,P00973,Emergency,Consultation,2026-04-11,Completed
+T01434,P01971,Dermatology,Consultation,2025-02-09,Completed
+T01435,P01910,Dermatology,Medication,2025-11-25,Completed
+T01436,P01665,General Medicine,Diagnostics,2025-10-12,Completed
+T01437,P00397,Emergency,Medication,2025-03-07,Cancelled
+T01438,P00683,Cardiology,Consultation,2025-04-19,Completed
+T01439,P01051,Neurology,Diagnostics,2026-02-19,Completed
+T01440,P00711,Dermatology,Therapy,2025-04-02,Completed
+T01441,P01396,Emergency,Diagnostics,2026-01-03,Completed
+T01442,P01923,Pediatrics,Diagnostics,2026-02-27,Completed
+T01443,P01850,Pediatrics,Therapy,2025-08-28,Completed
+T01444,P01881,Oncology,Surgery,2026-03-11,Completed
+T01445,P01121,Orthopedics,Surgery,2025-07-31,Completed
+T01446,P00529,Emergency,Surgery,2026-02-04,Pending
+T01447,P00685,Neurology,Consultation,2026-06-10,Completed
+T01448,P01998,General Medicine,Diagnostics,2026-04-13,Completed
+T01449,P00613,Oncology,Therapy,2025-06-19,Cancelled
+T01450,P00186,Oncology,Consultation,2025-07-29,Completed
+T01451,P00696,Orthopedics,Therapy,2025-09-13,Completed
+T01452,P01974,Neurology,Consultation,2025-03-14,Completed
+T01453,P00215,Oncology,Consultation,2025-05-27,Completed
+T01454,P01275,Orthopedics,Consultation,2025-12-06,Cancelled
+T01455,P00216,Emergency,Therapy,2025-11-13,Completed
+T01456,P00029,Cardiology,Medication,2025-06-03,Completed
+T01457,P00102,Oncology,Consultation,2025-09-12,Pending
+T01458,P00123,Dermatology,Surgery,2025-12-17,Completed
+T01459,P00054,Emergency,Diagnostics,2025-11-08,Completed
+T01460,P01307,Neurology,Medication,2025-05-14,Pending
+T01461,P01638,General Medicine,Medication,2025-05-09,Completed
+T01462,P01141,General Medicine,Therapy,2026-03-12,Completed
+T01463,P00616,Neurology,Medication,2025-10-07,Completed
+T01464,P00557,Orthopedics,Therapy,2025-12-24,Pending
+T01465,P00114,Pediatrics,Therapy,2025-09-09,Completed
+T01466,P00855,Neurology,Surgery,2025-05-15,Completed
+T01467,P01567,Dermatology,Consultation,2026-06-07,Completed
+T01468,P00676,Oncology,Medication,2025-11-15,Completed
+T01469,P00977,Emergency,Consultation,2025-03-21,Completed
+T01470,P00701,General Medicine,Consultation,2025-07-10,Cancelled
+T01471,P01317,Cardiology,Consultation,2026-03-29,Completed
+T01472,P01219,General Medicine,Therapy,2025-12-10,Completed
+T01473,P00292,Pediatrics,Consultation,2025-01-30,Pending
+T01474,P01911,Oncology,Medication,2026-02-18,Completed
+T01475,P00261,General Medicine,Therapy,2026-01-03,Pending
+T01476,P01966,Pediatrics,Medication,2026-05-17,Completed
+T01477,P01231,Oncology,Therapy,2025-01-21,Completed
+T01478,P00564,Dermatology,Diagnostics,2025-09-03,Cancelled
+T01479,P00049,Oncology,Diagnostics,2025-10-10,Completed
+T01480,P01030,Neurology,Diagnostics,2025-08-20,Completed
+T01481,P00379,General Medicine,Diagnostics,2025-11-12,Completed
+T01482,P01418,Orthopedics,Therapy,2025-12-02,Cancelled
+T01483,P01910,Emergency,Consultation,2026-02-15,Pending
+T01484,P00224,Orthopedics,Surgery,2025-09-02,Completed
+T01485,P01047,Emergency,Surgery,2026-01-22,Pending
+T01486,P01008,General Medicine,Diagnostics,2025-12-24,Completed
+T01487,P00657,Dermatology,Consultation,2025-01-22,Completed
+T01488,P00110,General Medicine,Medication,2025-01-19,Completed
+T01489,P00724,Emergency,Consultation,2025-10-14,Completed
+T01490,P01836,Dermatology,Medication,2025-10-03,Completed
+T01491,P00553,Cardiology,Surgery,2025-03-13,Completed
+T01492,P01423,Dermatology,Consultation,2025-12-31,Completed
+T01493,P01196,General Medicine,Consultation,2025-12-01,Pending
+T01494,P01006,Cardiology,Surgery,2025-07-18,Pending
+T01495,P00698,Cardiology,Consultation,2025-01-17,Completed
+T01496,P00726,Emergency,Medication,2025-08-06,Pending
+T01497,P00306,Cardiology,Consultation,2025-05-27,Completed
+T01498,P01588,Cardiology,Medication,2025-07-29,Pending
+T01499,P01606,Neurology,Diagnostics,2026-02-18,Completed
+T01500,P01732,Dermatology,Consultation,2025-11-26,Completed
+T01501,P00959,Oncology,Medication,2025-12-18,Completed
+T01502,P00954,Orthopedics,Surgery,2025-06-12,Completed
+T01503,P01175,Cardiology,Diagnostics,2025-04-11,Completed
+T01504,P01452,Oncology,Consultation,2025-11-23,Pending
+T01505,P00621,Orthopedics,Medication,2025-11-23,Completed
+T01506,P01491,Oncology,Consultation,2025-06-04,Pending
+T01507,P00630,Cardiology,Medication,2025-01-10,Completed
+T01508,P00877,Orthopedics,Consultation,2025-12-19,Completed
+T01509,P01631,General Medicine,Diagnostics,2025-07-02,Completed
+T01510,P01792,General Medicine,Diagnostics,2026-03-31,Completed
+T01511,P00556,Orthopedics,Consultation,2025-01-06,Completed
+T01512,P01972,Dermatology,Consultation,2025-11-29,Completed
+T01513,P00067,Cardiology,Therapy,2025-11-29,Pending
+T01514,P01180,Neurology,Consultation,2025-09-15,Completed
+T01515,P00835,Oncology,Consultation,2025-07-30,Completed
+T01516,P00206,Dermatology,Diagnostics,2025-02-20,Completed
+T01517,P00786,Orthopedics,Consultation,2026-03-21,Cancelled
+T01518,P00155,Dermatology,Surgery,2026-01-12,Completed
+T01519,P01715,Oncology,Consultation,2026-05-01,Pending
+T01520,P01533,Pediatrics,Therapy,2025-02-20,Completed
+T01521,P01596,Neurology,Medication,2025-06-03,Completed
+T01522,P01098,Oncology,Diagnostics,2025-11-06,Completed
+T01523,P01073,Pediatrics,Surgery,2026-02-03,Completed
+T01524,P00783,Oncology,Medication,2025-05-14,Completed
+T01525,P01491,Oncology,Surgery,2025-08-08,Completed
+T01526,P00585,Orthopedics,Diagnostics,2025-06-12,Completed
+T01527,P00708,Cardiology,Therapy,2026-05-17,Pending
+T01528,P01935,Dermatology,Diagnostics,2025-04-25,Completed
+T01529,P00179,Dermatology,Surgery,2026-05-14,Completed
+T01530,P01072,Pediatrics,Surgery,2026-04-17,Completed
+T01531,P01096,Dermatology,Diagnostics,2025-05-29,Completed
+T01532,P00113,Orthopedics,Consultation,2025-08-29,Completed
+T01533,P00757,Neurology,Diagnostics,2025-05-03,Completed
+T01534,P00897,Cardiology,Therapy,2025-03-10,Completed
+T01535,P01927,Pediatrics,Diagnostics,2025-03-04,Completed
+T01536,P00821,Dermatology,Medication,2025-01-16,Completed
+T01537,P00159,Orthopedics,Consultation,2026-01-25,Completed
+T01538,P00786,Cardiology,Medication,2025-09-15,Completed
+T01539,P01804,Cardiology,Diagnostics,2025-08-05,Pending
+T01540,P01840,General Medicine,Consultation,2026-04-24,Completed
+T01541,P01054,Cardiology,Medication,2025-04-24,Pending
+T01542,P01121,Oncology,Medication,2026-01-15,Completed
+T01543,P00251,Orthopedics,Consultation,2025-08-25,Pending
+T01544,P01543,Neurology,Consultation,2026-04-21,Completed
+T01545,P01116,Emergency,Surgery,2025-05-09,Completed
+T01546,P00113,General Medicine,Consultation,2026-05-25,Completed
+T01547,P00259,Orthopedics,Diagnostics,2025-06-14,Completed
+T01548,P00107,Orthopedics,Therapy,2025-10-04,Completed
+T01549,P00575,Orthopedics,Surgery,2025-09-14,Completed
+T01550,P01414,Pediatrics,Consultation,2025-05-12,Completed
+T01551,P00991,Dermatology,Therapy,2025-09-14,Completed
+T01552,P01382,Pediatrics,Surgery,2025-05-21,Completed
+T01553,P01807,Oncology,Diagnostics,2025-07-28,Pending
+T01554,P01223,Neurology,Therapy,2026-06-03,Completed
+T01555,P00427,Oncology,Consultation,2025-02-20,Completed
+T01556,P01502,Orthopedics,Consultation,2026-05-18,Completed
+T01557,P00859,Dermatology,Diagnostics,2025-09-16,Pending
+T01558,P01873,Oncology,Surgery,2025-06-27,Completed
+T01559,P01527,Pediatrics,Therapy,2026-06-27,Completed
+T01560,P01682,Pediatrics,Diagnostics,2025-12-22,Completed
+T01561,P00918,Pediatrics,Surgery,2025-11-14,Completed
+T01562,P01597,Neurology,Medication,2025-12-30,Completed
+T01563,P01144,Neurology,Medication,2025-02-24,Completed
+T01564,P01597,Orthopedics,Surgery,2025-06-05,Completed
+T01565,P01333,General Medicine,Consultation,2025-02-13,Pending
+T01566,P01562,Oncology,Consultation,2026-06-26,Completed
+T01567,P00627,Orthopedics,Medication,2025-11-18,Completed
+T01568,P00475,Pediatrics,Consultation,2025-01-14,Completed
+T01569,P00552,Emergency,Consultation,2025-12-23,Completed
+T01570,P00344,Oncology,Surgery,2026-04-28,Cancelled
+T01571,P00628,Dermatology,Surgery,2025-12-25,Completed
+T01572,P00136,Pediatrics,Consultation,2025-11-14,Completed
+T01573,P00277,Cardiology,Surgery,2025-03-16,Pending
+T01574,P01835,Emergency,Therapy,2025-07-13,Completed
+T01575,P01557,Emergency,Medication,2025-12-29,Pending
+T01576,P01923,Dermatology,Therapy,2025-04-06,Pending
+T01577,P00031,Orthopedics,Therapy,2025-02-09,Pending
+T01578,P00247,Pediatrics,Consultation,2026-02-01,Completed
+T01579,P00411,Pediatrics,Consultation,2025-04-17,Completed
+T01580,P00027,General Medicine,Therapy,2025-01-17,Completed
+T01581,P00073,Cardiology,Therapy,2026-06-11,Completed
+T01582,P01977,Orthopedics,Diagnostics,2026-05-14,Completed
+T01583,P01121,Neurology,Diagnostics,2026-06-09,Completed
+T01584,P00673,Orthopedics,Medication,2025-02-12,Completed
+T01585,P01370,Oncology,Therapy,2025-12-16,Completed
+T01586,P00476,Oncology,Surgery,2025-01-30,Pending
+T01587,P01324,Emergency,Diagnostics,2026-03-17,Completed
+T01588,P01323,Orthopedics,Consultation,2026-06-26,Completed
+T01589,P00287,General Medicine,Therapy,2026-03-31,Completed
+T01590,P01909,Orthopedics,Surgery,2025-04-04,Pending
+T01591,P01473,General Medicine,Surgery,2025-10-22,Completed
+T01592,P00212,Emergency,Surgery,2025-03-30,Completed
+T01593,P01100,General Medicine,Consultation,2026-05-18,Completed
+T01594,P00401,Dermatology,Diagnostics,2025-08-02,Completed
+T01595,P00655,Dermatology,Surgery,2026-02-26,Pending
+T01596,P01058,Oncology,Diagnostics,2026-06-10,Pending
+T01597,P00498,Pediatrics,Medication,2025-07-11,Completed
+T01598,P00848,Neurology,Consultation,2025-08-12,Completed
+T01599,P01540,Emergency,Diagnostics,2026-01-22,Completed
+T01600,P01352,Oncology,Diagnostics,2026-04-19,Cancelled
+T01601,P00098,General Medicine,Surgery,2025-07-22,Completed
+T01602,P00366,Cardiology,Surgery,2026-03-23,Pending
+T01603,P01753,Emergency,Consultation,2025-03-09,Completed
+T01604,P00463,Cardiology,Diagnostics,2025-04-02,Pending
+T01605,P00028,Neurology,Therapy,2025-06-27,Pending
+T01606,P00713,General Medicine,Surgery,2025-01-03,Completed
+T01607,P01410,Emergency,Surgery,2025-04-13,Cancelled
+T01608,P00273,Emergency,Medication,2025-09-30,Pending
+T01609,P00826,Neurology,Consultation,2026-06-18,Completed
+T01610,P01151,Pediatrics,Diagnostics,2025-04-26,Pending
+T01611,P00202,Cardiology,Diagnostics,2026-04-09,Completed
+T01612,P01545,Emergency,Diagnostics,2025-04-14,Pending
+T01613,P01311,Orthopedics,Surgery,2025-09-16,Completed
+T01614,P00450,Cardiology,Consultation,2025-11-04,Completed
+T01615,P01112,Oncology,Diagnostics,2026-01-02,Completed
+T01616,P01342,General Medicine,Therapy,2025-10-29,Pending
+T01617,P00019,Neurology,Medication,2025-01-27,Cancelled
+T01618,P01617,Oncology,Medication,2026-05-23,Completed
+T01619,P01131,Cardiology,Diagnostics,2026-06-11,Completed
+T01620,P01482,Orthopedics,Surgery,2025-12-31,Completed
+T01621,P00311,Dermatology,Medication,2025-10-25,Completed
+T01622,P00412,Orthopedics,Medication,2025-12-27,Completed
+T01623,P00742,Oncology,Medication,2026-05-19,Completed
+T01624,P00624,Neurology,Medication,2025-01-30,Completed
+T01625,P00732,Oncology,Diagnostics,2026-03-15,Completed
+T01626,P00635,Neurology,Consultation,2025-12-06,Completed
+T01627,P00498,Dermatology,Consultation,2025-05-06,Completed
+T01628,P00244,Cardiology,Surgery,2026-01-01,Pending
+T01629,P00690,General Medicine,Therapy,2026-03-19,Completed
+T01630,P00577,Pediatrics,Consultation,2025-09-20,Completed
+T01631,P01404,Orthopedics,Therapy,2025-08-10,Completed
+T01632,P00515,Neurology,Consultation,2025-01-02,Completed
+T01633,P00207,Pediatrics,Consultation,2026-01-29,Completed
+T01634,P00948,Oncology,Surgery,2025-11-02,Completed
+T01635,P00394,Pediatrics,Medication,2025-05-26,Completed
+T01636,P01045,Pediatrics,Surgery,2026-06-14,Completed
+T01637,P01829,General Medicine,Consultation,2026-06-12,Completed
+T01638,P01551,Neurology,Medication,2025-11-04,Completed
+T01639,P01367,Oncology,Medication,2025-12-06,Completed
+T01640,P00718,Orthopedics,Medication,2025-12-18,Completed
+T01641,P01999,Neurology,Therapy,2025-07-28,Completed
+T01642,P00202,Cardiology,Consultation,2025-07-24,Completed
+T01643,P00120,Oncology,Diagnostics,2025-01-15,Cancelled
+T01644,P01673,Orthopedics,Surgery,2026-03-04,Completed
+T01645,P01836,Oncology,Therapy,2026-04-21,Completed
+T01646,P01831,Neurology,Surgery,2025-10-25,Pending
+T01647,P00389,Orthopedics,Diagnostics,2025-04-04,Completed
+T01648,P01561,Cardiology,Medication,2025-04-17,Completed
+T01649,P01848,Emergency,Diagnostics,2026-02-23,Completed
+T01650,P00234,Orthopedics,Surgery,2025-10-05,Completed
+T01651,P01657,Emergency,Diagnostics,2025-05-08,Completed
+T01652,P00602,Pediatrics,Consultation,2026-04-04,Completed
+T01653,P01344,Dermatology,Diagnostics,2025-02-07,Pending
+T01654,P00712,Oncology,Consultation,2025-07-17,Completed
+T01655,P00982,General Medicine,Diagnostics,2025-12-23,Completed
+T01656,P01204,Cardiology,Consultation,2025-01-07,Completed
+T01657,P00857,Orthopedics,Consultation,2025-11-28,Completed
+T01658,P01392,Cardiology,Diagnostics,2026-06-03,Completed
+T01659,P00076,Pediatrics,Therapy,2025-07-13,Pending
+T01660,P00649,Emergency,Medication,2025-11-12,Pending
+T01661,P00650,General Medicine,Medication,2025-01-01,Pending
+T01662,P00496,Cardiology,Medication,2025-03-03,Completed
+T01663,P01546,Emergency,Consultation,2025-12-09,Cancelled
+T01664,P01225,Pediatrics,Medication,2025-01-18,Completed
+T01665,P00830,Pediatrics,Consultation,2026-01-06,Completed
+T01666,P01370,Pediatrics,Therapy,2025-08-23,Completed
+T01667,P00483,Oncology,Diagnostics,2025-03-10,Completed
+T01668,P01243,Dermatology,Diagnostics,2026-03-23,Completed
+T01669,P01084,Oncology,Consultation,2025-01-08,Completed
+T01670,P00991,Emergency,Consultation,2026-04-07,Pending
+T01671,P01683,Orthopedics,Therapy,2025-11-07,Completed
+T01672,P00619,Neurology,Medication,2025-05-14,Completed
+T01673,P00550,Cardiology,Therapy,2026-01-20,Completed
+T01674,P00646,Dermatology,Diagnostics,2025-02-25,Completed
+T01675,P01935,Neurology,Diagnostics,2025-12-26,Completed
+T01676,P01245,Pediatrics,Medication,2025-04-24,Completed
+T01677,P01839,Neurology,Diagnostics,2025-03-29,Completed
+T01678,P01965,Emergency,Consultation,2025-05-18,Pending
+T01679,P00502,Oncology,Diagnostics,2025-04-18,Cancelled
+T01680,P01157,Pediatrics,Surgery,2026-05-15,Pending
+T01681,P00846,Oncology,Medication,2026-06-19,Completed
+T01682,P00053,Dermatology,Medication,2025-05-24,Completed
+T01683,P00450,Pediatrics,Medication,2025-02-25,Completed
+T01684,P00062,General Medicine,Surgery,2025-01-06,Completed
+T01685,P01047,General Medicine,Therapy,2026-06-26,Cancelled
+T01686,P00044,Dermatology,Consultation,2026-03-23,Pending
+T01687,P00820,Emergency,Medication,2026-01-20,Completed
+T01688,P01582,Emergency,Diagnostics,2025-11-03,Completed
+T01689,P00659,Neurology,Consultation,2025-10-29,Pending
+T01690,P00728,Dermatology,Diagnostics,2026-02-09,Completed
+T01691,P00852,Oncology,Consultation,2026-05-25,Completed
+T01692,P00047,Cardiology,Consultation,2025-03-14,Pending
+T01693,P01883,Dermatology,Diagnostics,2025-09-22,Completed
+T01694,P00820,Neurology,Diagnostics,2025-08-15,Completed
+T01695,P01048,Emergency,Consultation,2025-07-12,Completed
+T01696,P01681,Cardiology,Medication,2026-01-09,Completed
+T01697,P00089,Dermatology,Diagnostics,2025-01-10,Completed
+T01698,P01198,Neurology,Surgery,2025-10-29,Completed
+T01699,P01600,Orthopedics,Surgery,2025-12-25,Pending
+T01700,P01143,Oncology,Consultation,2025-02-21,Completed
+T01701,P00735,Orthopedics,Therapy,2025-04-09,Completed
+T01702,P01692,Oncology,Consultation,2025-01-13,Completed
+T01703,P00178,Cardiology,Consultation,2026-01-25,Completed
+T01704,P01019,General Medicine,Medication,2025-12-23,Completed
+T01705,P01856,Oncology,Medication,2025-01-11,Completed
+T01706,P01948,Cardiology,Therapy,2025-03-22,Completed
+T01707,P01366,Neurology,Therapy,2025-09-18,Completed
+T01708,P01592,Pediatrics,Therapy,2025-01-06,Pending
+T01709,P01083,Orthopedics,Therapy,2026-04-03,Completed
+T01710,P00901,Pediatrics,Therapy,2026-01-08,Completed
+T01711,P00438,Orthopedics,Consultation,2026-04-26,Completed
+T01712,P01452,Neurology,Consultation,2025-08-10,Completed
+T01713,P00426,Orthopedics,Surgery,2025-03-22,Completed
+T01714,P00968,Cardiology,Surgery,2026-05-30,Completed
+T01715,P01405,Pediatrics,Diagnostics,2025-03-01,Completed
+T01716,P00486,Emergency,Consultation,2025-08-09,Cancelled
+T01717,P01756,Pediatrics,Therapy,2025-12-15,Completed
+T01718,P01209,Neurology,Diagnostics,2025-08-16,Completed
+T01719,P01583,Emergency,Medication,2025-10-17,Completed
+T01720,P00460,Pediatrics,Consultation,2025-10-20,Completed
+T01721,P01913,Oncology,Surgery,2025-07-12,Completed
+T01722,P00921,Dermatology,Consultation,2026-04-19,Completed
+T01723,P01126,Oncology,Consultation,2025-09-14,Pending
+T01724,P01580,Neurology,Consultation,2026-05-21,Pending
+T01725,P01039,Dermatology,Consultation,2026-01-23,Completed
+T01726,P00748,General Medicine,Medication,2026-02-02,Pending
+T01727,P01897,Cardiology,Surgery,2026-01-01,Completed
+T01728,P00051,Oncology,Consultation,2025-10-17,Completed
+T01729,P00309,Orthopedics,Medication,2025-11-05,Pending
+T01730,P01058,Dermatology,Diagnostics,2025-10-05,Pending
+T01731,P01660,Orthopedics,Consultation,2026-04-09,Completed
+T01732,P01005,Orthopedics,Medication,2025-07-08,Completed
+T01733,P01613,General Medicine,Therapy,2025-06-27,Completed
+T01734,P01928,Cardiology,Diagnostics,2026-06-12,Completed
+T01735,P00635,Pediatrics,Surgery,2026-01-10,Pending
+T01736,P00205,Dermatology,Consultation,2026-03-30,Completed
+T01737,P00740,Pediatrics,Consultation,2025-08-05,Completed
+T01738,P01094,Oncology,Medication,2025-02-11,Completed
+T01739,P01254,Cardiology,Surgery,2025-07-13,Completed
+T01740,P01504,Emergency,Therapy,2025-11-23,Pending
+T01741,P00533,Cardiology,Diagnostics,2026-01-08,Pending
+T01742,P00108,Orthopedics,Surgery,2026-04-10,Completed
+T01743,P00876,Pediatrics,Consultation,2025-06-12,Completed
+T01744,P01265,Cardiology,Medication,2025-10-03,Completed
+T01745,P00251,Pediatrics,Therapy,2025-12-30,Completed
+T01746,P00135,Cardiology,Medication,2026-04-25,Completed
+T01747,P01114,Neurology,Diagnostics,2026-04-05,Completed
+T01748,P01615,Oncology,Surgery,2025-09-22,Completed
+T01749,P01464,Dermatology,Medication,2026-06-23,Completed
+T01750,P00689,Orthopedics,Medication,2026-01-21,Pending
+T01751,P01322,Cardiology,Consultation,2025-03-26,Completed
+T01752,P00407,General Medicine,Medication,2025-11-12,Pending
+T01753,P01332,Cardiology,Therapy,2025-08-31,Completed
+T01754,P00102,Neurology,Surgery,2026-04-14,Pending
+T01755,P01385,Oncology,Diagnostics,2025-12-08,Completed
+T01756,P01871,General Medicine,Medication,2025-06-26,Completed
+T01757,P01648,General Medicine,Therapy,2025-05-10,Completed
+T01758,P00693,Oncology,Diagnostics,2025-03-24,Cancelled
+T01759,P01640,Cardiology,Therapy,2025-12-26,Completed
+T01760,P01552,Neurology,Medication,2025-03-29,Completed
+T01761,P01632,General Medicine,Medication,2026-06-16,Completed
+T01762,P01317,Dermatology,Surgery,2026-04-16,Pending
+T01763,P01170,Orthopedics,Consultation,2026-05-13,Pending
+T01764,P00404,Emergency,Therapy,2026-05-22,Pending
+T01765,P00814,Orthopedics,Consultation,2025-12-20,Pending
+T01766,P01026,Pediatrics,Consultation,2026-02-20,Pending
+T01767,P01143,Pediatrics,Diagnostics,2025-02-20,Completed
+T01768,P00855,Neurology,Diagnostics,2025-03-04,Completed
+T01769,P01630,General Medicine,Therapy,2025-03-30,Completed
+T01770,P01215,Orthopedics,Consultation,2025-07-09,Completed
+T01771,P01027,Orthopedics,Surgery,2025-12-14,Completed
+T01772,P00942,Emergency,Consultation,2026-06-22,Completed
+T01773,P01021,Neurology,Diagnostics,2025-06-25,Completed
+T01774,P01511,Dermatology,Consultation,2025-12-30,Completed
+T01775,P01647,General Medicine,Medication,2026-04-28,Completed
+T01776,P00177,Neurology,Medication,2025-04-29,Completed
+T01777,P01281,Cardiology,Surgery,2025-06-18,Completed
+T01778,P00873,Orthopedics,Therapy,2025-05-27,Completed
+T01779,P01558,Neurology,Consultation,2026-03-13,Pending
+T01780,P00477,Neurology,Medication,2026-03-15,Completed
+T01781,P00398,Emergency,Therapy,2025-07-08,Pending
+T01782,P01520,Dermatology,Medication,2025-06-09,Completed
+T01783,P00220,Cardiology,Therapy,2026-02-06,Completed
+T01784,P00173,Pediatrics,Therapy,2025-01-18,Completed
+T01785,P00736,Orthopedics,Medication,2025-05-20,Completed
+T01786,P01414,Emergency,Diagnostics,2025-04-25,Completed
+T01787,P00502,Dermatology,Therapy,2025-11-24,Completed
+T01788,P01601,Dermatology,Consultation,2025-08-13,Pending
+T01789,P01813,Neurology,Medication,2026-03-15,Pending
+T01790,P00761,Orthopedics,Diagnostics,2026-01-21,Pending
+T01791,P01284,Oncology,Medication,2026-06-05,Cancelled
+T01792,P00131,Pediatrics,Surgery,2025-09-10,Completed
+T01793,P01137,Oncology,Consultation,2025-04-08,Completed
+T01794,P00798,Oncology,Surgery,2025-03-12,Completed
+T01795,P00799,Oncology,Therapy,2026-03-23,Completed
+T01796,P00930,Dermatology,Therapy,2025-03-31,Pending
+T01797,P00723,Neurology,Surgery,2026-03-06,Pending
+T01798,P01044,Dermatology,Surgery,2025-08-07,Pending
+T01799,P00215,Cardiology,Therapy,2025-04-17,Pending
+T01800,P01334,Dermatology,Diagnostics,2026-04-21,Completed
+T01801,P01275,Orthopedics,Consultation,2026-03-30,Completed
+T01802,P00488,Dermatology,Medication,2026-06-28,Completed
+T01803,P01406,Dermatology,Surgery,2025-05-06,Cancelled
+T01804,P01433,Oncology,Consultation,2025-05-27,Pending
+T01805,P01295,Emergency,Medication,2025-10-07,Completed
+T01806,P01958,Cardiology,Medication,2025-01-24,Completed
+T01807,P01431,Pediatrics,Surgery,2025-04-30,Completed
+T01808,P01716,Pediatrics,Diagnostics,2025-10-24,Completed
+T01809,P01218,Orthopedics,Diagnostics,2025-03-23,Pending
+T01810,P01465,Pediatrics,Consultation,2026-03-24,Completed
+T01811,P00313,General Medicine,Consultation,2026-04-15,Completed
+T01812,P00079,Emergency,Therapy,2026-02-27,Completed
+T01813,P00180,Orthopedics,Diagnostics,2026-06-29,Pending
+T01814,P01004,Dermatology,Consultation,2025-01-24,Completed
+T01815,P00675,General Medicine,Therapy,2025-03-02,Completed
+T01816,P01738,Pediatrics,Medication,2025-03-25,Completed
+T01817,P00014,Dermatology,Consultation,2025-08-13,Completed
+T01818,P00859,Orthopedics,Therapy,2025-07-05,Completed
+T01819,P00246,Oncology,Diagnostics,2026-01-10,Pending
+T01820,P01038,General Medicine,Medication,2025-03-13,Pending
+T01821,P00099,Pediatrics,Consultation,2025-03-15,Completed
+T01822,P00033,Neurology,Diagnostics,2025-12-07,Completed
+T01823,P01460,Neurology,Medication,2025-06-02,Pending
+T01824,P00257,Cardiology,Surgery,2025-04-06,Completed
+T01825,P00034,Neurology,Diagnostics,2026-03-21,Completed
+T01826,P00019,Oncology,Surgery,2025-04-20,Completed
+T01827,P01688,General Medicine,Consultation,2026-04-03,Completed
+T01828,P01284,Oncology,Therapy,2025-02-20,Completed
+T01829,P01700,Emergency,Consultation,2026-01-12,Cancelled
+T01830,P00589,Neurology,Diagnostics,2025-03-14,Pending
+T01831,P01850,Orthopedics,Surgery,2025-07-31,Completed
+T01832,P01440,Orthopedics,Surgery,2026-03-08,Completed
+T01833,P00137,Orthopedics,Medication,2025-06-17,Completed
+T01834,P00359,Neurology,Consultation,2025-11-27,Completed
+T01835,P01744,Dermatology,Consultation,2026-05-09,Completed
+T01836,P00754,Oncology,Diagnostics,2025-05-23,Completed
+T01837,P01603,Neurology,Surgery,2026-03-21,Pending
+T01838,P01140,Cardiology,Diagnostics,2026-01-29,Completed
+T01839,P00404,Emergency,Diagnostics,2026-05-27,Pending
+T01840,P01226,Dermatology,Surgery,2025-11-24,Completed
+T01841,P01400,Emergency,Diagnostics,2025-09-16,Completed
+T01842,P00250,Dermatology,Surgery,2026-03-13,Completed
+T01843,P00446,Dermatology,Diagnostics,2025-12-15,Cancelled
+T01844,P00954,Pediatrics,Therapy,2026-05-30,Completed
+T01845,P00278,Cardiology,Diagnostics,2026-03-25,Completed
+T01846,P00112,General Medicine,Diagnostics,2026-02-03,Completed
+T01847,P01987,Orthopedics,Therapy,2025-08-02,Completed
+T01848,P01867,Neurology,Consultation,2026-06-30,Pending
+T01849,P01497,Pediatrics,Surgery,2025-10-16,Completed
+T01850,P00746,Pediatrics,Medication,2025-09-16,Cancelled
+T01851,P00688,Dermatology,Therapy,2025-09-15,Pending
+T01852,P00392,Neurology,Consultation,2026-01-23,Completed
+T01853,P00969,Cardiology,Diagnostics,2026-06-29,Completed
+T01854,P00143,Pediatrics,Consultation,2025-09-22,Completed
+T01855,P01056,Emergency,Therapy,2025-11-09,Cancelled
+T01856,P00181,Cardiology,Diagnostics,2025-02-09,Completed
+T01857,P00579,Neurology,Consultation,2025-07-29,Completed
+T01858,P01540,Dermatology,Medication,2025-09-29,Completed
+T01859,P00798,Cardiology,Surgery,2025-05-16,Completed
+T01860,P00269,Dermatology,Surgery,2025-03-01,Completed
+T01861,P01260,Emergency,Therapy,2026-05-25,Completed
+T01862,P01301,Orthopedics,Diagnostics,2026-05-30,Pending
+T01863,P00553,Dermatology,Diagnostics,2025-01-15,Completed
+T01864,P00633,Dermatology,Surgery,2025-09-12,Completed
+T01865,P00275,Oncology,Consultation,2026-06-19,Pending
+T01866,P00743,Neurology,Diagnostics,2025-08-23,Completed
+T01867,P01840,Emergency,Medication,2025-05-11,Completed
+T01868,P00086,Neurology,Medication,2025-01-17,Completed
+T01869,P01087,Emergency,Diagnostics,2025-07-04,Completed
+T01870,P00404,Emergency,Diagnostics,2026-01-26,Completed
+T01871,P00192,Pediatrics,Surgery,2026-02-27,Completed
+T01872,P01317,Pediatrics,Therapy,2026-03-18,Cancelled
+T01873,P01055,Pediatrics,Surgery,2025-01-12,Completed
+T01874,P01354,Orthopedics,Therapy,2026-06-04,Completed
+T01875,P01682,Orthopedics,Medication,2025-03-21,Completed
+T01876,P00107,Emergency,Therapy,2025-10-29,Pending
+T01877,P01895,General Medicine,Surgery,2025-08-04,Pending
+T01878,P00622,Neurology,Diagnostics,2025-09-05,Completed
+T01879,P00276,Pediatrics,Therapy,2026-06-25,Completed
+T01880,P01746,Neurology,Surgery,2025-09-29,Completed
+T01881,P00651,Dermatology,Medication,2025-05-13,Completed
+T01882,P01622,Emergency,Therapy,2025-01-05,Completed
+T01883,P00556,Cardiology,Medication,2026-06-26,Completed
+T01884,P01106,Emergency,Medication,2025-05-21,Completed
+T01885,P01088,Orthopedics,Consultation,2026-04-28,Completed
+T01886,P01914,General Medicine,Therapy,2025-11-01,Completed
+T01887,P01954,Cardiology,Surgery,2025-12-11,Completed
+T01888,P01879,Neurology,Therapy,2025-09-27,Completed
+T01889,P01857,Orthopedics,Therapy,2025-04-18,Completed
+T01890,P00567,Pediatrics,Medication,2026-04-19,Completed
+T01891,P00586,Cardiology,Medication,2025-03-23,Pending
+T01892,P00885,Orthopedics,Medication,2025-03-25,Completed
+T01893,P00129,Neurology,Medication,2025-10-17,Completed
+T01894,P00256,Emergency,Surgery,2025-03-12,Completed
+T01895,P00934,Neurology,Diagnostics,2025-06-24,Completed
+T01896,P00231,Cardiology,Consultation,2026-04-08,Completed
+T01897,P01521,Oncology,Medication,2026-01-30,Completed
+T01898,P01161,Cardiology,Medication,2025-04-01,Completed
+T01899,P00863,Emergency,Consultation,2026-04-14,Completed
+T01900,P01479,Cardiology,Medication,2026-03-10,Pending
+T01901,P01937,General Medicine,Diagnostics,2025-09-06,Pending
+T01902,P00355,Pediatrics,Therapy,2025-08-29,Cancelled
+T01903,P01648,Orthopedics,Consultation,2026-05-11,Completed
+T01904,P01509,Emergency,Surgery,2025-12-06,Completed
+T01905,P01844,Neurology,Consultation,2026-04-16,Cancelled
+T01906,P00146,Neurology,Diagnostics,2026-04-08,Completed
+T01907,P01983,Pediatrics,Surgery,2025-10-02,Completed
+T01908,P01057,Cardiology,Therapy,2025-01-15,Completed
+T01909,P00260,Cardiology,Medication,2025-02-10,Completed
+T01910,P00087,Neurology,Consultation,2025-07-27,Completed
+T01911,P00843,Pediatrics,Surgery,2025-03-01,Completed
+T01912,P01972,Neurology,Consultation,2025-12-31,Completed
+T01913,P00265,Cardiology,Therapy,2025-08-28,Completed
+T01914,P01856,Emergency,Consultation,2025-06-09,Completed
+T01915,P01566,Orthopedics,Surgery,2026-02-01,Completed
+T01916,P00392,Cardiology,Diagnostics,2026-05-15,Completed
+T01917,P00232,Emergency,Surgery,2025-07-28,Completed
+T01918,P00901,Orthopedics,Consultation,2025-05-13,Completed
+T01919,P00588,Dermatology,Therapy,2026-01-16,Completed
+T01920,P00447,General Medicine,Medication,2026-03-09,Completed
+T01921,P01153,Pediatrics,Medication,2026-01-24,Completed
+T01922,P01295,Emergency,Therapy,2026-03-08,Completed
+T01923,P01113,General Medicine,Consultation,2025-10-01,Completed
+T01924,P00466,Cardiology,Therapy,2025-12-17,Completed
+T01925,P00934,Dermatology,Consultation,2025-05-14,Pending
+T01926,P01194,Pediatrics,Surgery,2025-03-07,Completed
+T01927,P00128,Emergency,Diagnostics,2025-07-24,Completed
+T01928,P01198,Dermatology,Consultation,2025-10-25,Completed
+T01929,P01973,Oncology,Medication,2025-04-27,Completed
+T01930,P01050,Cardiology,Medication,2025-09-24,Cancelled
+T01931,P00573,Pediatrics,Diagnostics,2025-05-29,Cancelled
+T01932,P00511,Oncology,Consultation,2025-07-13,Completed
+T01933,P00488,Pediatrics,Diagnostics,2025-06-28,Completed
+T01934,P00891,Cardiology,Surgery,2025-05-28,Pending
+T01935,P00579,Cardiology,Diagnostics,2026-04-10,Pending
+T01936,P00950,Dermatology,Surgery,2025-01-05,Completed
+T01937,P00406,Dermatology,Medication,2026-06-10,Completed
+T01938,P01050,Emergency,Surgery,2025-10-07,Completed
+T01939,P01107,Pediatrics,Consultation,2026-05-14,Completed
+T01940,P00364,Emergency,Consultation,2026-03-12,Completed
+T01941,P01391,Dermatology,Consultation,2025-08-04,Cancelled
+T01942,P01084,Pediatrics,Consultation,2026-05-30,Pending
+T01943,P00551,Emergency,Therapy,2025-05-17,Completed
+T01944,P01659,Cardiology,Surgery,2025-10-07,Completed
+T01945,P00292,Cardiology,Consultation,2025-05-12,Completed
+T01946,P00789,Oncology,Diagnostics,2026-01-28,Completed
+T01947,P01961,Neurology,Diagnostics,2026-04-26,Completed
+T01948,P01910,Dermatology,Therapy,2026-05-28,Completed
+T01949,P00816,Emergency,Surgery,2026-02-23,Completed
+T01950,P01818,Neurology,Surgery,2025-07-21,Completed
+T01951,P00191,Neurology,Surgery,2026-04-07,Completed
+T01952,P00461,General Medicine,Therapy,2025-07-21,Pending
+T01953,P01828,Pediatrics,Surgery,2025-06-01,Completed
+T01954,P00664,Orthopedics,Surgery,2025-08-10,Completed
+T01955,P01920,General Medicine,Consultation,2025-03-20,Completed
+T01956,P00233,Dermatology,Surgery,2025-07-19,Pending
+T01957,P00474,Oncology,Consultation,2025-04-09,Completed
+T01958,P01429,Pediatrics,Consultation,2025-08-01,Completed
+T01959,P00658,Orthopedics,Surgery,2025-05-23,Completed
+T01960,P00271,Neurology,Diagnostics,2026-01-24,Completed
+T01961,P01871,Oncology,Medication,2026-01-09,Completed
+T01962,P01158,Orthopedics,Diagnostics,2025-02-21,Completed
+T01963,P00171,Cardiology,Surgery,2025-05-15,Completed
+T01964,P01439,Dermatology,Surgery,2026-02-15,Pending
+T01965,P00028,Oncology,Diagnostics,2026-04-15,Completed
+T01966,P00136,Cardiology,Surgery,2025-04-22,Completed
+T01967,P00925,Emergency,Consultation,2026-06-09,Completed
+T01968,P00405,Oncology,Therapy,2025-02-13,Pending
+T01969,P00977,Oncology,Surgery,2026-02-01,Completed
+T01970,P00888,Pediatrics,Surgery,2025-09-18,Completed
+T01971,P01529,General Medicine,Diagnostics,2026-06-29,Completed
+T01972,P01265,Dermatology,Consultation,2026-01-23,Completed
+T01973,P00856,Neurology,Diagnostics,2026-04-21,Pending
+T01974,P01978,Dermatology,Diagnostics,2026-02-14,Pending
+T01975,P00444,Pediatrics,Surgery,2025-01-16,Completed
+T01976,P00434,Oncology,Consultation,2025-04-12,Completed
+T01977,P01252,Neurology,Surgery,2025-07-05,Completed
+T01978,P00509,Cardiology,Surgery,2025-01-25,Completed
+T01979,P01823,Dermatology,Surgery,2025-03-13,Cancelled
+T01980,P01327,General Medicine,Surgery,2025-01-18,Completed
+T01981,P00034,General Medicine,Therapy,2025-11-28,Completed
+T01982,P01026,Cardiology,Medication,2025-04-07,Completed
+T01983,P00362,Orthopedics,Consultation,2025-01-12,Completed
+T01984,P01219,General Medicine,Therapy,2025-01-11,Completed
+T01985,P00606,Orthopedics,Medication,2025-06-12,Pending
+T01986,P01864,Neurology,Medication,2025-10-10,Completed
+T01987,P01332,General Medicine,Medication,2025-08-29,Completed
+T01988,P01671,Emergency,Therapy,2025-02-14,Completed
+T01989,P00716,Oncology,Consultation,2025-09-12,Pending
+T01990,P00250,Cardiology,Diagnostics,2025-03-08,Completed
+T01991,P00147,Oncology,Medication,2025-02-11,Completed
+T01992,P01370,Oncology,Diagnostics,2026-01-19,Completed
+T01993,P00348,Dermatology,Diagnostics,2025-08-22,Completed
+T01994,P01278,Orthopedics,Surgery,2026-04-30,Pending
+T01995,P00399,Emergency,Diagnostics,2025-02-08,Completed
+T01996,P01358,Neurology,Surgery,2025-01-11,Completed
+T01997,P01200,Neurology,Consultation,2026-02-13,Completed
+T01998,P00125,General Medicine,Consultation,2025-04-18,Completed
+T01999,P00763,General Medicine,Surgery,2025-04-04,Completed
+T02000,P00398,Emergency,Consultation,2025-03-25,Pending

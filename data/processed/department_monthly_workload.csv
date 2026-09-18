@@ -1,0 +1,145 @@
+month,department,patient_count
+2025-01,Cardiology,10
+2025-01,Dermatology,22
+2025-01,Emergency,8
+2025-01,General Medicine,16
+2025-01,Neurology,15
+2025-01,Oncology,11
+2025-01,Orthopedics,14
+2025-01,Pediatrics,15
+2025-02,Cardiology,7
+2025-02,Dermatology,13
+2025-02,Emergency,12
+2025-02,General Medicine,18
+2025-02,Neurology,14
+2025-02,Oncology,13
+2025-02,Orthopedics,12
+2025-02,Pediatrics,7
+2025-03,Cardiology,20
+2025-03,Dermatology,20
+2025-03,Emergency,13
+2025-03,General Medicine,21
+2025-03,Neurology,21
+2025-03,Oncology,7
+2025-03,Orthopedics,11
+2025-03,Pediatrics,17
+2025-04,Cardiology,14
+2025-04,Dermatology,18
+2025-04,Emergency,20
+2025-04,General Medicine,14
+2025-04,Neurology,10
+2025-04,Oncology,23
+2025-04,Orthopedics,11
+2025-04,Pediatrics,9
+2025-05,Cardiology,12
+2025-05,Dermatology,15
+2025-05,Emergency,16
+2025-05,General Medicine,15
+2025-05,Neurology,19
+2025-05,Oncology,19
+2025-05,Orthopedics,8
+2025-05,Pediatrics,9
+2025-06,Cardiology,18
+2025-06,Dermatology,14
+2025-06,Emergency,12
+2025-06,General Medicine,9
+2025-06,Neurology,12
+2025-06,Oncology,16
+2025-06,Orthopedics,10
+2025-06,Pediatrics,12
+2025-07,Cardiology,9
+2025-07,Dermatology,12
+2025-07,Emergency,10
+2025-07,General Medicine,11
+2025-07,Neurology,21
+2025-07,Oncology,15
+2025-07,Orthopedics,18
+2025-07,Pediatrics,13
+2025-08,Cardiology,23
+2025-08,Dermatology,18
+2025-08,Emergency,18
+2025-08,General Medicine,13
+2025-08,Neurology,11
+2025-08,Oncology,17
+2025-08,Orthopedics,14
+2025-08,Pediatrics,17
+2025-09,Cardiology,9
+2025-09,Dermatology,12
+2025-09,Emergency,13
+2025-09,General Medicine,14
+2025-09,Neurology,12
+2025-09,Oncology,7
+2025-09,Orthopedics,12
+2025-09,Pediatrics,10
+2025-10,Cardiology,18
+2025-10,Dermatology,16
+2025-10,Emergency,16
+2025-10,General Medicine,14
+2025-10,Neurology,15
+2025-10,Oncology,13
+2025-10,Orthopedics,17
+2025-10,Pediatrics,13
+2025-11,Cardiology,11
+2025-11,Dermatology,13
+2025-11,Emergency,19
+2025-11,General Medicine,19
+2025-11,Neurology,15
+2025-11,Oncology,13
+2025-11,Orthopedics,21
+2025-11,Pediatrics,13
+2025-12,Cardiology,13
+2025-12,Dermatology,13
+2025-12,Emergency,15
+2025-12,General Medicine,17
+2025-12,Neurology,7
+2025-12,Oncology,14
+2025-12,Orthopedics,11
+2025-12,Pediatrics,10
+2026-01,Cardiology,21
+2026-01,Dermatology,15
+2026-01,Emergency,23
+2026-01,General Medicine,18
+2026-01,Neurology,16
+2026-01,Oncology,17
+2026-01,Orthopedics,9
+2026-01,Pediatrics,11
+2026-02,Cardiology,16
+2026-02,Dermatology,8
+2026-02,Emergency,10
+2026-02,General Medicine,13
+2026-02,Neurology,15
+2026-02,Oncology,7
+2026-02,Orthopedics,12
+2026-02,Pediatrics,12
+2026-03,Cardiology,7
+2026-03,Dermatology,14
+2026-03,Emergency,14
+2026-03,General Medicine,17
+2026-03,Neurology,11
+2026-03,Oncology,20
+2026-03,Orthopedics,8
+2026-03,Pediatrics,16
+2026-04,Cardiology,21
+2026-04,Dermatology,12
+2026-04,Emergency,9
+2026-04,General Medicine,12
+2026-04,Neurology,10
+2026-04,Oncology,16
+2026-04,Orthopedics,18
+2026-04,Pediatrics,11
+2026-05,Cardiology,10
+2026-05,Dermatology,13
+2026-05,Emergency,14
+2026-05,General Medicine,14
+2026-05,Neurology,13
+2026-05,Oncology,17
+2026-05,Orthopedics,6
+2026-05,Pediatrics,13
+2026-06,Cardiology,17
+2026-06,Dermatology,14
+2026-06,Emergency,16
+2026-06,General Medicine,17
+2026-06,Neurology,12
+2026-06,Oncology,18
+2026-06,Orthopedics,7
+2026-06,Pediatrics,13
